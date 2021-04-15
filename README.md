@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abel8260
-- 👀 I’m interested in hi-tech technologies 
-- 🌱 I’m currently learning react, mongodb and design SPRINT    
+- 👀 I’m interested in hi-tech technologies     
 - 💞️ I’m looking to collaborate on team 1 of rock studios where im the projetist 
 - 📫 How to reach me:
 - On my portfolio exist a section "contato" there is a way
