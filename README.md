@@ -6,8 +6,12 @@
 
 :books: I’m currently Inbound Marketing and Soft skills.
 
-:outbox_tray: 2021 Goals: finish medi-game.
+:outbox_tray: 2021 Goals: 
+- finish medi-game.
+- learn self-development;
+- and marketing-Inbound.
 
+# ➡️  Comissions:
 > I use PHP, PG-SQL, HTML, CSS, JS. Stack: heroku. I'm entering the market. However, I make apk available for the application. Read-me.md on Github and pretty good. With a picture and everything. Links icons UI, UX. All in one place. Your app will be well worked. With design pattern. SEO strategy available as well. All to leave your impecavel application. Documenting the project on time with several different bases including EAP, ITIL, KPI, PAINEL PDCA, PMBOK, SEO BASICO, SEO TAXAS, SEO social media, SLA , SMART15  and SOW. Value/hour: 11 R$. Locality Fortaleza, Ceará Available Remotely 
 
 
