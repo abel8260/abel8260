@@ -12,7 +12,7 @@
 - and marketing-Inbound.
 
 # ➡️  Comissions:
-> I use PHP, PG-SQL, HTML, CSS, JS. Stack: heroku. I'm entering the market. However, I make apk available for the application. Read-me.md on Github and pretty good. With a picture and everything. Links icons UI, UX. All in one place. Your app will be well worked. With design pattern. SEO strategy available as well. All to leave your impecavel application. Documenting the project on time with several different bases including EAP, ITIL, KPI, PAINEL PDCA, PMBOK, SEO BASICO, SEO TAXAS, SEO social media, SLA , SMART15  and SOW. Value/hour: 11 R$. Locality Fortaleza, Ceará Available Remotely 
+> I use PHP, PG-SQL, HTML, CSS, JS. CLoud: heroku. I'm entering the market. However, I make apk available for the application. Read-me.md on Github and pretty good. With a picture and everything. Links icons UI, UX. All in one place. Your app will be well worked. With design pattern. SEO strategy available as well. All to leave your impecavel application. Documenting the project on time with several different bases including EAP, ITIL, KPI, PAINEL PDCA, PMBOK, SEO BASICO, SEO TAXAS, SEO social media, SLA , SMART15  and SOW. Value/hour: 11 R$. Locality Fortaleza, Ceará Available Remotely 
 
 
 
@@ -31,3 +31,14 @@
 #
 ![Image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+# Refference:
+- https://b64.io/
+- https://meyerweb.com/eric/tools/dencoder/
+- https://digitalinnovation.one/artigos/6-passos-para-criar-um-readme-bonitao-de-perfil-no-github?page=None
+#
+- OTHERS:
+- https://stackoverflow.com/questions/38985050/how-do-i-use-the-logo-option-in-shields-io-badges
+- https://digitalinnovation.one/artigos/6-passos-para-criar-um-readme-bonitao-de-perfil-no-github?page=None
+- https://github.com/anuraghazra/github-readme-stats#themes
+- https://github.com/anuraghazra/github-readme-stats#themes
