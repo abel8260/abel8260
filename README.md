@@ -4,7 +4,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently Inbound Marketing and Soft skills.
 
 :outbox_tray: 2021 Goals: finish medi-game.
 
