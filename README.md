@@ -23,7 +23,7 @@
 > ![progress](https://progress-bar.dev/35/ "progress")
  
 # Curriculum Vitae:
-![Image](https://i.ibb.co/TRyZs0T/curriculo.png)
+![Image](https://i.ibb.co/gwYGxW7/curriculo.png)
 > https://portfolioebol.herokuapp.com/cv-home/index.php
 
 # Newsletter:
