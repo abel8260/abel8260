@@ -55,8 +55,4 @@
 - https://digitalinnovation.one/artigos/6-passos-para-criar-um-readme-bonitao-de-perfil-no-github?page=None
 
 
-# PYTHON:
-- http://inventwithpython.com/invent4thed/
-- http://programarcadegames.com/index.php
-- http://inventwithpython.com/pygame/
-- https://www.pygame.org/wiki/GettingStarted
+
