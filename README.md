@@ -1,5 +1,6 @@
 
 # Abel Barbosa (nerd)
+/ I'm weak. I know most any one knows. But its not about winning or losing. Its about try it. Right here and right now. /   
 :computer: I'm a student, so...wait. 
 
 :house_with_garden: I’m from Brazil.
