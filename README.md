@@ -53,10 +53,9 @@
 # OTHERS:
 - https://stackoverflow.com/questions/38985050/how-do-i-use-the-logo-option-in-shields-io-badges
 - https://digitalinnovation.one/artigos/6-passos-para-criar-um-readme-bonitao-de-perfil-no-github?page=None
-- https://github.com/anuraghazra/github-readme-stats#themes
-- https://github.com/anuraghazra/github-readme-stats#themes
 
-#PYTHON:
+
+# PYTHON:
 - http://inventwithpython.com/invent4thed/
 - http://programarcadegames.com/index.php
 - http://inventwithpython.com/pygame/
