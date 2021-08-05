@@ -41,6 +41,8 @@
 ## Language and tools:  
 ![Image](https://github-readme-stats.vercel.app/api?username=abel8260)
 ![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=abel8260)
+[![stats](https://github-readme-stats.vercel.app/api/wakatime?username=abel8260)](https://github.com/anuraghazra/github-readme-stats)
+
 #
 ![Image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
