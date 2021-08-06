@@ -8,12 +8,13 @@
 :outbox_tray: Goals 2021: 
 
 1. First:(study)
+-
 ================================================================================
 - Priority 5: CS50 in programming games; ![2%](https://progress-bar.dev/2)
 ================================================================================
 - Priority 3: CS50 in programming web games;
 - Priority 2: CS193p in programming web games in swift for ios;
-- Priority 1: Marketing Inbound in RD university; 
+ 
 
 2. After(play) 
 
