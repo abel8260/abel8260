@@ -9,7 +9,7 @@
 
 1. First:(study)
 ================================================================================
-- Priority 5: CS50 in programming games; ![22%](https://progress-bar.dev/22)
+- Priority 5: CS50 in programming games; ![2%](https://progress-bar.dev/2)
 ================================================================================
 - Priority 3: CS50 in programming web games;
 - Priority 2: CS193p in programming web games in swift for ios;
