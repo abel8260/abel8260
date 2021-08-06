@@ -5,7 +5,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:outbox_tray: Goals 2021: 
+# :outbox_tray: Goals 2021: 
 
 1. First:(study)
 #
@@ -16,12 +16,12 @@
 - Priority 2: CS193p in programming web games in swift for ios;
  
 
-2. After(play) 
+# 2. After(play) 
 
 - Priority 4: devlop cv lattes.
 - Priority 3: finish landing-page-odonto;
 
-3. Production:
+# 3. Production:
 
 - Priority 5: produce suco-io.
 - Priority 4: produce f-comco DOCS. 
@@ -29,7 +29,7 @@
 - Priority 2: produce pacific south;
 - Priority 1: produce crafting-web-paper;
 
-4. Comissions:
+# 4. Comissions:
 
 - Priority 5: medi-game. 
 - Priority 4: Landing page ebol. 
