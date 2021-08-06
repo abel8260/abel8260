@@ -7,9 +7,10 @@
 
 :outbox_tray: Goals 201: 
 
-- finish medi-game. 
-- learn self-development; 
-- and Inbound-marketing.                     
+- Priority 4: CS 50 in games; 
+- Priority 4: Marketing Inbound in RD university; 
+- Priority 2: finish medi-game. 
+- Priority 1: and Inbound-marketing.                     
 
 
 # ➡️  Comissions:[OFF]
@@ -42,5 +43,6 @@
 - https://stackoverflow.com/questions/38985050/how-do-i-use-the-logo-option-in-shields-io-badges
 - https://digitalinnovation.one/artigos/6-passos-para-criar-um-readme-bonitao-de-perfil-no-github?page=None
 
-
+# CS50 (Grade 2018):
+- https://cs50.harvard.edu/games/2018/weeks/0/
 
