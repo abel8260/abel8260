@@ -5,11 +5,14 @@
 
 :house_with_garden: I’m from Brazil.
 
-:outbox_tray: Goals 201: 
+:outbox_tray: Goals 2021: 
 
+1. First:
 - Priority 4: CS 50 in games; 
-- Priority 4: Marketing Inbound in RD university; 
-- Priority 2: finish medi-game. 
+
+2. After 
+- Priority 1: Marketing Inbound in RD university; 
+- Priority 1: finish medi-game. 
 - Priority 1: and Inbound-marketing.                     
 
 
