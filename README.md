@@ -31,7 +31,9 @@
 
 # 4. Comissions:
 
+- ============================================================
 - Priority 5: medi-game. 
+- ============================================================
 - Priority 4: Landing page ebol. 
 - Priority 3: asc II art.
 - Priority 2: miniloja virtual;
