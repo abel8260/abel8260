@@ -7,14 +7,32 @@
 
 :outbox_tray: Goals 2021: 
 
-1. First:
-- Priority 4: CS 50 in games; 
-
-2. After 
+1. First:(study)
+- Priority 5: CS50 in programming games; 
+- Priority 3: CS50 in programming web games;
+- Priority 2: CS193p in programming web games in swift for ios;
 - Priority 1: Marketing Inbound in RD university; 
-- Priority 1: finish medi-game. 
-- Priority 1: and Inbound-marketing.                     
 
+2. After(play) 
+
+- Priority 4: devlop cv lattes.
+- Priority 3: finish landing-page-odonto;
+
+3. Production:
+
+- Priority 5: produce suco-io.
+- Priority 4: produce f-comco DOCS. 
+- Priority 3: produce RS.
+- Priority 2: produce pacific south;
+- Priority 1: produce crafting-web-paper;
+
+4. Comissions:
+
+- Priority 5: medi-game. 
+- Priority 4: Landing page ebol. 
+- Priority 3: asc II art.
+- Priority 2: miniloja virtual;
+- Priority 1: fazenda de pomodoro;
 
 # ➡️  Comissions:[OFF]
 > I'm a Full stack developer! Currently, I'm learning Inbound Marketing and Soft skills. Goals 2021:  Commissions: I use PHP, PG-SQL, HTML, CSS, JS. Cloud: heroku. Entering the market. However, I make the apk available for the app. Readme.md on Github is very good. With photo and all. UI, UX icon links. All in one place. Your app will work fine. With design pattern. SEO strategy available too. Everything to make your application flawless.Documenting the project on time with several different bases, including EAP, ITIL, KPI, PDCA PANEL, PMBOK, BASIC SEO, SEO FEES, SEO social media, SLA, SMART15 and SOW. Value / hour: 11 R$. Location Fortaleza, Ceará Available Remotely
