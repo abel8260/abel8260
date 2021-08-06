@@ -32,7 +32,7 @@
 # 4. Comissions:
 
 - ============================================================
-- Priority 5: medi-game. 
+- Priority 5: medi-game. ![35%](https://progress-bar.dev/35)
 - ============================================================
 - Priority 4: Landing page ebol. 
 - Priority 3: asc II art.
