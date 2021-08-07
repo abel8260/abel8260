@@ -49,6 +49,11 @@
 | pd.prj      |    100821   |
 |deploy-status|    110821   | 
 
+![Image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![Image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
 - ============================================================
 - Priority 4: Landing page ebol. 
 - Priority 3: asc II art.
@@ -74,11 +79,6 @@
 ## Language and tools:  
 ![Image](https://github-readme-stats.vercel.app/api?username=abel8260)
 ![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=abel8260)
-
-#
-![Image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
 
 # Refferences:
 - https://b64.io/
