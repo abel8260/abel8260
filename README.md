@@ -18,6 +18,19 @@
 | week0 - exerc  |    120821   |     open    |
 | final - goal   |    301121   |     open    |
 
+- Priority 5: Pong-o-lua; ![9%](https://progress-bar.dev/9)
+
+|      week      |     goal    |    status   | 
+| -------------- | ----------- | ----------- |
+|  initial day   |    060821   |    closed   |
+| week0 - theory |    080821   |     open    |
+| week0 - exerc  |    120821   |     open    |
+| final - goal   |    301121   |     open    |
+
+LINKS:
+- https://github.com/abel8260/ola-first
+- https://abel8260.itch.io/hello-world-in-lua
+
 - LOVE2D:
  > ![Image](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
  > ![Image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
