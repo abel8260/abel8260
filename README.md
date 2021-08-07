@@ -10,7 +10,14 @@
 # 1. First:(study)
 
 - ================================================================================
-- Priority 5: CS50 in programming games; ![2%](https://progress-bar.dev/2)
+- Priority 5: CS50’s Introduction to Game Development; ![2%](https://progress-bar.dev/2)
+
+|      week      |     goal    |
+| -------------- | ----------- |
+| week0 - theory |    080821   |
+| week0 - exerc  |    120821   |
+| final - goal   |    301121   |
+
 - ================================================================================
 - Priority 3: CS50 in programming web games;
 - Priority 2: CS193p in programming web games in swift for ios;
@@ -33,7 +40,7 @@
 
 - ============================================================
 - Priority 5: medi-game. ![35%](https://progress-bar.dev/35)
-- 
+
 | issue       | goal        |
 | ----------- | ----------- |
 |indentaçao 1 |    060821   |
@@ -52,7 +59,8 @@
    
 # Currently project: 
 > medi-game: 35% 
- 
+
+
 # Curriculum Vitae:
 ![Image](https://i.ibb.co/gwYGxW7/curriculo.png)
 > https://portfolioebol.herokuapp.com/cv-home/index.php
