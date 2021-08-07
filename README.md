@@ -9,7 +9,7 @@
 # 1. First:(study)
 
 - ================================================================================
-- Priority 5: GD50’s Introduction to Game Development; ![4%](https://progress-bar.dev/4)
+- Priority 5: GD50’s Introduction to Game Development; ![2%](https://progress-bar.dev/2)
 
 |      week      |     goal    |    status   | 
 | -------------- | ----------- | ----------- |
