@@ -67,6 +67,7 @@
 
 # Newsletter:
 > https://crafting-web-paper.herokuapp.com   
+> study plan:  https://crafting-web-paper.herokuapp.com/models/recuperar-trajeto/index.php
 
 ## Language and tools:  
 ![Image](https://github-readme-stats.vercel.app/api?username=abel8260)
