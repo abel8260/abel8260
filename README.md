@@ -14,7 +14,7 @@
 |      week      |     goal    |    status   | 
 | -------------- | ----------- | ----------- |
 |  initial day   |    050821   |    closed   |
-| week0 - theory |    080821   |     open    |
+| week0 - theory |    080821   |    ![22%](https://progress-bar.dev/22)   |
 | week0 - exerc  |    120821   |     open    |
 | final - goal   |    301121   |     open    |
 
