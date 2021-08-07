@@ -11,12 +11,12 @@
 - ================================================================================
 - Priority 5: CS50’s Introduction to Game Development; ![2%](https://progress-bar.dev/2)
 
-|      week      |     goal    |
-| -------------- | ----------- |
-|  initial day   |    050821   |
-| week0 - theory |    080821   |
-| week0 - exerc  |    120821   |
-| final - goal   |    301121   |
+|      week      |     goal    |    status   | 
+| -------------- | ----------- | ----------- |
+|  initial day   |    050821   |    closed   |
+| week0 - theory |    080821   |     open    |
+| week0 - exerc  |    120821   |     open    |
+| final - goal   |    301121   |     open    |
 
 > ![Image](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 > ![Image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -43,11 +43,11 @@
 - ============================================================
 - Priority 5: medi-game. ![35%](https://progress-bar.dev/35)
 
-| issue       | goal        |
-| ----------- | ----------- |
-|indentaçao 1 |    060821   |
-| pd.prj      |    100821   |
-|deploy-status|    110821   | 
+| issue       | goal        |    status   | 
+| ----------- | ----------- | ----------- |
+|indentaçao 1 |    060821   |    closed   |
+| pd.prj      |    100821   |    open     |
+|deploy-status|    110821   |    open     |
 
 ![Image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
