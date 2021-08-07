@@ -18,10 +18,10 @@
 | week0 - exerc  |    120821   |     open    |
 | final - goal   |    301121   |     open    |
 
- LOVE2D:
+- LOVE2D:
  > ![Image](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
  > ![Image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- Lua(93, Brazil):  
+- Lua(93, Brazil):  
  > ![Image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
  > ![Image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ================================================================================
