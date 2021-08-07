@@ -13,6 +13,7 @@
 
 |      week      |     goal    |
 | -------------- | ----------- |
+|  initial day   |    050821   |
 | week0 - theory |    080821   |
 | week0 - exerc  |    120821   |
 | final - goal   |    301121   |
