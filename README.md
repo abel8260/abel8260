@@ -1,6 +1,6 @@
 
 # Abel Barbosa (DEV)
-> / I'm weak. I know most any one knows. But its not about winning or losing. Its about try it. Right here and right now. _Mumen_RIDER (one punch man)_  /   
+> / No one expects much from a DEV class A+. I know most any one knows. But its not about winning or losing. Its about try it. Right here and right now. _Mumen_RIDER refference (one punch man)_  /   
 
 :house_with_garden: I’m from Brazil.
 
@@ -43,8 +43,10 @@
 - ============================================================
 - Priority 5: medi-game. ![35%](https://progress-bar.dev/35)
 
-| issue       | goal        |    status   | 
+| issue       |     goal    |    status   | 
 | ----------- | ----------- | ----------- |
+| initial day |    060621   |    closed   |
+|FR,BCK & DEV |    110621   |    closed   |
 |indentaçao 1 |    060821   |    closed   |
 | pd.prj      |    100821   |    ![9%](https://progress-bar.dev/9)     |
 |deploy-status|    110821   |    open     |
