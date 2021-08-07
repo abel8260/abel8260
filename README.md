@@ -46,7 +46,7 @@
 | issue       | goal        |    status   | 
 | ----------- | ----------- | ----------- |
 |indentaçao 1 |    060821   |    closed   |
-| pd.prj      |    100821   |    open     |
+| pd.prj      |    100821   |    ![9%](https://progress-bar.dev/9)     |
 |deploy-status|    110821   |    open     |
 
 ![Image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
