@@ -17,6 +17,8 @@
 | week0 - exerc  |    120821   |
 | final - goal   |    301121   |
 
+> ![Image](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+> ![Image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 - ================================================================================
 - Priority 3: CS50x;
 - Priority 2: Stanford's CS193p course, Developing Applications for iOS;
@@ -75,7 +77,7 @@
 #
 ![Image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Image](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
 
 # Refferences:
 - https://b64.io/
