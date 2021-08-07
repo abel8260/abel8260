@@ -1,6 +1,6 @@
 
 # Abel Barbosa (DEV)
-> / No one expects much from a DEV class A+. I know most any one knows. But its not about winning or losing. Its about try it. Right here and right now. _Mumen_RIDER refference (one punch man)_  /   
+> / When no one believes me, I'm work on. _HERO A+ (BHNA REFFERENCE)_  /   
 
 :house_with_garden: I’m from Brazil.
 
