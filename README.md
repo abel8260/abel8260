@@ -84,6 +84,7 @@
 
 # Refferences:
 - https://b64.io/
+- https://www.markdownguide.org/extended-syntax/
 - https://meyerweb.com/eric/tools/dencoder/
 - https://digitalinnovation.one/artigos/6-passos-para-criar-um-readme-bonitao-de-perfil-no-github?page=None
 # OTHERS:
