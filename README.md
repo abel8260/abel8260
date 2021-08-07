@@ -1,7 +1,6 @@
 
 # Abel Barbosa (doctor)
-/ I'm weak. I know most any one knows. But its not about winning or losing. Its about try it. Right here and right now. /   
- I'm the doctor. 
+> / I'm weak. I know most any one knows. But its not about winning or losing. Its about try it. Right here and right now. _Mumen_RIDER (one punch man)_  /   
 
 :house_with_garden: I’m from Brazil.
 
