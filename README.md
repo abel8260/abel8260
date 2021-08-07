@@ -33,6 +33,13 @@
 
 - ============================================================
 - Priority 5: medi-game. ![35%](https://progress-bar.dev/35)
+- 
+| issue       | goal        |
+| ----------- | ----------- |
+|indentaçao 1 |    060821   |
+| pd.prj      |    100821   |
+|deploy-status|    110821   | 
+
 - ============================================================
 - Priority 4: Landing page ebol. 
 - Priority 3: asc II art.
