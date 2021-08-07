@@ -89,6 +89,7 @@
 - https://www.markdownguide.org/extended-syntax/
 - https://meyerweb.com/eric/tools/dencoder/
 - https://digitalinnovation.one/artigos/6-passos-para-criar-um-readme-bonitao-de-perfil-no-github?page=None
+- https://github.com/alexandresanlim/Badges4-README.md-Profile    [new]
 # OTHERS:
 - https://stackoverflow.com/questions/38985050/how-do-i-use-the-logo-option-in-shields-io-badges
 - https://digitalinnovation.one/artigos/6-passos-para-criar-um-readme-bonitao-de-perfil-no-github?page=None
