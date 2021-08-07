@@ -9,23 +9,16 @@
 # 1. First:(study)
 
 - ================================================================================
-- Priority 5: CS50’s Introduction to Game Development; ![3%](https://progress-bar.dev/3)
+- Priority 5: GD50’s Introduction to Game Development; ![3%](https://progress-bar.dev/3)
 
 |      week      |     goal    |    status   | 
 | -------------- | ----------- | ----------- |
 |  initial day   |    050821   |    closed   |
-| week0 - theory |    080821   |    ![35%](https://progress-bar.dev/35)   |
+| week0 - theory |    080821   |    ![43%](https://progress-bar.dev/43)   |
 | week0 - exerc  |    120821   |     open    |
 | final - goal   |    301121   |     open    |
 
-- Priority 5: Pong-o-lua; ![9%](https://progress-bar.dev/9)
 
-|      week      |     goal    |    status   | 
-| -------------- | ----------- | ----------- |
-|  initial day   |    060821   |    closed   |
-| week0 - theory |    080821   |     open    |
-| week0 - exerc  |    120821   |     open    |
-| final - goal   |    301121   |     open    |
 
 LINKS:
 - https://github.com/abel8260/ola-first
