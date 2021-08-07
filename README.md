@@ -19,8 +19,8 @@
 | final - goal   |    301121   |
 
 - ================================================================================
-- Priority 3: CS50 in programming web games;
-- Priority 2: CS193p in programming web games in swift for ios;
+- Priority 3: CS50x;
+- Priority 2: Stanford's CS193p course, Developing Applications for iOS;
  
 
 # 2. After(play) 
