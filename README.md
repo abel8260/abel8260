@@ -10,12 +10,12 @@
 # 1. First:(study)
 
 - ================================================================================
-- Priority 5: CS50’s Introduction to Game Development; ![2%](https://progress-bar.dev/2)
+- Priority 5: CS50’s Introduction to Game Development; ![4%](https://progress-bar.dev/4)
 
 |      week      |     goal    |    status   | 
 | -------------- | ----------- | ----------- |
 |  initial day   |    050821   |    closed   |
-| week0 - theory |    080821   |    ![43%](https://progress-bar.dev/43)   |
+| week0 - theory |    080821   |    closed   |
 | week0 - exerc  |    120821   |     open    |
 | final - goal   |    301121   |     open    |
 
