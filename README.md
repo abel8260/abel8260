@@ -75,8 +75,8 @@ LINKS:
 
 | issue       |     goal    |    status   | 
 | ----------- | ----------- | ----------- |
-| initial day |    070821   |    closed   |
-|  final day  |    140921   |     OPEN    |
+| initial day |    010921   |     OPEN    |
+|  final day  |    011021   |     OPEN    |
 
 - ============================================================
 - Priority 4: Landing page ebol. 
