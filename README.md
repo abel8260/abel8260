@@ -69,7 +69,7 @@ LINKS:
 
 - ============================================================
 
-- Priority 5: Pong-Master  ![35%](https://progress-bar.dev/35)
+- Priority 5: Pong-Master  ![33%](https://progress-bar.dev/33)
 
 | issue       |     goal    |    status   | 
 | ----------- | ----------- | ----------- |
