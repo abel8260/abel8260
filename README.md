@@ -68,6 +68,15 @@ LINKS:
 ![Image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 - ============================================================
+
+- Priority 5: Pong-Master  ![35%](https://progress-bar.dev/35)
+
+| issue       |     goal    |    status   | 
+| ----------- | ----------- | ----------- |
+| initial day |    070821   |    closed   |
+|  final day  |    140921   |     OPEN    |
+
+- ============================================================
 - Priority 4: Landing page ebol. 
 - Priority 3: asc II art.
 - Priority 2: miniloja virtual;
