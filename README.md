@@ -21,7 +21,7 @@
 | week0 - project|    080821   |     open    |
 | week1 - look   |    110821   |     open    |
 | week1 - project|    120821   |     open    |
-| final - goal   |    301121   |     open    |
+| final - goal   |    200921   |     open    |
 
 
 
