@@ -114,6 +114,6 @@ LINKS:
 - https://stackoverflow.com/questions/38985050/how-do-i-use-the-logo-option-in-shields-io-badges
 - https://digitalinnovation.one/artigos/6-passos-para-criar-um-readme-bonitao-de-perfil-no-github?page=None
 
-# CS50 (Grade 2018):
+# CS50’s Introduction to Game Development (Grade 2018):
 - https://cs50.harvard.edu/games/2018/weeks/0/
 
