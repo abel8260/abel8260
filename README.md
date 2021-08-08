@@ -1,11 +1,14 @@
 
 # Abel Barbosa (DEV Class A+)
+***
 ## M.D.(motivation diary)
-- / You are a bird. Birds flies. Dont stay on the ground. So fly... - _Hawks(BNHA REFFERENCE)_ /       
-- / No one expects much from me. I know more than any one. But is not about winning or losing. Its stands here right here and right now. _(ONE PUNCH MAN ANIME - CHAR: mumen rider)_          
-- / When no one believes me, I'm work on. _HERO A+ (BHNA REFFERENCE)_  /  
-- / You dont build the best single wall that  even been build. You dont start there. You start this: I lay  this brick how perfect can be placed and you do that again and  again. And  in soon you have a wall.-  _Will Smith_                 
+  
+- / You dont build the best single wall that  even been build. You dont start there. You start this: I lay  this brick how perfect can be placed and you do that again and  again. And  in soon you have a wall.-  _Will Smith_
+
 #
+
+***                 
+
 
 # :outbox_tray: Goals 2021: 
 
@@ -14,7 +17,13 @@
 - ================================================================================
 - Priority 5: CS50’s Introduction to Game Development; ![4%](https://progress-bar.dev/4)
 - ================================================================================
-LINKS:
+
+|     goal    |     date    |     date    |
+| ----------- | ----------- | ----------- |
+|  week0 look |  0908-1208  |     open    |
+|  week0 proj |  1308-1608  |     open    |
+
+- LINKS:
 - https://github.com/abel8260/ola-first
 - https://abel8260.itch.io/hello-world-in-lua
 - ================================================
@@ -60,16 +69,7 @@ LINKS:
 ![Image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-- ============================================================
 
-- Priority 5: Pong-Master  ![33%](https://progress-bar.dev/33)
-
-| issue       |    status   | 
-| ----------- | ----------- |
-| initial day |     OPEN    |
-|  final day  |     OPEN    |
-
-- ============================================================
 - Priority 4: Landing page ebol. 
 - Priority 3: asc II art.
 - Priority 2: miniloja virtual;
@@ -82,6 +82,11 @@ LINKS:
 # Currently project: 
 > medi-game: 35% 
 
+
+# Games projects:
+- ============================================================
+- Priority 5: Pong-Master  ![33%](https://progress-bar.dev/33)
+- ============================================================
 
 # Curriculum Vitae:
 ![Image](https://i.ibb.co/gwYGxW7/curriculo.png)
