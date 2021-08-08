@@ -13,18 +13,7 @@
 
 - ================================================================================
 - Priority 5: CS50’s Introduction to Game Development; ![4%](https://progress-bar.dev/4)
-
-|      week      |     goal    |    status   | 
-| -------------- | ----------- | ----------- |
-|  initial day   |    050821   |    closed   |
-| week0 - look   |    070821   |    closed   |
-| week0 - project|    080821   |     open    |
-| week1 - look   |    110821   |     open    |
-| week1 - project|    120821   |     open    |
-| final - goal   |    200921   |     open    |
-
-
-
+- ================================================================================
 LINKS:
 - https://github.com/abel8260/ola-first
 - https://abel8260.itch.io/hello-world-in-lua
@@ -58,13 +47,13 @@ LINKS:
 - ============================================================
 - Priority 5: medi-game. ![35%](https://progress-bar.dev/35)
 
-| issue       |     goal    |    status   | 
-| ----------- | ----------- | ----------- |
-| initial day |    060621   |    closed   |
-|FR,BCK & DEV |    110621   |    closed   |
-|indentaçao 1 |    060821   |    closed   |
-| pd.prj      |    100821   |    ![9%](https://progress-bar.dev/9)     |
-|deploy-status|    110821   |    open     |
+| issue       |     status   | 
+| ----------- |  ----------- |
+| initial day |     closed   |
+|FR,BCK & DEV |     closed   |
+|indentaçao 1 |     closed   |
+| pd.prj      |     ![9%](https://progress-bar.dev/9)     |
+|deploy-status|     open     |
 
 ![Image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -75,10 +64,10 @@ LINKS:
 
 - Priority 5: Pong-Master  ![33%](https://progress-bar.dev/33)
 
-| issue       |     goal    |    status   | 
-| ----------- | ----------- | ----------- |
-| initial day |    010921   |     OPEN    |
-|  final day  |    011021   |     OPEN    |
+| issue       |    status   | 
+| ----------- | ----------- |
+| initial day |     OPEN    |
+|  final day  |     OPEN    |
 
 - ============================================================
 - Priority 4: Landing page ebol. 
