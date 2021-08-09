@@ -61,7 +61,7 @@
 | initial day |     closed   |  050721  |
 |FR,BCK & DEV |     closed   |  260721  |
 |indentaçao 1 |     closed   |  060821  |
-| pd.prj      |     ![9%](https://progress-bar.dev/9)     |  100821  |
+| pd.prj      |     ![33%](https://progress-bar.dev/33)     |  100821  |
 |deploy-status|     open     |  110821  |
 
 ![Image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
