@@ -58,7 +58,7 @@
 
 | issue       |     status   |   date   |
 | ----------- |  ----------- |  ------- |
-| initial day |     closed   |  050721  |
+| initial day |     closed   |  040621  |
 |FR,BCK & DEV |     closed   |  260721  |
 |indentaçao 1 |     closed   |  060821  |
 | pd.prj      |     ![66%](https://progress-bar.dev/66)     |  100821  |
@@ -68,7 +68,7 @@
 ![Image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-
+![Image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 - Priority 4: Landing page ebol. 
 - Priority 3: asc II art.
