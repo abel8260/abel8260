@@ -45,11 +45,12 @@
 
 # 3. Production:
 
+- Priority 6: produce crafting-web-paper;
 - Priority 5: produce suco-io.
-- Priority 4: produce f-comco DOCS. 
+- Priority 4: produce f-comco. 
 - Priority 3: produce RS.
 - Priority 2: produce pacific south;
-- Priority 1: produce crafting-web-paper;
+
 
 # 4. Comissions:
 
