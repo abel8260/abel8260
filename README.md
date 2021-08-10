@@ -44,11 +44,12 @@
 - Priority 3: finish landing-page-odonto;
 
 # 3. Production:
-
-- Priority 6: produce crafting-we5-paper;
+- ==============================================
+- Priority 6: produce RS.
+- ==============================================
+- Priority 7: produce crafting-web-paper;
 - Priority 5: produce suco-io.
 - Priority 4: produce f-comco. 
-- Priority 3: produce RS.
 - Priority 2: produce pacific south;
 
 
@@ -62,7 +63,7 @@
 | initial day |     closed   |  040621  |
 |FR,BCK & DEV |     closed   |  260721  |
 |indentaçao 1 |     closed   |  060821  |
-| pd.prj      |     ![93%](https://progress-bar.dev/93)     |  130821  |
+| pd.prj      |     ![94%](https://progress-bar.dev/94)     |  130821  |
 |deploy-status|     open     |  150821  |
 
 ![Image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
