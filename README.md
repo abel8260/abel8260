@@ -1,5 +1,5 @@
 
-# Abel Barbosa (DEV Class A+)
+# Abel Barbosa (DEV)
 ***
 ## M.D.(motivation diary)
   
