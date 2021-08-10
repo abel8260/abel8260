@@ -18,10 +18,10 @@
 - Priority 5: CS50’s Introduction to Game Development; ![4%](https://progress-bar.dev/4)
 - ================================================================================
 
-|     goal    |     date    |     date    |
-| ----------- | ----------- | ----------- |
-|  week0 look |  0908-1908  |     open    |
-|  week0 proj |  2008-2708  |     open    |
+|     goal    |     date    |     date    |     progress    |
+| ----------- | ----------- | ----------- | ----------- |
+|  week0 look |  0908-1908  |     open    | ![33%](https://progress-bar.dev/33) |
+|  week0 proj |  2008-2708  |     open    |     open    |
 
 - LINKS:
 - https://github.com/abel8260/ola-first
