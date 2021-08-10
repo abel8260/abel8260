@@ -45,7 +45,7 @@
 
 # 3. Production:
 - ==============================================
-- Priority 6: produce RS.
+- Priority 6: produce RS. (https://sigdu-kingdom.herokuapp.com/)
 - ==============================================
 - Priority 7: produce crafting-web-paper;
 - Priority 5: produce suco-io.
@@ -98,6 +98,10 @@
 - Priority 6: Pong-in-LUA (https://abel8260.itch.io/pong-in-lua)
 - ============================================================
 ***
+- ==============================================
+- Priority 6: Reinos de sigdu. (https://sigdu-kingdom.herokuapp.com/)
+- ==============================================
+***
 # Curriculum Vitae:
 ![Image](https://i.ibb.co/gwYGxW7/curriculo.png)
 > https://portfolioebol.herokuapp.com/cv-home/index.php
@@ -123,3 +127,4 @@
 # CS50’s Introduction to Game Development (Grade 2018):
 - https://cs50.harvard.edu/games/2018/weeks/0/
 
+ (
