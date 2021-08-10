@@ -45,9 +45,10 @@
 
 # 3. Production:
 - ==============================================
+- Priority 7: produce crafting-web-paper; (https://crafting-web-paper.herokuapp.com)     
+- ==============================================
 - Priority 6: produce RS. (https://sigdu-kingdom.herokuapp.com/)
 - ==============================================
-- Priority 7: produce crafting-web-paper;
 - Priority 5: produce suco-io.
 - Priority 4: produce f-comco. 
 - Priority 2: produce pacific south;
@@ -127,4 +128,4 @@
 # CS50’s Introduction to Game Development (Grade 2018):
 - https://cs50.harvard.edu/games/2018/weeks/0/
 
- (
+ 
