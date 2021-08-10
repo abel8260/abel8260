@@ -88,10 +88,15 @@
 
 
 # Games projects:
+***
 - ============================================================
-- Priority 5: Pong-Master  ![33%](https://progress-bar.dev/33)
+- Priority 1: Pong-Master  ![33%](https://progress-bar.dev/33)
 - ============================================================
-
+***
+- ============================================================
+- Priority 6: Pong-in-LUA (https://abel8260.itch.io/pong-in-lua)
+- ============================================================
+***
 # Curriculum Vitae:
 ![Image](https://i.ibb.co/gwYGxW7/curriculo.png)
 > https://portfolioebol.herokuapp.com/cv-home/index.php
