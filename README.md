@@ -21,7 +21,7 @@
 |     goal    |     date    |     date    |
 | ----------- | ----------- | ----------- |
 |  week0 look |  0908-1908  |     open    |
-|  week0 proj |  2008-2308  |     open    |
+|  week0 proj |  2008-2708  |     open    |
 
 - LINKS:
 - https://github.com/abel8260/ola-first
