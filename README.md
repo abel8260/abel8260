@@ -45,7 +45,7 @@
 
 # 3. Production:
 - ==============================================
-- Priority 7: produce crafting-web-paper; (https://crafting-web-paper.herokuapp.com)     
+- Priority 7: produce crafting-web-paper.(https://crafting-web-paper.herokuapp.com)     
 - ==============================================
 - Priority 6: produce RS. (https://sigdu-kingdom.herokuapp.com/)
 - ==============================================
@@ -57,14 +57,14 @@
 # 4. Comissions:
 
 - ============================================================
-- Priority 5: medi-game. ![35%](https://progress-bar.dev/35)
+- Priority 5: medi-game. ![44%](https://progress-bar.dev/44
 
 | issue       |     status   |   date   |
 | ----------- |  ----------- |  ------- |
 | initial day |     closed   |  040621  |
 |FR,BCK & DEV |     closed   |  260721  |
 |indentaçao 1 |     closed   |  060821  |
-|design pattern|     ![94%](https://progress-bar.dev/94)     |  130821  |
+|design pattern|    |  130821  |
 |deploy-status|     open     |  150821  |
 
 ![Image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
