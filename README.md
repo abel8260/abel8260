@@ -57,7 +57,7 @@
 # 4. Comissions:
 
 - ============================================================
-- Priority 5: medi-game. ![44%](https://progress-bar.dev/44
+- Priority 5: medi-game. ![44%](https://progress-bar.dev/44)
 
 | issue       |     status   |   date   |
 | ----------- |  ----------- |  ------- |
