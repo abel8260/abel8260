@@ -18,7 +18,7 @@
 - Priority 5: CS50’s Introduction to Game Development; ![4%](https://progress-bar.dev/4)
 - ================================================================================
 - LINKS:
-- https://github.com/abel8260/pong-in-LUA
+- https://github.com/abel8260/pongmaster
 - https://abel8260.itch.io/pongmaster
 - ================================================
 - LOVE2D:
@@ -99,8 +99,8 @@
 |   scratch   |  2008-2708  |     open    | ![33%](https://progress-bar.dev/33)   |
 - ================================================================================
 - LINKS:
-- https://github.com/abel8260/pong-in-LUA
-- https://abel8260.itch.io/hello-world-in-lua
+- https://github.com/abel8260/pongmaster
+- https://abel8260.itch.io/pongmaster
 - ================================================
 ***
 - ==============================================
