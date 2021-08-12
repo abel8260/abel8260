@@ -19,7 +19,7 @@
 - ================================================================================
 - LINKS:
 - https://github.com/abel8260/ola-first
-- https://abel8260.itch.io/hello-world-in-lua
+- https://abel8260.itch.io/pongmaster
 - ================================================
 - LOVE2D:
  > ![Image](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
@@ -90,11 +90,9 @@
 # Games projects:
 ***
 - ============================================================
-- Priority 1: Pong-Master  ![33%](https://progress-bar.dev/33)
+- Priority 6: Pong-Master  ![33%](https://progress-bar.dev/3
 - ============================================================
-***
-- ============================================================
-- Priority 6: Pong-master (https://abel8260.itch.io/pong-in-lua)
+- Priority 6: Pong-master (https://abel8260.itch.io/pongmaster)
 |     goal    |     date    |     date    |     progress    |
 | ----------- | ----------- | ----------- | ----------- |
 |  week0 look |  0908-1908  |     open    | ![23%](https://progress-bar.dev/23) |
@@ -104,7 +102,6 @@
 - https://github.com/abel8260/ola-first
 - https://abel8260.itch.io/hello-world-in-lua
 - ================================================
-- 
 ***
 - ==============================================
 - Priority 6: Reinos de sigdu. (https://sigdu-kingdom.herokuapp.com/)
