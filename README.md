@@ -15,11 +15,14 @@
 # 1. First:(study)
 
 
-- Priority 5: CS50’s Introduction to Game Development; 
+- Priority 5: CS50’s Introduction to Game Development;
+-  
 - Priority 4: CS50x;
 - Priority 3: Stanford's CS193p course, Developing Applications for iOS;
  
-
+***
+- Portfolio from studies: (https://abel8260.github.io/nerdtubo/)
+***
 # 2. After(play) 
 
 - Priority 4: devlop cv lattes.
