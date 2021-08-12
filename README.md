@@ -65,7 +65,9 @@
 |FR,BCK & DEV |     closed   |  260721  |
 |indentaçao 1 |     closed   |  060821  |
 |design pattern|    closed   |  110821  |
-|deploy-status|     open     |  150821  |
+|deploy-status|     closed   |  110821  |
+|indentaçao 2 |     open     |  120821  |
+|indentaçao 3 |     open     |  150821  |
 
 ![Image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
