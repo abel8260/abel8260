@@ -15,11 +15,9 @@
 # 1. First:(study)
 
 
-- Priority 5: CS50’s Introduction to Game Development; ![4%](https://progress-bar.dev/4)
-
-
-- Priority 3: CS50x;
-- Priority 2: Stanford's CS193p course, Developing Applications for iOS;
+- Priority 5: CS50’s Introduction to Game Development; 
+- Priority 4: CS50x;
+- Priority 3: Stanford's CS193p course, Developing Applications for iOS;
  
 
 # 2. After(play) 
