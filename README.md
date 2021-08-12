@@ -14,20 +14,10 @@
 
 # 1. First:(study)
 
-- ================================================================================
+
 - Priority 5: CS50’s Introduction to Game Development; ![4%](https://progress-bar.dev/4)
-- ================================================================================
-- LINKS:
-- https://github.com/abel8260/pongmaster
-- https://abel8260.itch.io/pongmaster
-- ================================================
-- LOVE2D:
- > ![Image](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
- > ![Image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- Lua(93, Brazil):  
- > ![Image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
- > ![Image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ================================================================================
+
+
 - Priority 3: CS50x;
 - Priority 2: Stanford's CS193p course, Developing Applications for iOS;
  
@@ -84,7 +74,7 @@
 ***
 
 # Currently project: 
-> medi-game: 35% 
+> medi-game: 44% 
 
 
 # Games projects:
@@ -102,6 +92,13 @@
 - https://github.com/abel8260/pongmaster
 - https://abel8260.itch.io/pongmaster
 - ================================================
+- LOVE2D:
+ > ![Image](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+ > ![Image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- Lua(93, Brazil):  
+ > ![Image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+ > ![Image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ================================================================================
 ***
 - ==============================================
 - Priority 6: Reinos de sigdu. (https://sigdu-kingdom.herokuapp.com/)
