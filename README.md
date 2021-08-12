@@ -17,12 +17,6 @@
 - ================================================================================
 - Priority 5: CS50’s Introduction to Game Development; ![4%](https://progress-bar.dev/4)
 - ================================================================================
-
-|     goal    |     date    |     date    |     progress    |
-| ----------- | ----------- | ----------- | ----------- |
-|  week0 look |  0908-1908  |     open    | ![33%](https://progress-bar.dev/33) |
-|  week0 proj |  2008-2708  |     open    |     open    |
-
 - LINKS:
 - https://github.com/abel8260/ola-first
 - https://abel8260.itch.io/hello-world-in-lua
@@ -100,8 +94,17 @@
 - ============================================================
 ***
 - ============================================================
-- Priority 6: Pong-in-LUA (https://abel8260.itch.io/pong-in-lua)
-- ============================================================
+- Priority 6: Pong-master (https://abel8260.itch.io/pong-in-lua)
+|     goal    |     date    |     date    |     progress    |
+| ----------- | ----------- | ----------- | ----------- |
+|  week0 look |  0908-1908  |     open    | ![23%](https://progress-bar.dev/23) |
+|   scratch   |  2008-2708  |     open    | ![33%](https://progress-bar.dev/33)   |
+- ================================================================================
+- LINKS:
+- https://github.com/abel8260/ola-first
+- https://abel8260.itch.io/hello-world-in-lua
+- ================================================
+- 
 ***
 - ==============================================
 - Priority 6: Reinos de sigdu. (https://sigdu-kingdom.herokuapp.com/)
