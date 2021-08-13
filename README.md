@@ -43,7 +43,7 @@
 # 4. Comissions:
 
 - ============================================================
-- Priority 5: medi-game. ![44%](https://progress-bar.dev/44)
+- Priority 5: medi-game. ![50%](https://progress-bar.dev/50)
 
 | issue       |     status   |   date   |
 | ----------- |  ----------- |  ------- |
@@ -83,7 +83,7 @@
 ***
 - ============================================================
 - Priority 6: Pong-Master  ![0%](https://progress-bar.dev/0)
-- ============================================================
+***
 - Priority 6: Pong-master (https://abel8260.itch.io/pongmaster)
 - 
 |     goal    |     date    |     date    |     progress    |
