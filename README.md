@@ -10,22 +10,24 @@
 
 # :outbox_tray: Goals 2021: 
 
-# 1. First:(study)
+# 1. First:(work) 
+- Priority 5: produces course programming on cellphone; 
+- Priority 4: devlop cv lattes.
+- Priority 3: finish landing-page-odonto;
+O.B.S: For physical problems in the hardware the priorities changed. 
 
+# 2. After(study) 
 ****
-- Priority 5: CS50’s Introduction to Game Development;
+- Priority 2: CS50’s Introduction to Game Development;
 - ![38%](https://progress-bar.dev/38) lecture 0
 ***
-- Priority 4: CS50x;
-- Priority 3: Stanford's CS193p course, Developing Applications for iOS;
+- Priority 1.5: CS50x;
+- Priority 1: Stanford's CS193p course, Developing Applications for iOS;
  
 ***
 - Portfolio from studies: (https://abel8260.github.io/nerdtubo/)
 ***
-# 2. After(play) 
 
-- Priority 4: devlop cv lattes.
-- Priority 3: finish landing-page-odonto;
 
 # 3. Production:
 - ==============================================
@@ -35,7 +37,7 @@
 - ==============================================
 - Priority 5: produce suco-io.
 - Priority 4: produce f-comco. 
-- Priority 2: produce pacific south;
+
 
 
 # 4. Comissions:
