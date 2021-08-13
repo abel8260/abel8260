@@ -5,8 +5,6 @@
   
 - / You dont build the best single wall that  even been build. You dont start there. You start this: I lay  this brick how perfect can be placed and you do that again and  again. And  in soon you have a wall.-  _Will Smith_
 
-#
-
 ***                 
 
 
