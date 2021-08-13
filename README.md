@@ -16,7 +16,7 @@
 
 ****
 - Priority 5: CS50’s Introduction to Game Development;
-- ![38%](https://progress-bar.dev/38)
+- ![38%](https://progress-bar.dev/38) lecture 0
 ***
 - Priority 4: CS50x;
 - Priority 3: Stanford's CS193p course, Developing Applications for iOS;
@@ -52,8 +52,8 @@
 |indentaçao 1 |     closed   |  060821  |
 |design pattern|    closed   |  110821  |
 |deploy-status|     closed   |  110821  |
-|indentaçao 2 |     open     |  120821  |
-|indentaçao 3 |     open     |  150821  |
+|   smart15   |     closed   |  120821  |
+|indentaçao 3 |     open     |  170821  |
 
 ![Image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
