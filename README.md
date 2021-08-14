@@ -34,9 +34,9 @@
 
 # :mortar_board: 2.Study goals:
 ***
-- CS50’s Introduction to Game Development
-- CS50x
-- CS193p course, Developing Applications for iOS
+- CS50’s Introduction to Game Development  :star: :star: :star: :star: :star:
+- CS50x  :star: :star: :star: :star: :star:
+- CS193p course, Developing Applications for iOS  :star: :star: :star: :star: :star:
 ***
 
 ***
