@@ -27,9 +27,6 @@
 - A repo with my documentation and goals with dates and so on.        
 ***
 
-# :hammer: 1.Work:
-
-
 # :envelope: 1. Newletter:
 ***
 - Name: crafting  web and paper   
