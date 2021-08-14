@@ -31,7 +31,7 @@
 # :blue_book: 3. My own sideprojects:
 
 ***
-- Site: (https://medi-game.herokuapp.com/)
+- Site: (https://medi-game.herokuapp.com/) :star: :star: :star: :star: :star:
 - Repo: (https://github.com/abel8260/medi-game) :star: :star: :star: :star: :star:
 - A  game about meditation, to more info read the documentation on the repo here in the github.            
 ***
