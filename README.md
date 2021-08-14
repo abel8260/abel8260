@@ -10,21 +10,44 @@
 
 # :hammer: 1.Work:
 ***
-- Site: (https://grupo-fs-pacificsouth.herokuapp.com)
+- Site: (https://grupo-fs-pacificsouth.herokuapp.com) :star: :star: :star: :star: :star:
 - A full site of programming languages       
 ***
 
 # :envelope: 1.5. Newletter:
 ***
-- Site: (https://crafting-web-paper.herokuapp.com/src/home/index.php)
+- Site: (https://crafting-web-paper.herokuapp.com/src/home/index.php) :star: :star: :star: :star: :star:
 - A site about the news in the 2 ORG's that i admin.            
 ***
 
 # :mortar_board: 2.Study goals:
 ***
-- Portfolio of studies: (https://abel8260.github.io/nerdtubo/)
+- Portfolio of studies: (https://abel8260.github.io/nerdtubo/) :star: :star: :star: :star: :star:
 - CS50’s Introduction to Game Development
 - CS50x
 - CS193p course, Developing Applications for iOS
 ***
  
+# :blue_book: 3. My own sideprojects:
+
+***
+- Site: (https://medi-game.herokuapp.com/)
+- Repo: (https://github.com/abel8260/medi-game) :star: :star: :star: :star: :star:
+- A  game about meditation, to more info read the documentation on the repo here in the github.            
+***
+
+
+# 4. Hobby:
+
+***
+- Site: (https://koppapercraft.herokuapp.com/) :star: :star: :star: :star: :star:
+- This is the site about my creation on my hobby.            
+***
+
+
+# :sparkles: 5. Purpose:
+
+***
+- Site: (https://koppapercraft.herokuapp.com/) :star: :star: :star: :star: :star:
+- This is the site about my creation on my hobby.            
+***
