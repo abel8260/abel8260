@@ -28,13 +28,9 @@
 ***
 
 # :hammer: 1.Work:
-***
-- Name: group pacific south;  
-- Site: (https://grupo-fs-pacificsouth.herokuapp.com) :star: :star: :star: :star: :star:
-- A full site of programming languages       
-***
 
-# :envelope: 1.5. Newletter:
+
+# :envelope: 1. Newletter:
 ***
 - Name: crafting  web and paper   
 - Site: (https://crafting-web-paper.herokuapp.com/src/home/index.php) :star: :star: :star: :star: :star:
@@ -60,6 +56,12 @@
 - Site: (https://medi-game.herokuapp.com/) :star: :star: :star: :star: :star:
 - Repo: (https://github.com/abel8260/medi-game) :star: :star: :star: :star: :star:
 - A  game about meditation, to more info read the documentation on the repo here in the github.            
+***
+
+***
+- Name: group pacific south;  
+- Site: (https://grupo-fs-pacificsouth.herokuapp.com) :star: :star: :star: :star: :star:
+- A full site of programming languages       
 ***
 
 ***
