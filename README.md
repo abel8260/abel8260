@@ -15,8 +15,11 @@
 ***
 
 # :outbox_tray: 0. 2021 Goals: 
-
-
+***
+- Name: Rock studios transpanrecy;  
+- Project: (https://github.com/users/abel8260/projects/1) :star: :star: :star: :star: :star:
+- A project with the workflow of the acconts.        
+***
 
 # :hammer: 1.Work:
 ***
