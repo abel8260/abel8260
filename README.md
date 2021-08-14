@@ -26,8 +26,16 @@
 - Repo: (https://github.com/abel8259/production) :star: :star: :star: :star: :star:
 - A repo with my documentation and goals with dates and so on.        
 ***
+# :hammer: 1. Work:
 
-# :envelope: 1. Newletter:
+
+***
+- Name: group pacific south;  
+- Site: (https://grupo-fs-pacificsouth.herokuapp.com) :star: :star: :star: :star: :star:
+- A full site of programming languages       
+***
+
+# :envelope: 1.5. Newletter:
 ***
 - Name: crafting  web and paper   
 - Site: (https://crafting-web-paper.herokuapp.com/src/home/index.php) :star: :star: :star: :star: :star:
@@ -53,12 +61,6 @@
 - Site: (https://medi-game.herokuapp.com/) :star: :star: :star: :star: :star:
 - Repo: (https://github.com/abel8260/medi-game) :star: :star: :star: :star: :star:
 - A  game about meditation, to more info read the documentation on the repo here in the github.            
-***
-
-***
-- Name: group pacific south;  
-- Site: (https://grupo-fs-pacificsouth.herokuapp.com) :star: :star: :star: :star: :star:
-- A full site of programming languages       
 ***
 
 ***
