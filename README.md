@@ -1,22 +1,15 @@
 
-# Abel Barbosa (DEV)
-***
-## M.D.(motivation diary)
-  
-- / You dont build the best single wall that  even been build. You dont start there. You start this: I lay  this brick how perfect can be placed and you do that again and  again. And  in soon you have a wall.-  _Will Smith_
-
-***                 
-
-# Currently project: 
-> medi-game: 44% 
-
-
+# Abel Barbosa (DEV)        
 
  
 ***
 - Portfolio from studies: (https://abel8260.github.io/nerdtubo/)
 ***
 
+
+***
+- Portfolio from all of it: (https://portfolioebol.herokuapp.com/)
+***
 
 # Newsletter:
 > https://crafting-web-paper.herokuapp.com   
@@ -26,7 +19,6 @@
 #  Sideprojects:
 
 - ============================================================
-- Priority 5: medi-game.
 - Priority 4: Landing page ebol. 
 - Priority 3: asc II art.
 - Priority 2: miniloja virtual;
@@ -63,6 +55,8 @@
 -  Reinos de sigdu. (https://sigdu-kingdom.herokuapp.com/)
 - ==============================================
 ***
+
+
 # Curriculum Vitae:
 ![Image](https://i.ibb.co/gwYGxW7/curriculo.png)
 > https://portfolioebol.herokuapp.com/cv-home/index.php
