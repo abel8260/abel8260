@@ -7,12 +7,12 @@
 # :hammer: Work:
 - Site: (https://grupo-fs-pacificsouth.herokuapp.com)
 - A full site of programming languages       
-#
+***
 
 # :mortar_board: Study goals:
 - Portfolio of studies: (https://abel8260.github.io/nerdtubo/)
 - CS50’s Introduction to Game Development
 - CS50x
 - CS193p course, Developing Applications for iOS
-#
+***
  
