@@ -21,6 +21,12 @@
 - A project with the workflow of the acconts.        
 ***
 
+***
+- Name: Rock studios transpanrecy 2;  
+- Repo: (https://github.com/abel8259/production) :star: :star: :star: :star: :star:
+- A repo with my documentation and goals with dates and so on.        
+***
+
 # :hammer: 1.Work:
 ***
 - Name: group pacific south;  
