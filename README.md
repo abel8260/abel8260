@@ -13,11 +13,13 @@
 - Site: (https://grupo-fs-pacificsouth.herokuapp.com)
 - A full site of programming languages       
 ***
+
 # :envelope: Newletter:
 ***
-- Site: (https://grupo-fs-pacificsouth.herokuapp.com)
-- A full site of programming languages       
+- Site: (https://crafting-web-paper.herokuapp.com/src/home/index.php)
+- A site about the news in the 2 ORG's that i admin.            
 ***
+
 # :mortar_board: 2.Study goals:
 ***
 - Portfolio of studies: (https://abel8260.github.io/nerdtubo/)
