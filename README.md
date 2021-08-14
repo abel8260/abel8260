@@ -110,5 +110,5 @@
 - This is a portal to sigdu kingdom. There are  infos  and extra content.                
 ***
 
-# Good note:
+# :page_facing_up: Good note:
 - Goals only have value if exists all of it i the documentation.      
