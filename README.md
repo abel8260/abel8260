@@ -15,17 +15,19 @@
 ***
 
 # :outbox_tray: 0. 2021 Goals: 
-***
-- Name: Rock studios transpanrecy;  
-- Project: (https://github.com/users/abel8260/projects/1) :star: :star: :star: :star: :star:
-- A project with the workflow of the acconts.        
-***
 
-***
-- Name: Rock studios transpanrecy 2;  
-- Repo: (https://github.com/abel8259/production) :star: :star: :star: :star: :star:
-- A repo with my documentation and goals with dates and so on.        
-***
+
+|thing                  | Date       |
+| --------------------- | ---------- |
+| sigdu prazos          | 150821     |
+| week o look fim       | 160821     |
+| indetaçao 3           | 170821     |
+| aula bash             | 180821     |
+| week 0 project        | 190821     |
+| funçoes nativas fim   | 200821     |
+
+
+
 # :hammer: 1. Work:
 
 
