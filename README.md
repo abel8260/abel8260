@@ -16,6 +16,7 @@
 
 # :outbox_tray: 0. 2021 Goals: 
 
+***
 
 |thing                  | Date       |
 | --------------------- | ---------- |
@@ -26,7 +27,7 @@
 | week 0 project        | 190821     |
 | funçoes nativas fim   | 200821     |
 
-
+***
 
 # :hammer: 1. Work:
 
