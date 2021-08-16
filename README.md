@@ -21,11 +21,11 @@
 |thing                  | Date       | status     |
 | --------------------- | ---------- | ---------- |
 | sigdu prazos          | 150821     | closed     |
-| week o look fim       | 160821     | closed     |
+| week o look           | 160821     | closed     |
 | indetaçao 3           | 170821     | open       |
-| aula bash             | 180821     | open       |
+| aula bash             | 180821     | closed     |
 | week 0 project        | 190821     | open       |
-| funçoes nativas fim   | 200821     | open       |
+| funçoes nativas       | 200821     | open       |
 
 ***
 
@@ -34,8 +34,8 @@
 
 ***
 - Name: group pacific south;  
-- Site: (https://grupo-fs-pacificsouth.herokuapp.com) :star: :star: :star: :star: :star:
-- A full site of programming languages       
+- Site: (https://www.facebook.com/grupofspacificsouth) :star: :star: :star: :star: :star:
+- A learning programming language.           
 ***
 
 # :envelope: 1.5. Newletter:
