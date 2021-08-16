@@ -18,14 +18,14 @@
 
 ***
 
-|thing                  | Date       |
-| --------------------- | ---------- |
-| sigdu prazos          | 150821     |
-| week o look fim       | 160821     |
-| indetaçao 3           | 170821     |
-| aula bash             | 180821     |
-| week 0 project        | 190821     |
-| funçoes nativas fim   | 200821     |
+|thing                  | Date       | status     |
+| --------------------- | ---------- | ---------- |
+| sigdu prazos          | 150821     | closed     |
+| week o look fim       | 160821     | closed     |
+| indetaçao 3           | 170821     | open       |
+| aula bash             | 180821     | open       |
+| week 0 project        | 190821     | open       |
+| funçoes nativas fim   | 200821     | open       |
 
 ***
 
