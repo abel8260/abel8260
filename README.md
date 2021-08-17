@@ -22,7 +22,7 @@
 | --------------------- | ---------- | ---------- |
 | sigdu prazos          | 150821     | closed     |
 | week o look           | 160821     | closed     |
-| indetaçao 3           | 170821     | open       |
+| indetaçao 3           | 170821     | closed     |
 | aula bash             | 180821     | closed     |
 | week 0 project        | 190821     | open       |
 | funçoes nativas       | 200821     | open       |
