@@ -63,7 +63,8 @@
 - Name: medi-game 
 - Site: (https://medi-game.herokuapp.com/) :star: :star: :star: :star: :star:
 - Repo: (https://github.com/abel8260/medi-game) :star: :star: :star: :star: :star:
-- A  game about meditation, to more info read the documentation on the repo here in the github.            
+- A  game about meditation, to more info read the documentation on the repo here in the github.   
+- Progresso:   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/75)       
 ***
 
 ***
