@@ -18,7 +18,7 @@
 
 ***
   
-|  issue                | date       | progress   | milestone  | lag        |  project   |
+|  issue                | date       | milestone progress   | milestone  | lag        |  project   |
 | --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | ui basico             | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/72)        | 140721     | 1 mes      | medi-game  |
 | legibilidade          | 23/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/72)        | 140721     | 1 mes      | medi-game  |
