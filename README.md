@@ -18,14 +18,14 @@
 
 ***
 
-|thing                  | Date       | status     |
-| --------------------- | ---------- | ---------- |
-| aula 2 -natividade    | 200821     | open       |
-| pd.prj apployd        | 210821     | open       |
-| legibilidade          | 220821     | open       |
-| topico 1 harvard      | 230821     | open       |
-| ui basico             | 260821     | open       |
-| path sigdu            | 280821     | open       |
+|thing                  | status     |
+| --------------------- | ---------- |
+| aula 2 -natividade    | open       |
+| pd.prj apployd        | open       |
+| legibilidade          | open       |
+| topico 1 harvard      | open       |
+| ui basico             | open       |
+| path sigdu            | open       |
 
 ***
 
