@@ -20,12 +20,12 @@
 
 |thing                  | Date       | status     |
 | --------------------- | ---------- | ---------- |
-| sigdu prazos          | 150821     | closed     |
-| week o look           | 160821     | closed     |
-| indetaçao 3           | 170821     | closed     |
-| aula bash             | 180821     | closed     |
-| week 0 project        | 190821     | open       |
-| funçoes nativas       | 200821     | open       |
+| spd.prj apployd       | 210821     | open       |
+| legibilidade          | 220821     | open       |
+| topico 1 harvard      | 230821     | open       |
+| aula 2 -natividade    | 250821     | open       |
+| ui basico             | 260821     | open       |
+| path sigdu            | 280821     | open       |
 
 ***
 
@@ -35,7 +35,7 @@
 ***
 - Name: group pacific south;  
 - Site: (https://www.facebook.com/grupofspacificsouth) :star: :star: :star: :star: :star:
-- A learning programming language.           
+- A learning programming site.           
 ***
 
 # :envelope: 1.5. Newletter:
