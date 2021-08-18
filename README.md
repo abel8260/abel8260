@@ -20,7 +20,7 @@
 
 |thing                  | Date       | status     |
 | --------------------- | ---------- | ---------- |
-| spd.prj apployd       | 210821     | open       |
+| pd.prj apployd       | 210821     | open       |
 | legibilidade          | 220821     | open       |
 | topico 1 harvard      | 230821     | open       |
 | aula 2 -natividade    | 250821     | open       |
