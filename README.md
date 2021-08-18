@@ -14,18 +14,14 @@
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=abel8260)
 ***
 
-# :outbox_tray: 0. 2021 Goals: 
+# :outbox_tray: 0.Current project: 
 
 ***
 
 |thing                  | status     |
 | --------------------- | ---------- |
 | aula 2 -natividade    | open       |
-| pd.prj apployd        | open       |
-| legibilidade          | open       |
-| topico 1 harvard      | open       |
-| ui basico             | open       |
-| path sigdu            | open       |
+
 
 ***
 
