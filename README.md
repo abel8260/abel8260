@@ -20,10 +20,10 @@
 
 |thing                  | Date       | status     |
 | --------------------- | ---------- | ---------- |
-| pd.prj apployd       | 210821     | open       |
+| aula 2 -natividade    | 200821     | open       |
+| pd.prj apployd        | 210821     | open       |
 | legibilidade          | 220821     | open       |
 | topico 1 harvard      | 230821     | open       |
-| aula 2 -natividade    | 250821     | open       |
 | ui basico             | 260821     | open       |
 | path sigdu            | 280821     | open       |
 
