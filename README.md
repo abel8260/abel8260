@@ -25,9 +25,8 @@ Theory course
 
 Projects of the course:    
 |  issue                | date       | progress   | milestone  | lag        |  project   |
-| --------------------- | ---------- | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 140721     | 0    |  controle-ADMIN   |
-
-
+| --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+|   |      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)         |       | 0          | grupo      |
 ***
 
 # :hammer: 1. Work:
