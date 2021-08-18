@@ -20,8 +20,8 @@
 
 |thing                  | status     |
 | --------------------- | ---------- |
-| aula 2 -natividade    | open       |
-
+| controle-ADMIN    | open       |
+- Progresso:   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/75)  
 
 ***
 
