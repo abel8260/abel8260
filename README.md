@@ -14,14 +14,22 @@
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=abel8260)
 ***
 
-# :outbox_tray: 0.Current project: 
+# :outbox_tray: 0. Current Goals  : 
 
 ***
 
-|thing                  | status     |
-| --------------------- | ---------- |
-| controle-ADMIN    | open       |
-- Progresso:   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)  
+|  issue                | date       | progress   | milestone  | lag        |  project   |
+| --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| week 0 project        | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/85)        | 131021     | 0          | nerdtubo    |
+| controle-ADMIN        | open       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)        | open       | open       | open       |
+| controle-ADMIN        | open       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)         | open       | open       | open       |
+| controle-ADMIN        | open       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)         | open       | open       | open       |
+| controle-ADMIN        | open       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/85)        | open       | open       | open       |
+| controle-ADMIN        | open       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/72)        | open       | open       | open       |
+| controle-ADMIN        | open       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/85)        | open       | open       | open       |
+| controle-ADMIN        | open       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)         | open       | open       | open       |
+| controle-ADMIN        | open       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/72)        | open       | open       | open       |
+| controle-ADMIN        | open       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)         | open       | open       | open       |
 
 ***
 
