@@ -39,10 +39,10 @@
 
 |  issue                | date       | progress   | milestone  | lag        |  project   |
 | --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| aula natividade       | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 210821     | 1 mes      | grupo      |
-| aula canvas           | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 250821     | 1 mes      | grupo      |
+| aula natividade       | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 210821     | 0          | grupo      |
+| aula canvas           | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 250821     | 0          | grupo      |
 | aula design grafico   | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 210821     | 0          | grupo      |
-| projeto cli 1         | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 100821     | 0          | grupo      |
+| projeto cli 1         | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 100821     | 1 dia      | grupo      |
 
 ***
 
