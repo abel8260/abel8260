@@ -22,8 +22,8 @@
  
 |  issue                | date       | progress   | milestone  | lag        |  project   |
 | --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| ui basico             | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/72)        | 140721     | 1 mes      | medi-game  |
-| legibilidade          | 23/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/72)        | 140721     | 1 mes      | medi-game  |
+| ui basico             | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/72)        | 140721     | 0          | medi-game  |
+| legibilidade          | 23/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/72)        | 140721     | 0          | medi-game  |
 | week 0 project        | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/85)        | 131021     | 0          | nerdtubo   |
 | natividade            | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)        | 210821     | 0          | grupo      |
 | pd.prj                | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)         | 200821     | 0          | apployd    |
@@ -45,6 +45,25 @@
 | projeto cli 1         | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 100821     | 1 dia      | grupo      |
 
 ***
+# lag table  
+
+|  lag                     | bonus                                    | 
+| ------------------------ | ---------------------------------------- | 
+| 7 dias                   | 1 minicurso                              | 
+| 14 dias                  | 1 projeto                                | 
+| 21 dias                  | 1 curso                                  |
+| 30 dias                  |  1 minicurso  + 1 projeto  +1 curso      |
+
+***
+
+# Dev-story
+
+|  bonus                   | project                                  | 
+| ------------------------ | ---------------------------------------- | 
+| medigame                 |  1 minicurso  + 1 projeto  + 1 curso     |
+
+***
+
 
 # :hammer: 1. Work:
 
