@@ -35,14 +35,11 @@
 
 ***
 
-# Grupo goals: 
+# Grupo goals: desenvolvimento web
 
-|  issue                | date       | progress   | milestone  | lag        |  project   |
+|  issue                | date       |  milestone  | lag        |  project   |
 | --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| aula natividade       | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 210821     | 0          | grupo      |
-| aula canvas           | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 250821     | 0          | grupo      |
-| aula design grafico   | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 210821     | 0          | grupo      |
-| projeto cli 1         | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 100821     | 1 dia      | grupo      |
+| git hub basico        |  | ||  1 dia  |  |
 
 ***
 # lag table  
@@ -61,7 +58,7 @@
 |  bonus                   | project                                  | 
 | ------------------------ | ---------------------------------------- | 
 | medigame                 |  1 minicurso  + 1 projeto  + 1 curso     |
-
+                |  1 minicurso  + 1 projeto  + 1 curso     |
 ***
 
 
