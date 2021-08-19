@@ -38,8 +38,8 @@
 # Grupo goals: desenvolvimento web
 
 |  issue                | date       |  milestone  | lag        |  project   |
-| --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| git hub basico        |  | ||  1 dia  |  |
+| --------------------- | ---------- | ---------- | ---------- | ---------- | 
+| git hub basico        |            |            |  |  1 dia  |            |
 
 ***
 # lag table  
