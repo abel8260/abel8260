@@ -14,19 +14,7 @@
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=abel8260)
 ***
 
-# :outbox_tray: 0. Current Goals  : 
-
-***
-Theory course
-|  issue                | date       | progress   | milestone  | lag        |  project   |
-| --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| natividade            | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)        | 210821     | 0          | grupo      |
-| basis design course   | 24/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)         | 250821     | 0          | grupo      |
-
-Projects of the course:    
-|  issue                | date       | progress   | milestone  | lag        |  project   |
-| --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-|   |      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)         |       | 0          | grupo      |
+# NO goals 
 ***
 
 # :hammer: 1. Work:
