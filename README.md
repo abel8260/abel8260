@@ -14,10 +14,12 @@
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=abel8260)
 ***
 
-# goals: (TABLE 1) 
+# goals: 
 
 ***
-  
+
+ # Ebol mark's goals:  
+ 
 |  issue                | date       | progress   | milestone  | lag        |  project   |
 | --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | ui basico             | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/72)        | 140721     | 1 mes      | medi-game  |
@@ -33,6 +35,16 @@
 
 ***
 
+# Grupo goals: 
+
+|  issue                | date       | progress   | milestone  | lag        |  project   |
+| --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| aula natividade       | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 210821     | 1 mes      | grupo      |
+| aula canvas           | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 250821     | 1 mes      | grupo      |
+| aula design grafico   | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 210821     | 0          | grupo      |
+| projeto cli 1         | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 100821     | 0          | grupo      |
+
+***
 
 # :hammer: 1. Work:
 
