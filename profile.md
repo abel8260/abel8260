@@ -3,16 +3,8 @@
 
 # ➡️ About me:
  I'm a Full stack developer!
-
-I use:
-- PHP, 
-- PG-SQL, 
-- HTML, 
-- CSS, 
-- JS. 
-- Cloud: heroku. 
-
-> Entering the market. 
+***
+> I use:
 
 ![imagem](https://img.icons8.com/ios-filled/50/000000/postgreesql.png)
 ![imagem](https://img.icons8.com/ios-filled/50/000000/html-5--v1.png)
@@ -20,6 +12,7 @@ I use:
 ![imagem](https://img.icons8.com/ios-filled/50/000000/css3.png)
 ![imagem](https://img.icons8.com/ios-filled/50/000000/javascript.png)
 ![imagem](https://img.icons8.com/ios-filled/50/000000/heroku.png)
+
  ***
  
  # PITCH ELEVATOR:
