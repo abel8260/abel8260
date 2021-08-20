@@ -43,6 +43,9 @@ I use:
 # :speech_balloon: About langs : 
 ***
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=abel8260)
+
+
+O.B.S.: I Dont hacking no one THe github index every inovatio in their code like hack. For that is there hack there. Im not a hacker. Only for make it clear.         
 ***
 
 
