@@ -72,7 +72,7 @@
 | github basico         | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)      | 220821     | 0          | grupo      |
 | github intermediario  | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)      | 220821     | 0          | grupo      |
 | markdown-guide        | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 220821     | 0          | grupo      |
-
+| seo and normativity   | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 220821     | 0          | grupo      |
 ***
 
 # lag table  
@@ -90,9 +90,9 @@
 
 # Dev-story(lags 
 
-|  project lag             | bonus                                    | bonus                                                   |
-| ------------------------ | ---------------------------------------- | ------------------------------------------------------- |
-| github basico            |  1 minicurso  + 1 projeto                | seon 22/08/21 + readm-me wiith escalbility |
+|  project lag             | bonus                                    | bonus                                                      |
+| ------------------------ | ---------------------------------------- | ---------------------------------------------------------- |
+| github basico            |  1 minicurso  + 1 projeto                | seo and normativity  22/08/21 + readm-me with escalbility  |
 
 ***
 
