@@ -191,5 +191,11 @@
 - This is a portal to sigdu kingdom. There are  infos  and extra content.                
 ***
 
+# Refs:
+- (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- (https://www.markdownguide.org/tools/trello/)
+- (http://cursos.leg.ufpr.br/prr/capMarkdown.html)
+
+
 # :page_facing_up: Good note:
 - Goals only have value if exists all of it in the documentation.    
