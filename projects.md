@@ -1,5 +1,5 @@
 
-# :blue_book: 3. My own sideprojects:
+# :blue_book:  sideprojects:
 
 ***
 - Name: medi-game 
@@ -28,7 +28,6 @@
 ***
 
 
-# :sun_with_face: 4. Hobby:
 
 ***
 - Name: kop papercraft    
@@ -37,7 +36,7 @@
 ***
 
 
-# :sparkles: 5. Purpose:
+
 
 ***
 - Name: Sigdu kingdom  
