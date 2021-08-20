@@ -18,7 +18,9 @@ I use:
 ![imagem](https://img.icons8.com/ios-filled/50/000000/html-5--v1.png)
 ![imagem](https://img.icons8.com/ios-filled/50/000000/php-logo.png)
 ![imagem](https://img.icons8.com/ios-filled/50/000000/css3.png)
+![imagem](https://img.icons8.com/ios-filled/50/000000/javascript.png)
  ***
+ 
  # PITCH ELEVATOR:
  
  However, I make the apk available for the app. Readme.md on Github is very good. With photo and all. UI, UX icon links. All in one place. Your app will work fine. With design pattern. SEO strategy available too. Everything to make your application flawless.Documenting the project on time with several different bases, 
