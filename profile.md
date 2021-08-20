@@ -13,6 +13,11 @@ I use:
 - Cloud: heroku. 
 
 > Entering the market. 
+
+
+![Alt ou título da imagem](URL da imagem)
+
+![Alt ou título da imagem](https://www.php.net/images/php8/logo_php8.svg)
  
  ***
  # PITCH ELEVATOR:
