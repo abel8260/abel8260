@@ -1,5 +1,5 @@
 
-# :mortar_board: 2.Study goals:
+# :mortar_board: Study goals:
 ***
 - CS50’s Introduction to Game Development  :star: :star: :star: :star: :star:
 - CS50x  :star: :star: :star: :star: :star:
