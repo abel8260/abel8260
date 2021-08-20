@@ -1,9 +1,7 @@
 
 # Abel Barbosa (DEV CLASS A+)          
 
-# ➡️ About me:
- I'm a Full stack developer!
-***
+
 > I use:
 
 ![imagem](https://img.icons8.com/ios-filled/50/000000/postgreesql.png)
