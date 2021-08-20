@@ -28,18 +28,17 @@ I use:
 
 ***
  > DOC:
- 
- - EAP,
- - ITIL, 
- - KPI, 
- - PDCA PANEL, P
- - MBOK,
- - google SEO, 
- - SEO SEMRush, 
- - SEO social media, 
- - SLA, 
- - SMART15 and 
- - SOW. 
+![imagem](https://img.shields.io/badge/project-eap%20-blue)
+![imagem](https://img.shields.io/badge/project-itil%20-blue)
+![imagem](https://img.shields.io/badge/project-kpi%20-blue)
+![imagem](https://img.shields.io/badge/project-pdca%20-blue)
+![imagem](https://img.shields.io/badge/project-pmbok%20-blue)
+![imagem](https://img.shields.io/badge/seo-google%20-orange) 
+![imagem](https://img.shields.io/badge/seo-semrush%20-orange) 
+![imagem](https://img.shields.io/badge/seo-sla%20-orange) 
+![imagem](https://img.shields.io/badge/seo-smart15%20-orange) 
+![imagem](https://img.shields.io/badge/seo-sow%20-orange) 
+
 ***
 
 # :speech_balloon: About my class : 
