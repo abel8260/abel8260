@@ -15,9 +15,8 @@ I use:
 > Entering the market. 
 
 
-![Alt ou título da imagem](URL da imagem)
 
-![Alt ou título da imagem](https://www.php.net/images/php8/logo_php8.svg)
+![imagem](https://img.icons8.com/ios/50/000000/php-logo.png)
  
  ***
  # PITCH ELEVATOR:
