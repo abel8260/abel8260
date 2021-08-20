@@ -52,7 +52,7 @@
 ***
 
 
-# :hammer: 1. Work:
+# :hammer: Work:
 
 
 ***
@@ -63,4 +63,4 @@
 
 
 # :page_facing_up: Good note:
-- Goals only have value if exists all of it i the documentation.      
+- Goals only have value if exists all of it in the documentation.      
