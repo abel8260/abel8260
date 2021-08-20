@@ -72,7 +72,7 @@
 | github basico         | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)      | 220821     | 0          | grupo      |
 | github intermediario  | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)      | 220821     | 0          | grupo      |
 | markdown-guide        | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 220821     | 0          | grupo      |
-| Normativity           | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 220821     | 0          | grupo      |
+
 ***
 
 # lag table  
