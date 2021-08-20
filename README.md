@@ -14,7 +14,7 @@
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=abel8260)
 ***
 
-# goals: 
+# :sparkles: Purpose: 
 
 
 
@@ -24,7 +24,7 @@
 
 |  issue                | date       | progress   | milestone  | lag        |  project   |
 | --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| github basico         | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)       | 220821     | 1 dia      | grupo      |
+| github basico         | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)       | 220821     | 1 dia      | grupo      |
 | github intermediario  | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 220821     | 0          | grupo      |
 | github avançado       | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 220821     | 0          | grupo      |
 
@@ -60,14 +60,6 @@
 - Site: (https://www.facebook.com/grupofspacificsouth) :star: :star: :star: :star: :star:
 - A learning programming site.           
 ***
-
-# :envelope: 1.5. Newletter:
-***
-- Name: crafting  web and paper   
-- Site: (https://crafting-web-paper.herokuapp.com/src/home/index.php) :star: :star: :star: :star: :star:
-- A site about the news in the 2 ORG's that i admin.            
-***
-
 
 
 # :page_facing_up: Good note:
