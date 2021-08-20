@@ -92,7 +92,7 @@
 
 |  project lag             | bonus                                    | bonus                                                      |
 | ------------------------ | ---------------------------------------- | ---------------------------------------------------------- |
-| github basico            |  1 minicurso  + 1 projeto                | seo and normativity  22/08/21 + readm-me with escalbility  |
+| github basico            |  1 minicurso  + 1 projeto                | seo and normativity  21/08/21 + readm-me with escalbility  |
 
 ***
 
