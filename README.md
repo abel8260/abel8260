@@ -88,12 +88,11 @@
 
 ***
 
-# Dev-story
+# Dev-story(lags 
 
-|  bonus                   | project                                  | 
-| ------------------------ | ---------------------------------------- | 
-| termux basics            |  1 minicurso                             |
-| github basico            |  1 minicurso  + 1 projeto                |
+|  project lag             | bonus                                    | bonus                                                   |
+| ------------------------ | ---------------------------------------- | ------------------------------------------------------- |
+| github basico            |  1 minicurso  + 1 projeto                | seon 22/08/21 + readm-me wiith escalbility |
 
 ***
 
