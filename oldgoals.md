@@ -1,6 +1,6 @@
 ***
 
- # Ebol mark's goals:  
+ # Ebol goals:  
  
 |  issue                | date       | progress   | milestone  | lag        |  project   |
 | --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
