@@ -16,8 +16,8 @@ I use:
 
 ![imagem](https://img.icons8.com/ios-filled/50/000000/postgreesql.png)
 ![imagem](https://img.icons8.com/ios-filled/50/000000/html-5--v1.png)
-![imagem](https://img.icons8.com/ios/50/000000/php-logo.png)
- 
+![imagem](https://img.icons8.com/ios-filled/50/000000/php-logo.png)
+
  ***
  # PITCH ELEVATOR:
  
