@@ -103,9 +103,9 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 # Dev-story(lags)
 
-|  project lag             | milestone                                   | bonus                                                      |
+|  project lag             | milestone                                | bonus                                                      |
 | ------------------------ | ---------------------------------------- | ---------------------------------------------------------- |
-|  curso de prototipagem    | (date:250821)| course of protytiping + 1 minicourse of scratch  (mobile and PC) + 1 game project |
+|  curso de prototipagem   | (date:011121)                            | course of protytiping + 1 minicourse of scratch  (mobile and PC) + 1 game project |
 
 - curso de ux  basico            
 - curso de ux  google            
