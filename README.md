@@ -82,8 +82,10 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 | github basico         | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)      | 220821     | 0          | grupo      |
 | github intermediario  | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)      | 220821     | 0          | grupo      |
 | markdown-guide        | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | 220821     | 0          | grupo      |
-| seo and normativity   | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | 220821     | 0          | grupo      |
-| course of protytiping + 1 minicourse of scratch  (mobile and PC) + 1 game project | 24/08| ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) |250821| 0          | grupo      |
+| seo                   | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | 220821     | 0          | grupo      |
+| normativity           | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | 220821     | 0          | grupo      |
+| scratch completo      | 24/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 250821     | 0          | grupo      |
+| scratch game          | 24/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 250821     | 0          | grupo      |
 ***
 
 # lag table  
@@ -101,12 +103,15 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 # Dev-story(lags)
 
-|  project lag             | bonus                                    | bonus                                                      |
+|  project lag             | milestone                                   | bonus                                                      |
 | ------------------------ | ---------------------------------------- | ---------------------------------------------------------- |
-| github basico            |  1 minicurso  + 1 projeto                | seo and normativity  (date:22/08/21) + readm-me with escalbility  |
-| markdown-guide, seo, norms            |  1 minicurso  + 1 projeto  +1 curso              | (date:250821) course of protytiping + 1 minicourse of scratch  (mobile and PC) + 1 game project |
+|  curso de prototipagem    | (date:250821)| course of protytiping + 1 minicourse of scratch  (mobile and PC) + 1 game project |
 
-
+- curso de ux  basico            
+- curso de ux  google            
+- curso de ui basico           
+- curso de fireworks completo pra pc    
+- curso de  uizard.io basico  
 
 # :hammer: Work:
 
