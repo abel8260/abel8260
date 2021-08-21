@@ -13,9 +13,9 @@
 
  ***
  
- # PITCH ELEVATOR:
+ # about me :
  
- However, I make the apk available for the app. Readme.md on Github is very good. With photo and all. UI, UX icon links. All in one place. Your app will work fine. With design pattern. SEO strategy available too. Everything to make your application flawless.Documenting the project on time with several different bases, 
+A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ... so you welcome here be proud of yourself because your awesome <3           
 
 ***
 
@@ -195,7 +195,7 @@
 - (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - (https://www.markdownguide.org/tools/trello/)
 - (http://cursos.leg.ufpr.br/prr/capMarkdown.html)
-
+- (https://gist.github.com/rxaviers/7360908)
 
 # :page_facing_up: Good note:
 - Goals only have value if exists all of it in the documentation.    
