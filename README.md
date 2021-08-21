@@ -15,7 +15,7 @@
  
  # about me :
  
-A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ... so you welcome here be proud of yourself because your awesome <3           
+A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ... so you welcome here be proud of yourself because you are awesome <3           
 
 ***
 
