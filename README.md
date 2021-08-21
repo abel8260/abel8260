@@ -99,6 +99,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 | github intermediario  | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)      | 220821     | 0          | grupo      |
 | markdown-guide        | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 220821     | 0          | grupo      |
 | seo and normativity   | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 220821     | 0          | grupo      |
+| elaborate proof       | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 220821     | 0          | grupo      |
 ***
 
 # lag table  
