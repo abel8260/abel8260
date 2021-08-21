@@ -104,25 +104,25 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 |  project lag             | milestone                                | bonus                                                      |
 | ------------------------ | ---------------------------------------- | ---------------------------------------------------------- |
 
-# Dev-story(lags) : curso de github intermediario 
+## Dev-story(lags) : curso de github intermediario 
 ***
 ***
 ***
 
-# Post MAPA DA PAGINA NO FACEBOOK:
+### Post MAPA DA PAGINA NO FACEBOOK:
 ****
-### INTRODUÇAO:
+#### INTRODUÇAO:
 - workflow:https://www.facebook.com/media/set/?vanity=grupofspacificsouth&set=a.109998061393270
 ***
-### CURSOS:
+#### CURSOS:
 - Termux Basico: https://www.facebook.com/media/set/?vanity=grupofspacificsouth&set=a.107691818290561
 - Github Basico: https://www.facebook.com/media/set?vanity=grupofspacificsouth&set=a.110288158030927
 - Github Intermediario: https://www.facebook.com/media/set?vanity=grupofspacificsouth&set=a.110679364658473
 ***
-### MONITORIAS: 
+#### MONITORIAS: 
 - Github Basico: https://www.facebook.com/media/set?vanity=grupofspacificsouth&set=a.110653561327720 
 ***
-### BANCO DE DADOS:  
+#### BANCO DE DADOS:  
 - github: (https://github.com/abel8260/grupo-fs-pacificsouth)   
 - heroku: (https://grupo-fs-pacificsouth.herokuapp.com)
 
@@ -130,12 +130,16 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 ***
 ***
 
-# Dev-story(lags) : curso de prototipagem 
+## Dev-story(lags) : curso de prototipagem (IN SOON)(EM BREVE)
 - curso de ux  basico            
 - curso de ux  google            
 - curso de ui basico           
 - curso de fireworks completo pra pc    
 - curso de  uizard.io basico  
+
+***
+***
+***
 
 # :hammer: Work:
 
