@@ -104,7 +104,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 |  project lag             | bonus                                    | bonus                                                      |
 | ------------------------ | ---------------------------------------- | ---------------------------------------------------------- |
 | github basico            |  1 minicurso  + 1 projeto                | seo and normativity  21/08/21 + readm-me with escalbility  |
-| markdown-guide, seo, norms            |  1 minicurso  + 1 projeto  +1 curso              | in soon  |
+| markdown-guide, seo, norms            |  1 minicurso  + 1 projeto  +1 curso              | prototyping in scratch (find a pc)   |
 
 
 
