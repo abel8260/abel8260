@@ -108,22 +108,24 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 ***
 ***
 ***
+
 # Post MAPA DA PAGINA NO FACEBOOK:
 ****
-INTRODUÇAO:
-workflow:https://www.facebook.com/media/set/?vanity=grupofspacificsouth&set=a.109998061393270
+### INTRODUÇAO:
+- workflow:https://www.facebook.com/media/set/?vanity=grupofspacificsouth&set=a.109998061393270
 ***
-CURSOS:
-Termux Basico: https://www.facebook.com/media/set/?vanity=grupofspacificsouth&set=a.107691818290561
-Github Basico: https://www.facebook.com/media/set?vanity=grupofspacificsouth&set=a.110288158030927
-Github Intermediario: https://www.facebook.com/media/set?vanity=grupofspacificsouth&set=a.110679364658473
+### CURSOS:
+- Termux Basico: https://www.facebook.com/media/set/?vanity=grupofspacificsouth&set=a.107691818290561
+- Github Basico: https://www.facebook.com/media/set?vanity=grupofspacificsouth&set=a.110288158030927
+- Github Intermediario: https://www.facebook.com/media/set?vanity=grupofspacificsouth&set=a.110679364658473
 ***
-MONITORIAS: 
-Github Basico: https://www.facebook.com/media/set?vanity=grupofspacificsouth&set=a.110653561327720 
+### MONITORIAS: 
+- Github Basico: https://www.facebook.com/media/set?vanity=grupofspacificsouth&set=a.110653561327720 
 ***
-BANCO DE DADOS:  
-github: (https://github.com/abel8260/grupo-fs-pacificsouth)   
-heroku: (https://grupo-fs-pacificsouth.herokuapp.com)
+### BANCO DE DADOS:  
+- github: (https://github.com/abel8260/grupo-fs-pacificsouth)   
+- heroku: (https://grupo-fs-pacificsouth.herokuapp.com)
+
 ***
 ***
 ***
