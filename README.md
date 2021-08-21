@@ -79,8 +79,6 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 |  issue                | date       | progress   | milestone  | lag        |  project   |
 | --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| github basico         | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)      | 220821     | 0          | grupo      |
-| github intermediario  | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)      | 220821     | 0          | grupo      |
 | markdown-guide        | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | 220821     | 0          | grupo      |
 | seo                   | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | 220821     | 0          | grupo      |
 | normativity           | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | 220821     | 0          | grupo      |
@@ -105,8 +103,32 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 |  project lag             | milestone                                | bonus                                                      |
 | ------------------------ | ---------------------------------------- | ---------------------------------------------------------- |
-|  curso de prototipagem   | (date:011121)                            | course of protytiping + 1 minicourse of scratch  (mobile and PC) + 1 game project |
 
+# Dev-story(lags) : curso de github intermediario 
+***
+***
+***
+# Post MAPA DA PAGINA NO FACEBOOK:
+****
+INTRODUÇAO:
+workflow:https://www.facebook.com/media/set/?vanity=grupofspacificsouth&set=a.109998061393270
+***
+CURSOS:
+Termux Basico: https://www.facebook.com/media/set/?vanity=grupofspacificsouth&set=a.107691818290561
+Github Basico: https://www.facebook.com/media/set?vanity=grupofspacificsouth&set=a.110288158030927
+Github Intermediario: https://www.facebook.com/media/set?vanity=grupofspacificsouth&set=a.110679364658473
+***
+MONITORIAS: 
+Github Basico: https://www.facebook.com/media/set?vanity=grupofspacificsouth&set=a.110653561327720 
+***
+BANCO DE DADOS:  
+github: (https://github.com/abel8260/grupo-fs-pacificsouth)   
+heroku: (https://grupo-fs-pacificsouth.herokuapp.com)
+***
+***
+***
+
+# Dev-story(lags) : curso de prototipagem 
 - curso de ux  basico            
 - curso de ux  google            
 - curso de ui basico           
