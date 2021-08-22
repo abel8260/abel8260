@@ -104,7 +104,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 |  project lag             | milestone                                | bonus                                                      |
 | ------------------------ | ---------------------------------------- | ---------------------------------------------------------- |
 
-## Dev-story(lags) : curso de github intermediario 
+## :grey_exclamation:   Dev-story(lags) : curso de github intermediario 
 ***
 ***
 ***
@@ -132,7 +132,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 ***
 
 
-## Dev-story(lags) : curso de prototipagem (IN SOON)(EM BREVE)
+## :grey_exclamation: Dev-story(lags) : curso de prototipagem (IN SOON)(EM BREVE)
 
 ***
 ***
