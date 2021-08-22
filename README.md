@@ -99,7 +99,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 ***
 
-# Dev-story(lags)
+# ❕Dev-story(lags)
 
 |  project lag             | milestone                                | bonus                                                      |
 | ------------------------ | ---------------------------------------- | ---------------------------------------------------------- |
@@ -131,7 +131,14 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 ***
 ***
 
-| Dev-story(lags) : curso de prototipagem (IN SOON)(EM BREVE)         |
+
+## Dev-story(lags) : curso de prototipagem (IN SOON)(EM BREVE)
+
+***
+***
+***
+
+| curso de prototipagem          |
 | ------------------------ |
 |  curso de ux  basico           |
 |  curso de ui basico            |
