@@ -92,17 +92,16 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 |  issue                | date       | progress   | milestone  | lag        |  project   |
 | --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| github intermediario  | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | cotado      | grupo      |
+| github intermediario  | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | cotado     | grupo      |
 | markdown-guide        | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | nodate     | cotado     | grupo      |
 | seo                   | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | nodate     | cotado     | grupo      |
 | normativity           | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | nodate     | cotado     | grupo      |
-| minicurso preparotorio pra harvard | nodate | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)   |  nodate    | 0          | grupo      |
+| minicurso preparotorio pra harvard| nodate | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)|  nodate    | 0          | grupo      |
 | scratch completo      | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | 0          | grupo      |
 | scratch game          | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | 0          | grupo      |
-
-| curso de python   | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | cotado      | grupo      |
-| curso de python pra games| nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | cotado      | grupo      |
-| projeto de love2d | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | cotado      | grupo      |
+| curso de python   | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)            | nodate     | cotado      | grupo      |
+| curso de python pra games| nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)     | nodate     | cotado      | grupo      |
+| projeto de love2d | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)            | nodate     | cotado      | grupo      |
 
 ***
 
