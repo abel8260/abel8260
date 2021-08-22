@@ -45,14 +45,19 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 - Name: crafting  web and paper   
 - Site: (https://crafting-web-paper.herokuapp.com/src/home/index.php) :star: :star: :star: :star: :star:
 - A site about the news in the 2 ORG's that i admin.
-### TOP FIVE:(TOP 5) (NOTICIAS):            
+
+### TOP FIVE:(TOP 5) (NOTICIAS): 
+- curriculo lates modelo (https://crafting-web-paper.herokuapp.com/models/cvlattes01/index.php)
+- plano de estudos: (https://crafting-web-paper.herokuapp.com/models/recuperar-trajeto/index.php)
+- Adm project finaces and health: (https://crafting-web-paper.herokuapp.com/models/peaddebolproj01/index.php)
+      
 ***
 
 ***
 - Name: group pacific south;  
 - Site: (https://grupo-fs-pacificsouth.herokuapp.com) :star: :star: :star: :star: :star:
 - A learning programming site. 
-- 
+
 ### TOP FIVE:(TOP 5) (NOTICIAS):
 
 - topicos de markdown (https://www.facebook.com/grupofspacificsouth/posts/111090844617325) 
