@@ -117,10 +117,10 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 |  project lag             | milestone                                | bonus                                                      |
 | ------------------------ | ---------------------------------------- | ---------------------------------------------------------- |
-| github inter  | 1908 |  1 minicurso  |
-| markdown-guide  | 1908 |  1 curso  |
-| seo   | 1908 |  1 curso  |
-| github inter  | 1908 |  1 projeto  |
+| github inter  | 1908 | 1 curso   |
+| markdown-guide  | 21/08 |  1 curso  |
+| seo   | 21/08  |  1 minicurso  |
+| normativity   | 21/08  |  1 projeto  |
 
 ## :grey_exclamation:   Dev-story(lags) : curso de github intermediario 
 ***
@@ -168,7 +168,23 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 ***
 ***
 ***
+## :grey_exclamation: Dev-story(lags) : curso de prototipagem (IN SOON)(EM BREVE)
 
+***
+***
+***
+
+| curso de python        |
+| ------------------------ |
+|  getting started with python            |
+|  curso de python  basico           |
+|  learn python          |
+
+
+
+***
+***
+***
 # :hammer: Work:
 
 
