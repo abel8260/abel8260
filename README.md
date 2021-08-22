@@ -88,28 +88,27 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 ***
 
-# Grupo goals: mobile devlopment web
+# Grupo goals: 
 
 |  issue                | date       | progress   | milestone  | lag        |  project   |
 | --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| github intermediario  | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 250821     | cotado      | grupo      |
-| markdown-guide        | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | 220821     | cotado     | grupo      |
-| seo                   | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | 220821     | cotado     | grupo      |
-| normativity           | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | 220821     | cotado     | grupo      |
-| scratch completo      | 24/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 250821     | 0          | grupo      |
-| scratch game          | 24/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 250821     | 0          | grupo      |
+| github intermediario  | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | cotado      | grupo      |
+| markdown-guide        | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | nodate     | cotado     | grupo      |
+| seo                   | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | nodate     | cotado     | grupo      |
+| normativity           | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | nodate     | cotado     | grupo      |
+| minicurso preparotorio pra harvard | nodate | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)   |  nodate    | 0          | grupo      |
+| scratch completo      | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | 0          | grupo      |
+| scratch game          | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | 0          | grupo      |
+
+| curso de python   | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | cotado      | grupo      |
+| curso de python pra games| nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | cotado      | grupo      |
+| projeto de love2d | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | cotado      | grupo      |
+
 ***
 
-# lag table  
+# nodate  
 
-|  lag                    | bonus                                    | 
-| ----------------------- | ---------------------------------------- | 
-| 1 dias                  | 1 minicurso                              | 
-| 1 dias                  | 1 projeto                                | 
-| 2 dias                  | 1 curso                                  |
-| 3 dias                  |  1 minicurso  + 1 projeto  +1 curso      |
-
-- Se faltar um dia acumula      
+till regularize the course the lags .      
 
 ***
 
@@ -120,7 +119,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 | github inter  | 1908 | 1 curso de python pra games    | 
 | markdown-guide  | 21/08 |  1 curso de python | 
 | seo   | 21/08  |  1 minicurso preparotorio pra  harvard   | 
-| normativity   | 21/08  |  1 projeto de love2d  | 
+| normativity   | 21/08  |  1  projeto de love2d | 
 
 ## :grey_exclamation:   Dev-story(lags) : curso de github intermediario 
 ***
@@ -148,8 +147,38 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 ***
 ***
 ***
+## :grey_exclamation: Dev-story(lags) : 1 minicurso preparotorio pro exame cs50   (IN SOON)(EM BREVE)
+
+***
+***
+***
+
+| curso de prototipagem          |
+| ------------------------ |
+|  week0-week10           |
 
 
+
+
+***
+***
+***
+## :grey_exclamation: Dev-story(lags) : 1 projeto de game em love2d    (IN SOON)(EM BREVE)
+
+***
+***
+***
+
+| projeto de game em love2d         |
+| ------------------------ |
+|  aula 1            |
+|  aula 2            |
+|  aula 3            |
+
+
+***
+***
+***
 ## :grey_exclamation: Dev-story(lags) : curso de prototipagem (IN SOON)(EM BREVE)
 
 ***
