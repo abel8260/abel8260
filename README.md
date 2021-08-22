@@ -103,7 +103,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 |  project lag             | milestone                                | bonus                                                      |
 | ------------------------ | ---------------------------------------- | ---------------------------------------------------------- |
-
+| github inter  | 1908 |  1 curso  |
 ## :grey_exclamation:   Dev-story(lags) : curso de github intermediario 
 ***
 ***
