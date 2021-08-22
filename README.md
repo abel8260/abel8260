@@ -101,7 +101,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 | scratch game          | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | 0          | grupo      |
 | curso de python   | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)            | nodate     | cotado      | grupo      |
 | curso de python pra games| nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)     | nodate     | cotado      | grupo      |
-| projeto de love2d | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)            | nodate     | cotado      | grupo      |
+| projeto de game in love2d| nodate     |![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)      | nodate     | cotado      | grupo      |
 
 ***
 
