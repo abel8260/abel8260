@@ -79,6 +79,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 |  issue                | date       | progress   | milestone  | lag        |  project   |
 | --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| github intermediario  | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 250821     |    cotado  | grupo      |
 | markdown-guide        | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | 220821     | 0          | grupo      |
 | seo                   | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | 220821     | 0          | grupo      |
 | normativity           | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | 220821     | 0          | grupo      |
@@ -104,6 +105,8 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 |  project lag             | milestone                                | bonus                                                      |
 | ------------------------ | ---------------------------------------- | ---------------------------------------------------------- |
 | github inter  | 1908 |  1 curso  |
+
+
 ## :grey_exclamation:   Dev-story(lags) : curso de github intermediario 
 ***
 ***
