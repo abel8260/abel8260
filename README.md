@@ -92,10 +92,10 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 |  issue                | date       | progress   | milestone  | lag        |  project   |
 | --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| github intermediario  | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 250821     |    cotado  | grupo      |
-| markdown-guide        | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | 220821     | 0          | grupo      |
-| seo                   | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | 220821     | 0          | grupo      |
-| normativity           | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | 220821     | 0          | grupo      |
+| github intermediario  | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 250821     | cotado      | grupo      |
+| markdown-guide        | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | 220821     | cotado     | grupo      |
+| seo                   | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | 220821     | cotado     | grupo      |
+| normativity           | 21/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | 220821     | cotado     | grupo      |
 | scratch completo      | 24/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 250821     | 0          | grupo      |
 | scratch game          | 24/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 250821     | 0          | grupo      |
 ***
@@ -116,11 +116,11 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 # ❕Dev-story(lags)
 
 |  project lag             | milestone                                | bonus                                                      |
-| ------------------------ | ---------------------------------------- | ---------------------------------------------------------- |
-| github inter  | 1908 | 1 curso   |
-| markdown-guide  | 21/08 |  1 curso  |
-| seo   | 21/08  |  1 minicurso  |
-| normativity   | 21/08  |  1 projeto  |
+| ------------------------ | ---------------------------------------- | ---------------------------------------------------------- | 
+| github inter  | 1908 | 1 curso de python pra games    | 
+| markdown-guide  | 21/08 |  1 curso de python | 
+| seo   | 21/08  |  1 minicurso preparotorio pra  harvard   | 
+| normativity   | 21/08  |  1 projeto de love2d  | 
 
 ## :grey_exclamation:   Dev-story(lags) : curso de github intermediario 
 ***
@@ -168,7 +168,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 ***
 ***
 ***
-## :grey_exclamation: Dev-story(lags) : curso de prototipagem (IN SOON)(EM BREVE)
+## :grey_exclamation: Dev-story(lags) : curso de python (IN SOON)(EM BREVE)
 
 ***
 ***
@@ -180,6 +180,25 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 |  curso de python  basico           |
 |  learn python          |
 
+
+
+***
+***
+
+***
+## :grey_exclamation: Dev-story(lags) : curso de python pra games  (IN SOON)(EM BREVE)
+
+***
+***
+***
+
+| curso de python        |
+| ------------------------ |
+|  getting started with pygame        |
+|  invent with python         |
+|  making games          |
+|  program arcade games             |
+|  making games          |
 
 
 ***
