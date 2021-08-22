@@ -119,7 +119,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 | Github Intermediario: https://www.facebook.com/media/set?vanity=grupofspacificsouth&set=a.110679364658473           |
 | ------------------------ |
 | MONITORIAS:          |
-| https://www.facebook.com/media/set?vanity=grupofspacificsouth&set=a.110653561327720         |
+| Dando git pull e git merge guiado: https://www.facebook.com/media/set?vanity=grupofspacificsouth&set=a.110653561327720         |
 | ------------------------ |
 | BANCO DE DADOS:          |
 | github: (https://github.com/abel8260/grupo-fs-pacificsouth)            |
@@ -131,12 +131,14 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 ***
 ***
 
-## Dev-story(lags) : curso de prototipagem (IN SOON)(EM BREVE)
-- curso de ux  basico            
-- curso de ux  google            
-- curso de ui basico           
-- curso de fireworks completo pra pc    
-- curso de  uizard.io basico  
+| Dev-story(lags) : curso de prototipagem (IN SOON)(EM BREVE)         |
+| ------------------------ |
+|  curso de ux  basico           |
+|  curso de ui basico            |
+|  curso de fireworks completo pra pc            |
+|  curso de  uizard.io basico           |
+
+
 
 ***
 ***
