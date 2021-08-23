@@ -1,16 +1,19 @@
-***
+# Goals: 
 
- # Ebol goals:  
- 
-|  issue                | date       | progress   | milestone  | lag        |  project   |
-| --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| ui basico             | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/72)        | 140721     | 0          | medi-game  |
-| legibilidade          | 23/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/72)        | 140721     | 0          | medi-game  |
-| week 0 project        | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/85)        | 131021     | 0          | nerdtubo   |
-| natividade            | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)        | 210821     | 0          | grupo      |
-| pd.prj                | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)         | 200821     | 0          | apployd    |
-| canvas                | 22/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)         | 250821     | 0          | grupo      |
-| sideproject 1         | 22/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/85)        | 131021     | 0          | nerdtubo   |
-| sideproject 2         | 22/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/85)        | 131021     | 0          | nerdtubo   |
-| login-others          | 23/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)         | 080921     | 0          | apployd    |
-| basis design course   | 24/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)         | 250821     | 0          | grupo      |
+|  issue                | date       | progress   | milestone  |  project   |
+| --------------------- | ---------- | ---------- | ---------- | ---------- |
+| retirar redo do site  | 2608       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 0109     |  pcraft    |
+| paths 1               | 3008       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 0109     |  sigdu      |
+| mikestone 1           | 0109       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 0109     | github   |
+| sideplataform 1       | 0409       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 1309     |  nerdtubo    |
+| ui basico             | 0709       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        |  1309    |  medigame       |
+| 1 minicurso de scratch| 1009       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 1309     | grupo      |
+| milestone 2           | 1309       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 1309     | github        |
+|1 minicurso de scratch | 3008       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 1609      |  grupo      |
+| curso de protos       | 0709       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 1609      |  grupo      |
+| 1 game project        | 1409       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 1609      | grupo     |
+| milestone 3           | 1609       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 1609      | github      |
+| prod.suco.io          | 2609       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        |  2609      | github        |
+| prod.reinos de sigdu  | 2609       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        |  2609     | github        |
+
+***
