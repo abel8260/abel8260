@@ -41,31 +41,20 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 
 # :envelope: Newsletter:
+
 ***
+
 - Name: crafting  web and paper   
 - Site: (https://crafting-web-paper.herokuapp.com/src/home/index.php) :star: :star: :star: :star: :star:
 - A site about the news in the 2 ORG's that i admin.
 
-### TOP FIVE:(TOP 5) (NOTICIAS): 
-- curriculo lates modelo (https://crafting-web-paper.herokuapp.com/models/cvlattes01/index.php)
-- plano de estudos: (https://crafting-web-paper.herokuapp.com/models/recuperar-trajeto/index.php)
-- Adm project finaces and health: (https://crafting-web-paper.herokuapp.com/models/peaddebolproj01/index.php)
-      
-***
 
 ***
+
 - Name: group pacific south;  
 - Site: (https://grupo-fs-pacificsouth.herokuapp.com) :star: :star: :star: :star: :star:
 - A learning programming site. 
 
-### TOP FIVE:(TOP 5) (NOTICIAS):
-
-- progresso atual 220821(https://www.facebook.com/grupofspacificsouth/posts/111197214606688)
-- historico de lags e aviso 220821 (https://www.facebook.com/grupofspacificsouth/posts/111197151273361) 
-- topicos de markdown 211021 (https://www.facebook.com/grupofspacificsouth/posts/111090844617325) 
-- calma de 211021(https://www.facebook.com/grupofspacificsouth/posts/111090484617361)  
-- noticias de 210821 (https://www.facebook.com/grupofspacificsouth/posts/111087901284286)
-       
 ***
 
 
@@ -79,127 +68,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 
 
-# ❕Dev-story(lags)
 
-|  project lag             | milestone                                | bonus                                                      |
-| ------------------------ | ---------------------------------------- | ---------------------------------------------------------- | 
-| github inter  | 1908 | 1 curso de python pra games    | 
-| markdown-guide  | 21/08 |  1 curso de python | 
-| seo   | 21/08  |  1 minicurso preparotorio pra  harvard   | 
-| normativity   | 21/08  |  1  projeto de love2d | 
-
-## :grey_exclamation:   Dev-story(lags) : curso de github intermediario 
-***
-***
-***
-|  Post MAPA DA PAGINA NO FACEBOOK           |
-| ------------------------ |
-| INTRODUÇAO:           |
-| workflow:https://www.facebook.com/media/set/?vanity=grupofspacificsouth&set=a.109998061393270         |
-| ------------------------ |
-| CURSOS:         |
-| Termux Basico: https://www.facebook.com/media/set/?vanity=grupofspacificsouth&set=a.107691818290561          |
-| Github Basico: https://www.facebook.com/media/set?vanity=grupofspacificsouth&set=a.110288158030927         |
-| Github Intermediario: https://www.facebook.com/media/set?vanity=grupofspacificsouth&set=a.110679364658473           |
-| ------------------------ |
-| MONITORIAS:          |
-| Dando git pull e git merge guiado: https://www.facebook.com/media/set?vanity=grupofspacificsouth&set=a.110653561327720         |
-| ------------------------ |
-| BANCO DE DADOS:          |
-| github: (https://github.com/abel8260/grupo-fs-pacificsouth)            |
-| heroku: (https://grupo-fs-pacificsouth.herokuapp.com)        |
-
-
-
-***
-***
-***
-## :grey_exclamation: Dev-story(lags) : 1 minicurso preparotorio pro exame cs50   (IN SOON)(EM BREVE)
-
-***
-***
-***
-
-| curso de prototipagem          |
-| ------------------------ |
-|  week0-week10           |
-
-
-
-
-***
-***
-***
-## :grey_exclamation: Dev-story(lags) : 1 projeto de game em love2d    (IN SOON)(EM BREVE)
-
-***
-***
-***
-
-| projeto de game em love2d         |
-| ------------------------ |
-|  aula 1            |
-|  aula 2            |
-|  aula 3            |
-
-
-***
-***
-***
-## :grey_exclamation: Dev-story(lags) : curso de prototipagem (IN SOON)(EM BREVE)
-
-***
-***
-***
-
-| curso de prototipagem          |
-| ------------------------ |
-|  curso de ux  basico           |
-|  curso de ui basico            |
-|  curso de fireworks completo pra pc            |
-|  curso de  uizard.io basico           |
-
-
-
-***
-***
-***
-## :grey_exclamation: Dev-story(lags) : curso de python (IN SOON)(EM BREVE)
-
-***
-***
-***
-
-| curso de python        |
-| ------------------------ |
-|  getting started with python            |
-|  curso de python  basico           |
-|  learn python          |
-
-
-
-***
-***
-
-***
-## :grey_exclamation: Dev-story(lags) : curso de python pra games  (IN SOON)(EM BREVE)
-
-***
-***
-***
-
-| curso de python        |
-| ------------------------ |
-|  getting started with pygame        |
-|  invent with python         |
-|  making games          |
-|  program arcade games             |
-|  making games          |
-
-
-***
-***
-***
 # :hammer: Work:
 
 
