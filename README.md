@@ -63,13 +63,6 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 
 
-***
-
-
-
-
-
-# :hammer: Work:
 
 
 ***
