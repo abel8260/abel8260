@@ -21,16 +21,16 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
  > DOC:
  
-![imagem](https://img.shields.io/badge/project-eap%20-blue)
-![imagem](https://img.shields.io/badge/project-itil%20-blue)
-![imagem](https://img.shields.io/badge/project-kpi%20-blue)
-![imagem](https://img.shields.io/badge/project-pdca%20-blue)
-![imagem](https://img.shields.io/badge/project-pmbok%20-blue)
-![imagem](https://img.shields.io/badge/seo-google%20-orange) 
-![imagem](https://img.shields.io/badge/seo-semrush%20-orange) 
-![imagem](https://img.shields.io/badge/seo-sla%20-orange) 
-![imagem](https://img.shields.io/badge/seo-smart15%20-orange) 
-![imagem](https://img.shields.io/badge/seo-sow%20-orange) 
+![imagem](https://img.shields.io/badge/doc-eap%20-blue)
+![imagem](https://img.shields.io/badge/doc-itil%20-blue)
+![imagem](https://img.shields.io/badge/doc-kpi%20-blue)
+![imagem](https://img.shields.io/badge/doc-pdca%20-blue)
+![imagem](https://img.shields.io/badge/doc-pmbok%20-blue)
+![imagem](https://img.shields.io/badge/doc-google%20-orange) 
+![imagem](https://img.shields.io/badge/doc-semrush%20-orange) 
+![imagem](https://img.shields.io/badge/doc-sla%20-orange) 
+![imagem](https://img.shields.io/badge/doc-smart15%20-orange) 
+![imagem](https://img.shields.io/badge/doc-sow%20-orange) 
 
 ***
 
