@@ -76,28 +76,26 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 ***
 
-# Grupo goals: 
+# Goals: 
 
-|  issue                | date       | progress   | milestone  | lag        |  project   |
-| --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| gh inter project | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | cotado     | grupo      |
-| markdown-guide        | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)       | nodate     | cotado     | grupo      |
-| seo                   | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)       | nodate     | cotado     | grupo      |
-| normativity           | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)       | nodate     | cotado     | grupo      |
-| preparatorio pro cs50 |  nodate    | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)|  nodate    | 0          | grupo      |
-| scratch completo      | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | 0          | grupo      |
-| scratch game          | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | 0          | grupo      |
-| curso de python   | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)            | nodate     | cotado      | grupo      |
-| curso de python pra games| nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)     | nodate     | cotado      | grupo      |
-| projeto de game in love2d| nodate     |![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)      | nodate     | cotado      | grupo      |
-
-***
-
-# nodate  
-
-till regularize the course the lags .      
+|  issue                | date       | progress   | milestone  |  project   |
+| --------------------- | ---------- | ---------- | ---------- | ---------- |
+| retirar redo do site  | 2608       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 0109     |  pcraft    |
+| paths 1               | 3008       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 0109     |  sigdu      |
+| mikestone 1           | 0109       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 0109     | github   |
+| sideplataform 1       | 0409       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 1309     |  nerdtubo    |
+| ui basico             | 0709       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        |  1309    |  medigame       |
+| 1 minicurso de scratch| 1009       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 1309     | grupo      |
+| milestone 2           | 1309       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 1309     | github        |
+|1 minicurso de scratch | 3008       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 1609      |  grupo      |
+| curso de protos       | 0709       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 1609      |  grupo      |
+| 1 game project        | 1409       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 1609      | grupo     |
+| milestone 3           | 1609       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | 1609      | github      |
+| prod.suco.io          | 2609       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        |  2609      | github        |
+| prod.reinos de sigdu  | 2609       | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        |  2609     | github        |
 
 ***
+
 
 # ❕Dev-story(lags)
 
@@ -241,19 +239,6 @@ till regularize the course the lags .
 - Site: https://abel8260.github.io/nerdtubo/) :star: :star: :star: :star: :star:
 - A site about victories in the studies.            
 *** 
-
-# Sideprojects goals:  
- 
-|  issue                | date       | progress   | milestone  | lag        |  project   |
-| --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| ui basico             | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/72)        | 140721     | ATRASADO   | medi-game  |
-| legibilidade          | 23/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/72)        | 140721     | ATRASADO   | medi-game  |
-| week 0 project        | 19/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/85)        | 131021     | ATRASADO   | nerdtubo   |
-| pd.prj                | 20/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)         | 200821     | ATRASADO   | apployd    |
-| canvas                | 22/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)         | 250821     | 0          | grupo      |
-| login-others          | 23/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)         | 080921     | 0          | apployd    |
-| sideproject 1         | 22/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/85)        | 131021     | 0          | nerdtubo   |
-| sideproject 2         | 22/08      | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/85)        | 131021     | 0          | nerdtubo   |
 
 
 # :blue_book:  sideprojects:
