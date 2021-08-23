@@ -81,9 +81,9 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 |  issue                | date       | progress   | milestone  | lag        |  project   |
 | --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | gh inter project | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | cotado     | grupo      |
-| markdown-guide        | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/57)       | nodate     | cotado     | grupo      |
-| seo                   | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)       | nodate     | cotado     | grupo      |
-| normativity           | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)       | nodate     | cotado     | grupo      |
+| markdown-guide        | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)       | nodate     | cotado     | grupo      |
+| seo                   | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)       | nodate     | cotado     | grupo      |
+| normativity           | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)       | nodate     | cotado     | grupo      |
 | preparatorio pro cs50 |  nodate    | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)|  nodate    | 0          | grupo      |
 | scratch completo      | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | 0          | grupo      |
 | scratch game          | nodate     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | nodate     | 0          | grupo      |
