@@ -3,7 +3,7 @@
 
 # Motivation:
 
-- ` Its not about winning or lose. Its aboutbe here. Right here and right now.` 
+- ` Its not about winning or lose. Its about be here. Right here and right now.` 
 
 
 ***
