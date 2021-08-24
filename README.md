@@ -1,6 +1,12 @@
 
 # Abel Barbosa (DEV CLASS A+)          
 
+# Motivation:
+
+- ` Its not about winning or lose. Its aboutbe here. Right here and right now.` 
+
+
+***
 
 > I use:
 
