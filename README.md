@@ -10,7 +10,7 @@
 
 > I use:
 - make CLI :
-![imagem](https://img.icons8.com/color/48/000000/c-programming.png) <img src="https://apexensino.com.br/wp-content/uploads/2017/04/tela-15.png" width="48px" height="48px"/>
+![imagem](https://img.icons8.com/color/48/000000/c-programming.png) <img src="https://apexensino.com.br/wp-content/uploads/2017/04/tela-15.png" width="48px" height="48px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Geany_logo.svg/256px-Geany_logo.svg.png" width="48px" height="48px"/> 
 
 
 - Typing:
