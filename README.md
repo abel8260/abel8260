@@ -1,7 +1,7 @@
 
 # Abel Barbosa (DEV CLASS A+)          
 
-# :muscle:Motivation:
+# :muscle: Motivation:
 
 - ` Its not about winning or lose. Its about be here. Right here and right now.` 
 
