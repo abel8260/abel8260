@@ -15,7 +15,7 @@
 ![imagem](https://img.icons8.com/color/48/000000/javascript.png)
 ![imagem](https://img.icons8.com/ios-filled/50/000000/github-2.png)
 ![imagem](https://img.icons8.com/color/48/000000/postgreesql.png)
-![imagem](https://img.icons8.com/color/48/000000/hp-server.png)
+![imagem](https://img.icons8.com/color/48/000000/php-server.png)
 
  ***
  
