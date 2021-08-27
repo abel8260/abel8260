@@ -13,6 +13,7 @@
 ![imagem](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![imagem](https://img.icons8.com/color/48/000000/css3.png)
 ![imagem](https://img.icons8.com/color/48/000000/javascript.png)
+![imagem](https://img.icons8.com/office/40/000000/react.png)
 
 
 - CI/CD:
