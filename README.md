@@ -9,6 +9,10 @@
 ***
 
 > I use:
+- make CLI :
+![imagem](https://img.icons8.com/color/48/000000/c-programming.png)
+
+
 - Typing:
 ![imagem](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![imagem](https://img.icons8.com/fluency/48/000000/sublime-text.png)
