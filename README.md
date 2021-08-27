@@ -9,6 +9,9 @@
 ***
 
 > I use:
+- Typing:
+- ![imagem](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+
 - Front end:
 ![imagem](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![imagem](https://img.icons8.com/color/48/000000/css3.png)
