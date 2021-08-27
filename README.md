@@ -1,7 +1,7 @@
 
 # Abel Barbosa (DEV CLASS A+)          
 
-# :heart: Motivation:
+# :muscle:Motivation:
 
 - ` Its not about winning or lose. Its about be here. Right here and right now.` 
 
@@ -35,7 +35,7 @@
 
  ***
  
- # about me :
+ # :heart: about me :
  
 A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ... so you welcome here be proud of yourself because you are awesome <3           
 
