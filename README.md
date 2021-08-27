@@ -11,6 +11,7 @@
 > I use:
 - Typing:
 ![imagem](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+![imagem](https://img.icons8.com/fluency/48/000000/sublime-text.png)
 
 - Front end:
 ![imagem](https://img.icons8.com/color/48/000000/html-5--v1.png)
