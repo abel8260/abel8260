@@ -15,10 +15,10 @@
 ![imagem](https://img.icons8.com/color/48/000000/javascript.png)
 
 
--CI/CD:
+- CI/CD:
 ![imagem](https://img.icons8.com/ios-filled/50/000000/github-2.png)
 
--Server:
+- Server:
 ![imagem](https://img.icons8.com/ios-filled/50/000000/php-server.png)
 ![imagem](https://img.icons8.com/color/48/000000/postgreesql.png)
 
