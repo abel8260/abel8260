@@ -13,9 +13,14 @@
 ![imagem](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![imagem](https://img.icons8.com/color/48/000000/css3.png)
 ![imagem](https://img.icons8.com/color/48/000000/javascript.png)
+
+
+-CI/CD:
 ![imagem](https://img.icons8.com/ios-filled/50/000000/github-2.png)
-![imagem](https://img.icons8.com/color/48/000000/postgreesql.png)
+
+-Server:
 ![imagem](https://img.icons8.com/ios-filled/50/000000/php-server.png)
+![imagem](https://img.icons8.com/color/48/000000/postgreesql.png)
 
  ***
  
