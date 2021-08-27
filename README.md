@@ -170,6 +170,9 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 - (https://www.markdownguide.org/tools/trello/)
 - (http://cursos.leg.ufpr.br/prr/capMarkdown.html)
 - (https://gist.github.com/rxaviers/7360908)
+- (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- (https://icons8.com.br/)
+- (https://www.google.com/imghp?hl=en)
 
 # :page_facing_up: Good note:
 - Goals only have value if exists all of it in the documentation.    
