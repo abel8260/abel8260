@@ -51,8 +51,8 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 ![imagem](https://img.shields.io/badge/doc-google%20-orange) 
 ![imagem](https://img.shields.io/badge/doc-semrush%20-orange) 
 ![imagem](https://img.shields.io/badge/doc-sla%20-orange) 
-![imagem](https://img.shields.io/badge/doc-smart15%20-orange) 
-![imagem](https://img.shields.io/badge/doc-sow%20-orange) 
+![imagem](https://img.shields.io/badge/doc-smart15%20-blue) 
+![imagem](https://img.shields.io/badge/doc-sow%20-blue) 
 
 ***
 
