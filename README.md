@@ -72,7 +72,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 
 ***
-
+<img src="https://grupo-fs-pacificsouth.herokuapp.com/img_geral/logo2.png" /> 
 - Name: group pacific south;  
 - Site: (https://grupo-fs-pacificsouth.herokuapp.com) :star: :star: :star: :star: :star:
 - A learning programming site. 
