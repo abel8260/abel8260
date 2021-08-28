@@ -65,7 +65,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 # :envelope: Newsletter:
 
 ***
-! <img src="https://crafting-web-paper.herokuapp.com/img/med.png" /> |
+ <img src="https://crafting-web-paper.herokuapp.com/img/med.png" /> 
 - Name: crafting  web and paper   
 - Site: (https://crafting-web-paper.herokuapp.com/src/home/index.php) :star: :star: :star: :star: :star:
 - A site about the news in the 2 ORG's that i admin.
@@ -86,6 +86,8 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 # :mortar_board: Study goals:
 ***
+ <img src="https://i.imgur.com/GGMdcKt.png" /> 
+
 - CS50’s Introduction to Game Development  :star: :star: :star: :star: :star:
 - CS50x  :star: :star: :star: :star: :star:
 - CS193p course, Developing Applications for iOS  :star: :star: :star: :star: :star:
