@@ -70,6 +70,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 - Site: (https://crafting-web-paper.herokuapp.com/src/home/index.php) :star: :star: :star: :star: :star:
 - A site about the news in the 2 ORG's that i admin.
 
+# :sparkles:  Purpose:
 
 ***
 <img src="https://grupo-fs-pacificsouth.herokuapp.com/img_geral/logo2.png"  width="30%" height="30%" /> 
@@ -81,21 +82,6 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 
 
-# :sparkles:  Purpose: 
-
-
-
-
-
-***
-- Name: group pacific south;  
-- Site: (https://www.facebook.com/grupofspacificsouth) :star: :star: :star: :star: :star:
-- A learning programming site.           
-***
-- Name: group pacific south;  
-- Site: (https://grupo-fs-pacificsouth.herokuapp.com) :star: :star: :star: :star: :star:
-- A learning programming site.           
-***
 
 # :mortar_board: Study goals:
 ***
