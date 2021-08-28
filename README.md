@@ -94,6 +94,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 ***
 
 ***
+<img src="https://abel8260.github.io/nerdtubo/img/logo.png" />
 - Name: Portfolio of studies/ Nerdtubo
 - Site: https://abel8260.github.io/nerdtubo/) :star: :star: :star: :star: :star:
 - A site about victories in the studies.            
