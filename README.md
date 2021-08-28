@@ -131,6 +131,9 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 ***
 
 ***
+<img src="https://magistaapp.herokuapp.com/img-geral/TITLE-HOME.png"  width="30%" height="30%" />
+
+
 - Name: APP magista      
 - Site: (https://magistaapp.herokuapp.com/) :star: :star: :star: :star: :star:
 - A library of memes to you play with your friends.            
