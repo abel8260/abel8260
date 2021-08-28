@@ -142,6 +142,8 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 
 ***
+<img src="https://koppapercraft.herokuapp.com/fr/loja/img/PERSONALCUSTOM20.png"  width="30%" height="30%" />
+
 - Name: kop papercraft    
 - Site: (https://koppapercraft.herokuapp.com/) :star: :star: :star: :star: :star:
 - This is the site about my creation on my hobby.            
