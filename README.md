@@ -169,7 +169,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 ***
 
 ***
-- Name: Souls like series - Proect
+- Name: Souls like series - Project
 - Site: (https://projeto-soulslikeseriejogo.herokuapp.com/) :star: :star: :star: :star: :star:
 - This is a portal to sigdu kingdom. There are  infos  and extra content.                
 ***
