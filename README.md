@@ -65,7 +65,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 # :envelope: Newsletter:
 
 ***
-
+- <img src="https://crafting-web-paper.herokuapp.com/img/med.png" width="96px" height="48px"/>
 - Name: crafting  web and paper   
 - Site: (https://crafting-web-paper.herokuapp.com/src/home/index.php) :star: :star: :star: :star: :star:
 - A site about the news in the 2 ORG's that i admin.
