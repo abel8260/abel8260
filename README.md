@@ -115,6 +115,8 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 ***
 
 ***
+<img src="https://apployd.herokuapp.com/img_geral/MASTER-ICO.png"  width="30%" height="30%" />
+
 - Name: [APP]loy.d 
 - Site: (https://apployd.herokuapp.com/) :star: :star: :star: :star: :star:
 - My own appstore with apps and awesome things.            
