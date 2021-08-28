@@ -86,7 +86,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 # :mortar_board: Study goals:
 ***
- <img src="https://cdn.shopify.com/s/files/1/0084/9282/files/THS_red_logo_bf536f46-d865-4c97-8bd4-88d6f40a0154_800x.png?v=1558704408" /> 
+ <img src="https://cdn.shopify.com/s/files/1/0084/9282/files/THS_red_logo_bf536f46-d865-4c97-8bd4-88d6f40a0154_800x.png?v=1558704408"  width="30%" height="30%" /> 
 
 - CS50’s Introduction to Game Development  :star: :star: :star: :star: :star:
 - CS50x  :star: :star: :star: :star: :star:
