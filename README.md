@@ -33,19 +33,7 @@
 ![imagem](https://img.icons8.com/ios-filled/50/000000/php-server.png)
 ![imagem](https://img.icons8.com/color/48/000000/postgreesql.png)
 
- ***
- 📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=abel8260&hide_title=true&hide_border=true&langs_count=5)
-
-<details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/abel8260/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=abel8260&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-  </a>
-
-</details>
+ 
 
 ***
 
