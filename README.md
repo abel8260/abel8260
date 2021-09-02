@@ -7,7 +7,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning react and react native    
 - 💬 Ask me about anything related to html and css.  
-- 📫 How to reach me: [@abelbarbosa.23](https://www.facebook.com/abel.barbosa.23) or see my portfolio <a rel="me" href="hhttps://portfolioebol.herokuapp.com/">https://portfolioebol.herokuapp.com/r</a>
+- 📫 How to reach me: [@abelbarbosa.23](https://www.facebook.com/abel.barbosa.23) or see my portfolio <a rel="me" href="hhttps://portfolioebol.herokuapp.com/">https://portfolioebol.herokuapp.com/</a>
 - ⚡ Fun fact: I :heart: :dog:s
 
 # :muscle: Motivation:
