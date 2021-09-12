@@ -61,9 +61,6 @@ This is the place where I opensource stuff and break things :rofl:
 
 # Metodos:(seus metodos)
 ***
-* ![imagem](https://img.icons8.com/ios-filled/50/000000/github-2.png)
-
-***
 - git: <img src="https://img.icons8.com/ios-filled/48/000000/git.png"/>
 - git commit: <img src="https://img.icons8.com/material-outlined/48/000000/commit-git.png"/>
 - git branch:  <img src="https://img.icons8.com/material-outlined/48/000000/code-fork.png"/>
@@ -84,15 +81,7 @@ github actions: <img src="https://img.icons8.com/material-outlined/48/000000/cir
 ***
 heroku pipeline: <img src="https://www0.assets.heroku.com/assets/platform/diagram-1468b013f73d655d92a827440969487d64c2e469398cd01783101bf79d18ab8a.png" width="150px" height="50px"/>
 
-***
-# Refferences:(referencias que você usou) 
 
-- conversor : (https://markdowntohtml.com/) (É basico saber markdown para este link)
-- projeto 1 e 2: (https://github.com/abel8259/github-curso-intermediario/blob/main/projeto1-2.md) em markdown    
-- projeto 3:(https://github.com/abel8259/github-curso-intermediario/blob/main/projeto-3-perfil-escalavel-em-md.md) 
-- imagens: (https://icons8.com.br/)
-
-***
 
 <img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>***
  # :heart: about me :
