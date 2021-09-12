@@ -79,11 +79,15 @@ This is the place where I opensource stuff and break things :rofl:
 github actions: <img src="https://img.icons8.com/material-outlined/48/000000/circled-play.png"/>
 
 ***
+
 heroku pipeline: <img src="https://www0.assets.heroku.com/assets/platform/diagram-1468b013f73d655d92a827440969487d64c2e469398cd01783101bf79d18ab8a.png" width="150px" height="50px"/>
 
 
 
-<img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>***
+<img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
+
+***
+
  # :heart: about me :
  
 A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ... so you welcome here be proud of yourself because you are awesome <3           
