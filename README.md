@@ -42,6 +42,55 @@ This is the place where I opensource stuff and break things :rofl:
 ![imagem](https://img.icons8.com/color/48/000000/postgreesql.png)
 
  
+# Nome  ROCK (preencha conforme o seu nome  
+- Statement: Rock Studios.co (preencha com a empresa)   
+
+# Languages: (preencha com as linguagens que voce usa)  
+
+<img src="https://img.icons8.com/color/48/000000/markdown.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699749-icon-103-document-file-yml-512.png" width="48px" height="48px"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+
+***
+
+# SOFT SKILLS:(preencha  com as suas)    
+
+- Liderança
+- Criatividade
+- Proatividade
+- Pensamento crítico
+
+
+# Metodos:(seus metodos)
+***
+* ![imagem](https://img.icons8.com/ios-filled/50/000000/github-2.png)
+
+***
+- git: <img src="https://img.icons8.com/ios-filled/48/000000/git.png"/>
+- git commit: <img src="https://img.icons8.com/material-outlined/48/000000/commit-git.png"/>
+- git branch:  <img src="https://img.icons8.com/material-outlined/48/000000/code-fork.png"/>
+- git push: <img src="https://img.icons8.com/material-outlined/48/000000/upload--v2.png"/>
+- git pull request: <img src="https://img.icons8.com/material-outlined/48/000000/pull-request.png"/>
+- git compare: <img src="https://img.icons8.com/material-outlined/48/000000/compare-git.png"/>
+- git merge: <img src="https://img.icons8.com/material-outlined/48/000000/merge-git.png"/>
+- confirm merge: <img src="https://img.icons8.com/material-outlined/48/000000/reviewer-female.png"/>
+
+***
+
+* CI/CD: <img src="https://img.icons8.com/material-outlined/48/000000/cloud-link.png"/> 
+
+
+***
+github actions: <img src="https://img.icons8.com/material-outlined/48/000000/circled-play.png"/>
+
+***
+heroku pipeline: <img src="https://www0.assets.heroku.com/assets/platform/diagram-1468b013f73d655d92a827440969487d64c2e469398cd01783101bf79d18ab8a.png" width="150px" height="50px"/>
+
+***
+# Refferences:(referencias que você usou) 
+
+- conversor : (https://markdowntohtml.com/) (É basico saber markdown para este link)
+- projeto 1 e 2: (https://github.com/abel8259/github-curso-intermediario/blob/main/projeto1-2.md) em markdown    
+- projeto 3:(https://github.com/abel8259/github-curso-intermediario/blob/main/projeto-3-perfil-escalavel-em-md.md) 
+- imagens: (https://icons8.com.br/)
 
 ***
 
