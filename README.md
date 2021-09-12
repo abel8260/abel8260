@@ -42,16 +42,16 @@ This is the place where I opensource stuff and break things :rofl:
 ![imagem](https://img.icons8.com/color/48/000000/postgreesql.png)
 
  
-# Nome  ROCK (preencha conforme o seu nome  
+# Nome:  ROCK 
 - Statement: Rock Studios.co (preencha com a empresa)   
 
-# Languages: (preencha com as linguagens que voce usa)  
+# Languages:   
 
 <img src="https://img.icons8.com/color/48/000000/markdown.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699749-icon-103-document-file-yml-512.png" width="48px" height="48px"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 
 ***
 
-# SOFT SKILLS:(preencha  com as suas)    
+# SOFT SKILLS:   
 
 - Liderança
 - Criatividade
@@ -59,7 +59,7 @@ This is the place where I opensource stuff and break things :rofl:
 - Pensamento crítico
 
 
-# Metodos:(seus metodos)
+# Metodos:
 ***
 - git: <img src="https://img.icons8.com/ios-filled/48/000000/git.png"/>
 - git commit: <img src="https://img.icons8.com/material-outlined/48/000000/commit-git.png"/>
