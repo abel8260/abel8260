@@ -43,7 +43,7 @@ This is the place where I opensource stuff and break things :rofl:
 
  
 # Nome:  ROCK 
-- Statement: Rock Studios.co (preencha com a empresa)   
+- Statement: Rock Studios.co 
 
 # Languages:   
 
