@@ -5,6 +5,6 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning react and react native    
+- 🌱 I’m currently learning scrum;    
 - 💬 Ask me about anything related to html and css.  
 - ⚡ Fun fact: I :heart: :dog:s
