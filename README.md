@@ -15,7 +15,6 @@ This is the place where I opensource stuff  :rofl:
 
 #### PS-do-it-FOR-BACKLOG
 
-- Status: em desenvolvimento
 - HTTPS:  https://abel8260.github.io/PS-do-it-FOR-BACKLOG/codigo_neste_lugar/home.html
 - Descriçao: Auxiliar de quadro scrum
 
@@ -24,6 +23,6 @@ This is the place where I opensource stuff  :rofl:
 #### Lista de cursos:   
 
 - HTTPS:   https://abel8260.github.io/lista_de_cursos/
-- Descriçao: Lista decursos disponiveis na web.
+- Descriçao: Lista de cursos disponiveis na web.
 
 ---   
