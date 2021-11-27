@@ -10,3 +10,10 @@ This is the place where I opensource stuff  :rofl:
 - 🌱 I’m currently learning scrum;    
 - 💬 Ask me about anything related to html and css.  
 - ⚡ Fun fact: I :heart: :dog:s
+
+---
+
+#### PS-do-it-FOR-BACKLOG
+
+- Status: em desenvolvimento
+- HTTPS:  
