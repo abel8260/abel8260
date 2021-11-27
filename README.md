@@ -23,7 +23,6 @@ This is the place where I opensource stuff  :rofl:
 
 #### Lista de cursos:   
 
-- Status: em produçao
 - HTTPS:   https://abel8260.github.io/lista_de_cursos/
 - Descriçao: Lista decursos disponiveis na web.
 
