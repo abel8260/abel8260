@@ -26,3 +26,9 @@ This is the place where I opensource stuff  :rofl:
 - Descriçao: Lista de cursos disponiveis na web.
 
 ---   
+#### Plataformas Oskopos:   
+
+- HTTPS:   https://github.com/abel8260/plataform-OSKOPOs
+- Descriçao: 2 plataformas base para galeria de arte e para o youtube.           
+
+---   
