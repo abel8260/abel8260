@@ -137,6 +137,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 - Descriçao: Lista de cursos disponiveis na web.
 
 ---   
+
 #### Plataformas Oskopos:   
 
 - HTTPS:   https://github.com/abel8260/plataform-OSKOPOs
@@ -151,6 +152,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 # :envelope: Newsletter:
 
 ***
+
  <img src="https://crafting-web-paper.herokuapp.com/img/med.png" /> 
  
 - Name: crafting  web and paper   
@@ -160,6 +162,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 # :sparkles:  Purpose:
 
 ***
+
 <img src="https://grupo-fs-pacificsouth.herokuapp.com/img_geral/logo2.png"  width="30%" height="30%" /> 
 
 - Name: group pacific south;  
@@ -172,26 +175,24 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 
 # :mortar_board: Study goals:
+
 ***
+
  <img src="https://cdn.shopify.com/s/files/1/0084/9282/files/THS_red_logo_bf536f46-d865-4c97-8bd4-88d6f40a0154_800x.png?v=1558704408"  width="30%" height="30%" /> 
 
 - CS50’s Introduction to Game Development  :star: :star: :star: :star: :star:
 - CS50x  :star: :star: :star: :star: :star:
 - CS193p course, Developing Applications for iOS  :star: :star: :star: :star: :star:
-***
 
 ***
-<img src="https://abel8260.github.io/nerdtubo/img/logo.png"  width="30%" height="30%" /> 
-- Name: Portfolio of studies/ Nerdtubo
-- Site: https://abel8260.github.io/nerdtubo/) :star: :star: :star: :star: :star:
-- A site about victories in the studies.            
-*** 
 
 
 # :blue_book:  sideprojects:
 
 
+
 ***
+
 <img src="https://medi-game.herokuapp.com/img/TITLE.png"  width="30%" height="30%" /> 
 
 - Name: medi-game 
@@ -202,75 +203,83 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 ***
 
 ***
+
 <img src="https://apployd.herokuapp.com/img_geral/MASTER-ICO.png"  width="30%" height="30%" />
 
 - Name: [APP]loy.d 
 - Site: (https://apployd.herokuapp.com/) :star: :star: :star: :star: :star:
-- My own appstore with apps and awesome things.            
+- My own appstore with apps and awesome things.
+            
 ***
 
 ***
+
 <img src="https://portfolioebol.herokuapp.com/img_geral/pp.png" />
 
 - Name: portfolio of abel   
 - Site: (https://portfolioebol.herokuapp.com/) :star: :star: :star: :star: :star:
-- My own portfolio of softwares .            
+- My own portfolio of softwares .           
+ 
 ***
 
 ***
+
 <img src="https://magistaapp.herokuapp.com/img-geral/TITLE-HOME.png"  width="30%" height="30%" />
 
 
 - Name: APP magista      
 - Site: (https://magistaapp.herokuapp.com/) :star: :star: :star: :star: :star:
-- A library of memes to you play with your friends.            
+- A library of memes to you play with your friends. 
+           
 ***
 
 
 
 ***
+
 <img src="https://koppapercraft.herokuapp.com/fr/loja/img/PERSONALCUSTOM20.png"  width="30%" height="30%" />
 
 - Name: kop papercraft    
 - Site: (https://koppapercraft.herokuapp.com/) :star: :star: :star: :star: :star:
-- This is the site about my creation on my hobby.            
+- This is the site about my creation on my hobby.
+            
 ***
 
 
 
 
 ***
+
 <img src="https://sigdu-kingdom.herokuapp.com/img_geral/PROTOTIPO%20DESIGN%20V3/logo.png"  width="30%" height="30%" />
 
 - Name: Sigdu kingdom  
 - Site: (https://sigdu-kingdom.herokuapp.com/) :star: :star: :star: :star: :star:
-- TThis isa game Soulslike and give so much fun to players.            
+- TThis isa game Soulslike and give so much fun to players.  
+          
 ***
 
 ***
+
 <img src="https://resig-home.herokuapp.com/img/IN.png"  width="30%" height="30%" />
 
 - Name: Resig - game engine  
 - Site: (https://resig-home.herokuapp.com/) :star: :star: :star: :star: :star:
-- This is a game engine for text-adventures games used in sigdu-kingdom.            
+- This is a game engine for text-adventures games used in sigdu-kingdom.  
+          
 ***
 
+
+
 ***
+
 <img src="https://apployd.herokuapp.com/img_geral/slsj-5-theme.png"  width="30%" height="30%" />
 
 - Name: Souls like series - Project
 - Site: (https://projeto-soulslikeseriejogo.herokuapp.com/) :star: :star: :star: :star: :star:
-- This is a portal to sigdu kingdom. There are  infos  and extra content.                
+- This is a portal to sigdu kingdom. There are  infos  and extra content. 
+               
 ***
 
-# :books: Refs:
-- (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- (https://www.markdownguide.org/tools/trello/)
-- (http://cursos.leg.ufpr.br/prr/capMarkdown.html)
-- (https://gist.github.com/rxaviers/7360908)
-- (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
-- (https://icons8.com.br/)
-- (https://www.google.com/imghp?hl=en)
 
 # :page_facing_up: Good note:
 - Goals only have value if exists all of it in the documentation.    
