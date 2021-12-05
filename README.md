@@ -12,16 +12,7 @@ This is the place where I opensource stuff  :rofl:
 - ⚡ Fun fact: I :heart: :dog:s
 
 
-# :star_struck: Abel Barbosa (DEV CLASS A+) 
 
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is the place where I opensource stuff and break things :rofl:
-
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning react and react native    
-- 💬 Ask me about anything related to html and css.  
-- 📫 How to reach me: [@abelbarbosa.23](https://www.facebook.com/abel.barbosa.23) or see my portfolio <a rel="me" href="hhttps://portfolioebol.herokuapp.com/">https://portfolioebol.herokuapp.com/</a>
-- ⚡ Fun fact: I :heart: :dog:s
 
 # :muscle: Motivation:
 
