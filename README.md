@@ -98,18 +98,10 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 ***
 
- # :office: DOC:
+ # :office: Method:
  
-![imagem](https://img.shields.io/badge/doc-eap%20-blue)
-![imagem](https://img.shields.io/badge/doc-itil%20-blue)
-![imagem](https://img.shields.io/badge/doc-kpi%20-blue)
-![imagem](https://img.shields.io/badge/doc-pdca%20-blue)
-![imagem](https://img.shields.io/badge/doc-pmbok%20-blue)
-![imagem](https://img.shields.io/badge/doc-google%20-orange) 
-![imagem](https://img.shields.io/badge/doc-semrush%20-orange) 
-![imagem](https://img.shields.io/badge/doc-sla%20-orange) 
-![imagem](https://img.shields.io/badge/doc-smart15%20-blue) 
-![imagem](https://img.shields.io/badge/doc-sow%20-blue) 
+![imagem](https://img.shields.io/badge/scrum%20-blue)
+![imagem](https://img.shields.io/badge/kambam%20-blue)
 
 ***
 
@@ -120,165 +112,27 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 ---
 
-- Fase 2: 
-
----
 
 #### PS-do-it-FOR-BACKLOG
 
 - HTTPS:  https://abel8260.github.io/PS-do-it-FOR-BACKLOG/codigo_neste_lugar/home.html
-- Descriçao: Auxiliar de quadro scrum
+- Description: Scrum-helper.
 
 ---
 
 #### Lista de cursos:   
 
 - HTTPS:   https://abel8260.github.io/lista_de_cursos/
-- Descriçao: Lista de cursos disponiveis na web.
+- Description: List of courses.
 
 ---   
 
-#### Plataformas Oskopos:   
+#### Plataform of str streamming:   
 
 - HTTPS:   https://github.com/abel8260/plataform-OSKOPOs
-- Descriçao: 2 plataformas base para galeria de arte e para o youtube.           
+- Description: A channel video channel.           
 
 ---   
-
-- Fase 1: 
-
----
-
-# :envelope: Newsletter:
-
-***
-
- <img src="https://crafting-web-paper.herokuapp.com/img/med.png" /> 
- 
-- Name: crafting  web and paper   
-- Site: (https://crafting-web-paper.herokuapp.com/src/home/index.php) :star: :star: :star: :star: :star:
-- A site about the news in the 2 ORG's that i admin.
-
-# :sparkles:  Purpose:
-
-***
-
-<img src="https://grupo-fs-pacificsouth.herokuapp.com/img_geral/logo2.png"  width="30%" height="30%" /> 
-
-- Name: group pacific south;  
-- Site: (https://grupo-fs-pacificsouth.herokuapp.com) :star: :star: :star: :star: :star:
-- A learning programming site. 
-
-***
-
-
-
-
-# :mortar_board: Study goals:
-
-***
-
- <img src="https://cdn.shopify.com/s/files/1/0084/9282/files/THS_red_logo_bf536f46-d865-4c97-8bd4-88d6f40a0154_800x.png?v=1558704408"  width="30%" height="30%" /> 
-
-- CS50’s Introduction to Game Development  :star: :star: :star: :star: :star:
-- CS50x  :star: :star: :star: :star: :star:
-- CS193p course, Developing Applications for iOS  :star: :star: :star: :star: :star:
-
-***
-
-
-# :blue_book:  sideprojects:
-
-
-
-***
-
-<img src="https://medi-game.herokuapp.com/img/TITLE.png"  width="30%" height="30%" /> 
-
-- Name: medi-game 
-- Site: (https://medi-game.herokuapp.com/) :star: :star: :star: :star: :star:
-- Repo: (https://github.com/abel8260/medi-game) :star: :star: :star: :star: :star:
-- A  game about meditation, to more info read the documentation on the repo here in the github.   
-- Progresso:   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/75)       
-***
-
-***
-
-<img src="https://apployd.herokuapp.com/img_geral/MASTER-ICO.png"  width="30%" height="30%" />
-
-- Name: [APP]loy.d 
-- Site: (https://apployd.herokuapp.com/) :star: :star: :star: :star: :star:
-- My own appstore with apps and awesome things.
-            
-***
-
-***
-
-<img src="https://portfolioebol.herokuapp.com/img_geral/pp.png" />
-
-- Name: portfolio of abel   
-- Site: (https://portfolioebol.herokuapp.com/) :star: :star: :star: :star: :star:
-- My own portfolio of softwares .           
- 
-***
-
-***
-
-<img src="https://magistaapp.herokuapp.com/img-geral/TITLE-HOME.png"  width="30%" height="30%" />
-
-
-- Name: APP magista      
-- Site: (https://magistaapp.herokuapp.com/) :star: :star: :star: :star: :star:
-- A library of memes to you play with your friends. 
-           
-***
-
-
-
-***
-
-<img src="https://koppapercraft.herokuapp.com/fr/loja/img/PERSONALCUSTOM20.png"  width="30%" height="30%" />
-
-- Name: kop papercraft    
-- Site: (https://koppapercraft.herokuapp.com/) :star: :star: :star: :star: :star:
-- This is the site about my creation on my hobby.
-            
-***
-
-
-
-
-***
-
-<img src="https://sigdu-kingdom.herokuapp.com/img_geral/PROTOTIPO%20DESIGN%20V3/logo.png"  width="30%" height="30%" />
-
-- Name: Sigdu kingdom  
-- Site: (https://sigdu-kingdom.herokuapp.com/) :star: :star: :star: :star: :star:
-- TThis isa game Soulslike and give so much fun to players.  
-          
-***
-
-***
-
-<img src="https://resig-home.herokuapp.com/img/IN.png"  width="30%" height="30%" />
-
-- Name: Resig - game engine  
-- Site: (https://resig-home.herokuapp.com/) :star: :star: :star: :star: :star:
-- This is a game engine for text-adventures games used in sigdu-kingdom.  
-          
-***
-
-
-
-***
-
-<img src="https://apployd.herokuapp.com/img_geral/slsj-5-theme.png"  width="30%" height="30%" />
-
-- Name: Souls like series - Project
-- Site: (https://projeto-soulslikeseriejogo.herokuapp.com/) :star: :star: :star: :star: :star:
-- This is a portal to sigdu kingdom. There are  infos  and extra content. 
-               
-***
 
 
 # :page_facing_up: Good note:
