@@ -28,7 +28,7 @@ This is the place where I opensource stuff  :rofl:
 
 - Typing:
 ![imagem](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-![imagem](https://img.icons8.com/fluency/48/000000/sublime-text.png)  <img src="https://symbols.getvecta.com/stencil_81/52_gitpod-icon.20f12c5be8.svg" width="48px" height="48px"/> <img src="https://2.bp.blogspot.com/-FWNntDBxgNw/WoMhI0PuQXI/AAAAAAAACgI/r61AZmBrxFgadCQwypw5_LZmt2zi1uPJACLcBGAs/s1600/APRENDA%2BA%2BPROGRAMAR%2BEM%2BPASCAL%2BCOM%2BO%2BPASCALZIM.jpg" width="96px" height="48px"/> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
+![imagem](https://img.icons8.com/fluency/48/000000/sublime-text.png)  <img src="https://symbols.getvecta.com/stencil_81/52_gitpod-icon.20f12c5be8.svg" width="48px" height="48px"/> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
 - Front end:
 ![imagem](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![imagem](https://img.icons8.com/color/48/000000/css3.png)
