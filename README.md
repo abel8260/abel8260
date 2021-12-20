@@ -98,7 +98,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 ***
 
- # :office: Method:
+ # :office: Documentation:
  
 ![imagem](https://img.shields.io/badge/scrum%20-blue)
 ![imagem](https://img.shields.io/badge/kambam%20-blue)
