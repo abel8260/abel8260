@@ -127,7 +127,7 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 
 ---   
 
-#### Plataform of str streamming:   
+#### Acadêmico do canal:   
 
 - HTTPS:   https://github.com/abel8260/plataform-OSKOPOs
 - Description: A channel video channel.           
