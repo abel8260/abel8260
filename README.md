@@ -6,7 +6,7 @@ This is the place where I opensource stuff  :rofl:
 
 ---
 
-- 🔭 I’m currently working on a new type of design pattern :wink:
+- 🔭 I’m currently working on a new type of design concept of maximized  reality;   
 - 🌱 I’m currently learning laravel  ;    
 - 💬 Ask me about anything related to html and css.  
 - ⚡ Fun fact: I :heart: :dog:s
