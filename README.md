@@ -39,7 +39,7 @@ This is the place where I opensource stuff  :rofl:
 
  
 # Nome:  ROCK 
-- Statement: Rock Studios.co (preencha com a empresa)   
+- Statement: Rock Studios.co    
 
 # Languages:   
 
