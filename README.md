@@ -23,13 +23,11 @@ This is the place where I opensource stuff  :rofl:
 - Typing:
 ![imagem](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![imagem](https://img.icons8.com/fluency/48/000000/sublime-text.png) <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
+
 - Front end:
 ![imagem](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![imagem](https://img.icons8.com/color/48/000000/css3.png)
 ![imagem](https://img.icons8.com/color/48/000000/javascript.png)
-![imagem](https://img.icons8.com/office/40/000000/react.png)
-![imagem](https://img.icons8.com/color/48/000000/nodejs.png)
-
 
 - CI/CD:
 ![imagem](https://img.icons8.com/ios-filled/50/000000/github-2.png)
