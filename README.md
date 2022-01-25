@@ -4,9 +4,9 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 This is the place where I opensource stuff  :rofl:
 
----
----
----
+
+***
+
 
 # Tabela do colaborador      
 
@@ -18,9 +18,7 @@ This is the place where I opensource stuff  :rofl:
 
 
 ***
----
----
----
+
 
 
 
@@ -45,9 +43,9 @@ This is the place where I opensource stuff  :rofl:
 - HTTPS:   https://github.com/abel8260/plataform-OSKOPOs
 - Description: A channel video channel.           
 
---- 
----
----
+
+***
+
 # Tech:
 - make CLI :
  <img src="https://findicons.com/files/icons/1035/human_o2/128/text_x_pascal.png" width="48px" height="48px"/> <img src="https://apexensino.com.br/wp-content/uploads/2017/04/tela-15.png" width="48px" height="48px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Geany_logo.svg/256px-Geany_logo.svg.png" width="48px" height="48px"/> 
@@ -117,24 +115,22 @@ heroku pipeline: <img src="https://www0.assets.heroku.com/assets/platform/diagra
 
 
 ***
----
----
+
 
  # :office: Documentation:
  
 ![imagem](https://img.shields.io/badge/scrum%20-blue)
 ![imagem](https://img.shields.io/badge/kambam%20-blue)
 
-***
+---
 
 # :speech_balloon: About my class : 
-***
+
 ![image](https://github-readme-stats.vercel.app/api?username=abel8260)
 
+
 ***
----
----
----
+
 
 
 # :page_facing_up: Good note:
