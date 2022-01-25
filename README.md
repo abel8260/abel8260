@@ -36,14 +36,6 @@ This is the place where I opensource stuff  :rofl:
 - HTTPS:   https://abel8260.github.io/lista_de_cursos/
 - Description: List of courses.
 
----   
-
-#### Acadêmico do canal:   
-
-- HTTPS:   https://github.com/abel8260/plataform-OSKOPOs
-- Description: A channel video channel.           
-
-
 ***
 
 # Tech:
