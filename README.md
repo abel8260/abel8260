@@ -4,7 +4,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 This is the place where I opensource stuff  :rofl:
 
-
+---
+---
 ---
 
 # Tabela do colaborador      
@@ -13,7 +14,9 @@ This is the place where I opensource stuff  :rofl:
 | ----------------------- | ---------------------------------------- | ---------------------------- | --------------------------- |
 | x                       | nome na tabela                           | <img src="https://i.ibb.co/M2FLMmk/res1.png"  width="100px"> | abel vasconcelos b     |                
 
-
+---
+---
+---
 
 # :muscle: Motivation:
 
@@ -21,6 +24,9 @@ This is the place where I opensource stuff  :rofl:
 
 
 ***
+---
+---
+---
 
 # Tech:
 - make CLI :
@@ -90,6 +96,8 @@ heroku pipeline: <img src="https://www0.assets.heroku.com/assets/platform/diagra
 <img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
 
 ***
+---
+---
 
  # :heart: about me :
  
@@ -110,7 +118,8 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 ***
 
 ---
-
+---
+---
 
 #### PS-do-it-FOR-BACKLOG
 
@@ -131,7 +140,9 @@ A  complete fan of traditional 90's  and 2000's sites. My  sites is that side ..
 - HTTPS:   https://github.com/abel8260/plataform-OSKOPOs
 - Description: A channel video channel.           
 
----   
+--- 
+---
+---
 
 
 # :page_facing_up: Good note:
