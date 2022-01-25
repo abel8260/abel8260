@@ -11,7 +11,7 @@ This is the place where I opensource stuff  :rofl:
 
 |  mes                    | bonus                                    |   profile (img)              | name                        | 
 | ----------------------- | ---------------------------------------- | ---------------------------- | --------------------------- |
-| x                       | nome na tabela                           | <img src="https://i.ibb.co/M2FLMmk/res1.png"  width="25px"> | abel vasconcelos b     |                
+| x                       | nome na tabela                           | <img src="https://i.ibb.co/M2FLMmk/res1.png"  width="100px"> | abel vasconcelos b     |                
 
 
 
