@@ -7,7 +7,7 @@ This is the place where I opensource stuff  :rofl:
 
 ***
 
-<iframe src="https://giphy.com/embed/PnzZ9Fwq3Fl1vLsY3O" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/maxcomedian-PnzZ9Fwq3Fl1vLsY3O">via GIPHY</a></p>
+<img src="https://giphy.com/embed/PnzZ9Fwq3Fl1vLsY3O" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/maxcomedian-PnzZ9Fwq3Fl1vLsY3O">via GIPHY</a></p>
 
 ***
 
