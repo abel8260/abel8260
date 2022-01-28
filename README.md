@@ -14,9 +14,9 @@ This is the place where I opensource stuff  :rofl:
 
 # Tabela do colaborador      
 
-|  mes                    | bonus                                    |   profile (img)              | name                        | 
-| ----------------------- | ---------------------------------------- | ---------------------------- | --------------------------- |
-| x                       | nome na tabela                           | <img src="https://i.ibb.co/M2FLMmk/res1.png"  width="100px"> | abel vasconcelos b     |                
+|  mes                    | bonus                                    |   profile (img)              |  
+| ----------------------- | ---------------------------------------- | ---------------------------- |
+| x                       | numero de contribuiçao                   | anonimo                      |             
 
 
 
