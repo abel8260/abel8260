@@ -14,9 +14,9 @@ This is the place where I opensource stuff  :rofl:
 
 # Tabela do colaborador      
 
-|  mes                    | bonus                                    |   profile (img)              |  
-| ----------------------- | ---------------------------------------- | ---------------------------- |
-| x                       | numero de contribuiçao                   | anonimo                      |             
+|  mes                    | bonus                                    |    
+| ----------------------- | ---------------------------------------- |
+| x                       | numero de contribuiçao                   |             
 
 
 
