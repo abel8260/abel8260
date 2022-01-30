@@ -14,7 +14,7 @@ This is the place where I opensource stuff  :rofl:
 
 # Tabela do colaborador      
 
-|  mes                    | bonus                                    |    
+|  mes                    | id da lista de contribuiçao              |    
 | ----------------------- | ---------------------------------------- |
 | x                       | numero de contribuiçao                   |             
 
