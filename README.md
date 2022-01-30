@@ -14,7 +14,7 @@ This is the place where I opensource stuff  :rofl:
 
 # Tabela do colaborador      
 
--totalmente anonimo  
+- totalmente anonimo  
 
 |  mes                    | id da lista de contribuiçao              |    
 | ----------------------- | ---------------------------------------- |
