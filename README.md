@@ -32,7 +32,7 @@ This is the place where I opensource stuff  :rofl:
 
 #### PS-do-it-FOR-BACKLOG
 
-- HTTPS:  https://abel8260.github.io/PS-do-it-FOR-BACKLOG/codigo_neste_lugar/home.html
+- HTTPS:  https://github.com/abel8260/PS-do-it-FOR-BACKLOG
 - Description: Scrum-helper.
 
 ---
