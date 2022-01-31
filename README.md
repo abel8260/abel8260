@@ -50,6 +50,12 @@ This is the place where I opensource stuff  :rofl:
 
 ***
 
+##### PaaS WESIO:
+
+- HTTTPS: https://github.com/abel8259/PaaS_wesio
+- Description: fictional criptocurrency for support projects.
+
+***
 
 # Tech:
 - make CLI :
