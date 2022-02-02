@@ -7,7 +7,7 @@ This is the place where I opensource stuff  :rofl:
 
 ***
 
-<img src="https://giphy.com/embed/KtRokYwqyIeLwWH9M3" alt="Charity Give Back GIF by Max Amini" style="width: 500px; height: 500px; left: 0px; top: 0px; opacity: 0;">
+<img src="https://i.giphy.com/media/OG1J8Gg0aJQwWwfsVB/200w.webp" alt="Charity Give Back GIF by Max Amini" style="width: 500px; height: 500px; left: 0px; top: 0px; opacity: 0;">
 
 
 ***
