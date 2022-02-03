@@ -14,7 +14,7 @@ This is the place where I opensource stuff
 
 # Lojinha no github :
 
----
+
 
 link: https://github.com/users/abel8260/projects/10
 
@@ -22,7 +22,7 @@ link: https://github.com/users/abel8260/projects/10
 
 
 #  Serviços:
----
+
 #### PS-do-it-FOR-BACKLOG
 
 - HTTPS:  https://github.com/abel8260/PS-do-it-FOR-BACKLOG
