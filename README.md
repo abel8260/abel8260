@@ -25,7 +25,7 @@ This is the place where I opensource stuff
 
 ***
 
-# Exposiçao:
+# Lojinha no github :
 
 link: https://github.com/users/abel8260/projects/10
 
