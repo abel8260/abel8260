@@ -12,20 +12,9 @@ This is the place where I opensource stuff
 
 ***
 
-# Tabela do colaborador      
-
-- totalmente anonimo  
-
-|  mes                    | id da lista de contribuiçao              |    
-| ----------------------- | ---------------------------------------- |
-| x                       | numero de contribuiçao                   |             
-
-
-
-
-***
-
 # Lojinha no github :
+
+---
 
 link: https://github.com/users/abel8260/projects/10
 
@@ -33,7 +22,7 @@ link: https://github.com/users/abel8260/projects/10
 
 
 #  Serviços:
-
+---
 #### PS-do-it-FOR-BACKLOG
 
 - HTTPS:  https://github.com/abel8260/PS-do-it-FOR-BACKLOG
@@ -46,13 +35,14 @@ link: https://github.com/users/abel8260/projects/10
 - HTTPS: https://github.com/abel8259/sigdu-kingdom-v-5-0
 - Description: um jogo soulslike de proporções enormes e escalaveis.
 
-***
+---
+
 ##### SUmmerR:
 
 - HTTTPS: https://github.com/abel8259/SUmmerR
 - Description: um estagiario pro seu lab.
 
-***
+---
 
 ##### PaaS WESIO:
 
