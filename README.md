@@ -69,10 +69,10 @@ link: https://github.com/users/abel8260/projects/10
 ![imagem](https://img.icons8.com/color/48/000000/javascript.png)
 
 - CI/CD:
-![imagem](https://img.icons8.com/ios-filled/50/000000/github-2.png)
+ ![imagem](https://img.icons8.com/ios-filled/50/000000/github-2.png)
 
 - Stack:
- <img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="48px" height="48px"/> 
+  <img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="48px" height="48px"/> 
 
 - Server:
 ![imagem](https://img.icons8.com/ios-filled/50/000000/php-server.png)
