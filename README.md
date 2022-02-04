@@ -77,8 +77,8 @@ link: https://github.com/users/abel8260/projects/10
 - Server:
 ![imagem](https://img.icons8.com/ios-filled/50/000000/php-server.png)
 ![imagem](https://img.icons8.com/color/48/000000/postgreesql.png)
-
- 
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-256.png" width="48px" height="48px"/> 
+  
 # Nome:  ROCK 
 - Statement: Rock Studios.co    
 
