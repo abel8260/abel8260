@@ -58,6 +58,8 @@ link: https://github.com/users/abel8260/projects/10
 - make CLI :
  <img src="https://findicons.com/files/icons/1035/human_o2/128/text_x_pascal.png" width="48px" height="48px"/> <img src="https://apexensino.com.br/wp-content/uploads/2017/04/tela-15.png" width="48px" height="48px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Geany_logo.svg/256px-Geany_logo.svg.png" width="48px" height="48px"/> 
 
+- Blogging:
+ <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/wordpress-256.png" width="48px" height="48px"/>
 
 - Typing:
 ![imagem](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
