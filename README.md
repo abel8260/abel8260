@@ -6,11 +6,11 @@ This is the place where I opensource stuff
 
 
 ***
-# Meta-benta: 
+# Meta-benta do dia : 
 
-- Entrega de valor;  
+-  CTA(call-to-action);  
 
-<img src="https://i.giphy.com/media/OG1J8Gg0aJQwWwfsVB/200w.webp" alt="Charity Give Back GIF by Max Amini" style="width: 500px; height: 500px; left: 0px; top: 0px; opacity: 0;">
+<img src="https://media4.giphy.com/media/W6cjKilzBTZOvFVEw7/giphy.gif" alt="Charity Give Back GIF by Max Amini" style="width: 500px; height: 500px; left: 0px; top: 0px; opacity: 0;">
 
 
 ***
