@@ -8,10 +8,8 @@ This is the place where I opensource stuff
 ***
 # Meta-benta do dia : 
 
--  CTA(call-to-action);  
+- be productive;  
 
-
-<iframe src="https://giphy.com/embed/xUOxeTanGugT5SjM1q" width="480" height="387" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/text-glow-process-xUOxeTanGugT5SjM1q">via GIPHY</a></p>
 
 ***
 
