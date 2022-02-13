@@ -23,37 +23,6 @@ link: https://github.com/users/abel8260/projects/10
 
 ***
 
-
-#  Serviços:
-
-#### PS-do-it-FOR-BACKLOG
-
-- HTTPS:  https://github.com/abel8260/PS-do-it-FOR-BACKLOG
-- Description: Scrum-helper.
-
----
-
-#### Sigdu-kingdom v-5-0:
-
-- HTTPS: https://github.com/abel8259/sigdu-kingdom-v-5-0
-- Description: um jogo soulslike de proporções enormes e escalaveis.
-
----
-
-##### SUmmerR:
-
-- HTTTPS: https://github.com/abel8259/SUmmerR
-- Description: um estagiario pro seu lab.
-
----
-
-##### PaaS WESIO:
-
-- HTTTPS: https://github.com/abel8259/PaaS_wesio
-- Description: fictional criptocurrency for support projects.
-
-***
-
 # Tech:
 - make CLI :
  <img src="https://findicons.com/files/icons/1035/human_o2/128/text_x_pascal.png" width="48px" height="48px"/> <img src="https://apexensino.com.br/wp-content/uploads/2017/04/tela-15.png" width="48px" height="48px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Geany_logo.svg/256px-Geany_logo.svg.png" width="48px" height="48px"/> 
