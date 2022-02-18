@@ -8,7 +8,7 @@ This is the place where I opensource stuff
 ***
 # Meta-benta do dia : 
 
-- be productive;  
+- little steps ;  
 
 
 ***
