@@ -6,13 +6,7 @@ This is the place where I opensource stuff
 
 
 ***
-# Meta-benta do dia : 
 
-- you are the only one that protect your timeline. Protect your reality;  
-
-<a href="https://ibb.co/YZhqBPz"><img src="https://i.ibb.co/ZmxkzGn/download.jpg" alt="download" border="0"></a>
-
-***
 
 # Lojinha no github :
 
