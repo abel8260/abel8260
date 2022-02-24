@@ -14,6 +14,9 @@ This is the place where I opensource stuff
 
 link: https://github.com/users/abel8260/projects/10
 
+- incremented layout update;
+- currents updates;     
+
 ***
 
 # Tech:
