@@ -21,36 +21,27 @@ link: https://github.com/users/abel8260/projects/10
 ***
 
 # Tech:
-- make CLI :
+- Programming: 
  <img src="https://findicons.com/files/icons/1035/human_o2/128/text_x_pascal.png" width="48px" height="48px"/> <img src="https://apexensino.com.br/wp-content/uploads/2017/04/tela-15.png" width="48px" height="48px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Geany_logo.svg/256px-Geany_logo.svg.png" width="48px" height="48px"/> 
-
-- Blogging:
-   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/wordpress-256.png" width="48px" height="48px"/>
-
-- framework:  <img src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/576/bootstrap-256.png" width="48px" height="48px"/>
-
-- Typing:
+  <img src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/576/bootstrap-256.png" width="48px" height="48px"/>
 ![imagem](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![imagem](https://img.icons8.com/fluency/48/000000/sublime-text.png) <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
-
-- Front end:
 ![imagem](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![imagem](https://img.icons8.com/color/48/000000/css3.png)
 ![imagem](https://img.icons8.com/color/48/000000/javascript.png)
-
-- CI/CD:
  ![imagem](https://img.icons8.com/ios-filled/50/000000/github-2.png)
-
-- Stack:
   <img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="48px" height="48px"/> 
-
-- Server:
 ![imagem](https://img.icons8.com/ios-filled/50/000000/php-server.png)
 ![imagem](https://img.icons8.com/color/48/000000/postgreesql.png)
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-256.png" width="48px" height="48px"/> 
-  
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/BfKBVt4/Pinterest-cone-Gratis.png" alt="Pinterest-cone-Gratis" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/8rRyJPd/406079-art-deviant-deviantart-gallery-round-icon.png" alt="406079-art-deviant-deviantart-gallery-round-icon" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>imagem do spfc para whatsapp</a><br />
+
+- Portfolio:
+
+   
+ <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/wordpress-256.png" width="48px" height="48px"/>
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-256.png" width="48px" height="48px"/> 
+<img src="https://i.ibb.co/BfKBVt4/Pinterest-cone-Gratis.png" width="48px" height="48px" alt="Pinterest-cone-Gratis" border="0">
+<img src="https://i.ibb.co/8rRyJPd/406079-art-deviant-deviantart-gallery-round-icon.png" alt="406079-art-deviant-deviantart-gallery-round-icon" border="0">
+
 # Nome:  ROCK 
 - Statement: Rock Studios.co    
 
