@@ -71,7 +71,8 @@ link: https://github.com/users/abel8260/projects/10
 - git compare: <img src="https://img.icons8.com/material-outlined/48/000000/compare-git.png"/>
 - git merge: <img src="https://img.icons8.com/material-outlined/48/000000/merge-git.png"/>
 - confirm merge: <img src="https://img.icons8.com/material-outlined/48/000000/reviewer-female.png"/>
-
+- ![imagem](https://img.shields.io/badge/scrum%20-blue)
+- ![imagem](https://img.shields.io/badge/kambam%20-blue)
 ***
 
 * CI/CD: <img src="https://img.icons8.com/material-outlined/48/000000/cloud-link.png"/> 
@@ -94,8 +95,6 @@ heroku pipeline: <img src="https://www0.assets.heroku.com/assets/platform/diagra
 
  # :office: Documentation:
  
-![imagem](https://img.shields.io/badge/scrum%20-blue)
-![imagem](https://img.shields.io/badge/kambam%20-blue)
 
 ---
 
