@@ -77,10 +77,7 @@ link: https://github.com/users/abel8260/projects/10
 - confirm merge: <img src="https://img.icons8.com/material-outlined/48/000000/reviewer-female.png"/>
 - CI/CD: <img src="https://img.icons8.com/material-outlined/48/000000/cloud-link.png"/> 
 - github actions: <img src="https://img.icons8.com/material-outlined/48/000000/circled-play.png"/>
-
-***
-
-heroku pipeline: <img src="https://www0.assets.heroku.com/assets/platform/diagram-1468b013f73d655d92a827440969487d64c2e469398cd01783101bf79d18ab8a.png" width="150px" height="50px"/>
+- heroku pipeline: <img src="https://www0.assets.heroku.com/assets/platform/diagram-1468b013f73d655d92a827440969487d64c2e469398cd01783101bf79d18ab8a.png" width="150px" height="50px"/>
 
 
 
