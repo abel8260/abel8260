@@ -21,6 +21,9 @@ link: https://github.com/users/abel8260/projects/10
 ***
 
 # Tech:
+
+---
+
 - ### Programming: 
 
  <img src="https://findicons.com/files/icons/1035/human_o2/128/text_x_pascal.png" width="48px" height="48px"/> <img src="https://apexensino.com.br/wp-content/uploads/2017/04/tela-15.png" width="48px" height="48px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Geany_logo.svg/256px-Geany_logo.svg.png" width="48px" height="48px"/> 
@@ -72,8 +75,20 @@ link: https://github.com/users/abel8260/projects/10
 - git compare: <img src="https://img.icons8.com/material-outlined/48/000000/compare-git.png"/>
 - git merge: <img src="https://img.icons8.com/material-outlined/48/000000/merge-git.png"/>
 - confirm merge: <img src="https://img.icons8.com/material-outlined/48/000000/reviewer-female.png"/>
+- CI/CD: <img src="https://img.icons8.com/material-outlined/48/000000/cloud-link.png"/> 
+- github actions: <img src="https://img.icons8.com/material-outlined/48/000000/circled-play.png"/>
 
 ***
+
+heroku pipeline: <img src="https://www0.assets.heroku.com/assets/platform/diagram-1468b013f73d655d92a827440969487d64c2e469398cd01783101bf79d18ab8a.png" width="150px" height="50px"/>
+
+
+
+<img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
+
+
+***
+
 
  ## :office: DOC:
  
@@ -90,27 +105,6 @@ link: https://github.com/users/abel8260/projects/10
 ![imagem](https://img.shields.io/badge/doc-scrum%20-blue)
 ![imagem](https://img.shields.io/badge/doc-kambam%20-blue)
 
-***
-
-* CI/CD: <img src="https://img.icons8.com/material-outlined/48/000000/cloud-link.png"/> 
-
-
-***
-github actions: <img src="https://img.icons8.com/material-outlined/48/000000/circled-play.png"/>
-
-***
-
-heroku pipeline: <img src="https://www0.assets.heroku.com/assets/platform/diagram-1468b013f73d655d92a827440969487d64c2e469398cd01783101bf79d18ab8a.png" width="150px" height="50px"/>
-
-
-
-<img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
-
-
-***
-
-
- # :office: Documentation:
  
 
 ---
