@@ -33,12 +33,10 @@ link: https://github.com/users/abel8260/projects/10
   <img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="48px" height="48px"/> 
 ![imagem](https://img.icons8.com/ios-filled/50/000000/php-server.png)
 ![imagem](https://img.icons8.com/color/48/000000/postgreesql.png)
-
-- Portfolio:
-
-   
- <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/wordpress-256.png" width="48px" height="48px"/>
  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-256.png" width="48px" height="48px"/> 
+ 
+- Portfolio:
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/wordpress-256.png" width="48px" height="48px"/>
 <img src="https://i.ibb.co/BfKBVt4/Pinterest-cone-Gratis.png" width="48px" height="48px" alt="Pinterest-cone-Gratis" border="0">
 <img src="https://i.ibb.co/8rRyJPd/406079-art-deviant-deviantart-gallery-round-icon.png" alt="406079-art-deviant-deviantart-gallery-round-icon" border="0">
 
