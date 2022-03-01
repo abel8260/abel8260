@@ -60,9 +60,10 @@ link: https://github.com/users/abel8260/projects/10
 - Criatividade
 - Pensamento crítico
 
+***
 
 # Metodos:
-***
+
 - git: <img src="https://img.icons8.com/ios-filled/48/000000/git.png"/>
 - git commit: <img src="https://img.icons8.com/material-outlined/48/000000/commit-git.png"/>
 - git branch:  <img src="https://img.icons8.com/material-outlined/48/000000/code-fork.png"/>
@@ -72,8 +73,8 @@ link: https://github.com/users/abel8260/projects/10
 - git merge: <img src="https://img.icons8.com/material-outlined/48/000000/merge-git.png"/>
 - confirm merge: <img src="https://img.icons8.com/material-outlined/48/000000/reviewer-female.png"/>
 
-# DOC:
--
+***
+
  ## :office: DOC:
  
 ![imagem](https://img.shields.io/badge/doc-eap%20-blue)
@@ -88,6 +89,7 @@ link: https://github.com/users/abel8260/projects/10
 ![imagem](https://img.shields.io/badge/doc-sow%20-blue) 
 ![imagem](https://img.shields.io/badge/doc-scrum%20-blue)
 ![imagem](https://img.shields.io/badge/doc-kambam%20-blue)
+
 ***
 
 * CI/CD: <img src="https://img.icons8.com/material-outlined/48/000000/cloud-link.png"/> 
