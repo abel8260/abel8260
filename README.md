@@ -6,7 +6,8 @@
 
 ***
 
-- rede social: 
+# meu perfil no imgbb:
+
 - https://abel-barbosa-cha.imgbb.com/ 
 
 ***
