@@ -71,8 +71,23 @@ link: https://github.com/users/abel8260/projects/10
 - git compare: <img src="https://img.icons8.com/material-outlined/48/000000/compare-git.png"/>
 - git merge: <img src="https://img.icons8.com/material-outlined/48/000000/merge-git.png"/>
 - confirm merge: <img src="https://img.icons8.com/material-outlined/48/000000/reviewer-female.png"/>
-- ![imagem](https://img.shields.io/badge/scrum%20-blue)
-- ![imagem](https://img.shields.io/badge/kambam%20-blue)
+
+# DOC:
+-
+ ## :office: DOC:
+ 
+![imagem](https://img.shields.io/badge/doc-eap%20-blue)
+![imagem](https://img.shields.io/badge/doc-itil%20-blue)
+![imagem](https://img.shields.io/badge/doc-kpi%20-blue)
+![imagem](https://img.shields.io/badge/doc-pdca%20-blue)
+![imagem](https://img.shields.io/badge/doc-pmbok%20-blue)
+![imagem](https://img.shields.io/badge/doc-google%20-orange) 
+![imagem](https://img.shields.io/badge/doc-semrush%20-orange) 
+![imagem](https://img.shields.io/badge/doc-sla%20-orange) 
+![imagem](https://img.shields.io/badge/doc-smart15%20-blue) 
+![imagem](https://img.shields.io/badge/doc-sow%20-blue) 
+![imagem](https://img.shields.io/badge/doc-scrum%20-blue)
+![imagem](https://img.shields.io/badge/doc-kambam%20-blue)
 ***
 
 * CI/CD: <img src="https://img.icons8.com/material-outlined/48/000000/cloud-link.png"/> 
