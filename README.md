@@ -49,6 +49,8 @@ link: https://github.com/users/abel8260/projects/10
 ![imagem](https://img.icons8.com/color/48/000000/postgreesql.png)
   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-256.png" width="48px" height="48px"/> 
   
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/BfKBVt4/Pinterest-cone-Gratis.png" alt="Pinterest-cone-Gratis" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/8rRyJPd/406079-art-deviant-deviantart-gallery-round-icon.png" alt="406079-art-deviant-deviantart-gallery-round-icon" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>imagem do spfc para whatsapp</a><br />
 # Nome:  ROCK 
 - Statement: Rock Studios.co    
 
