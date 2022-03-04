@@ -6,9 +6,9 @@
 
 ***
 
-# meu perfil no imgbb:
+# Motivation quote:
 
-- https://abel-barbosa-cha.imgbb.com/ 
+- You are the savior of your timeline. Protect your timeline.   
 
 ***
 
