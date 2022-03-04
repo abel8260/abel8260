@@ -1,9 +1,6 @@
 
 # AI-Abel VasconcelosB .
 
-### Whats up bro? Here i post some open source things very cool. Stay focused man   
-
-
 ***
 
 # Motivation quote:
