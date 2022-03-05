@@ -41,6 +41,8 @@
 
 - Commits: https://www.patreon.com/rockstudioopen
 
+- Sinopses and so on: https://rstsa.wordpress.com/
+  
 ***
 
 # Nome:  ROCK 
