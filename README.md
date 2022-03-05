@@ -33,12 +33,6 @@
  
 ***
 
-- ### Portfolio:
-
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/wordpress-256.png" width="48px" height="48px"/>
-<img src="https://i.ibb.co/BfKBVt4/Pinterest-cone-Gratis.png" width="48px" height="48px" alt="Pinterest-cone-Gratis" >
-<img src="https://i.ibb.co/8rRyJPd/406079-art-deviant-deviantart-gallery-round-icon.png" alt="406079-art-deviant-deviantart-gallery-round-icon" >
-
 - ### News:
 
 - Commits: https://www.patreon.com/rockstudioopen
