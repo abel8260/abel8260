@@ -1,6 +1,8 @@
 
 # AI-Abel VasconcelosB .
 
+![image](https://github-readme-stats.vercel.app/api?username=abel8260)
+
 ***
 
 # Motivation quote:
@@ -94,14 +96,6 @@
  
 
 ---
-
-# :speech_balloon: About my class : 
-
-![image](https://github-readme-stats.vercel.app/api?username=abel8260)
-
-
-***
-
 
 
 # :page_facing_up: Good note:
