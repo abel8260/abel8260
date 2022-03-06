@@ -52,9 +52,10 @@
 
 # SOFT SKILLS:   
 
-
-- Criatividade
-- Pensamento crítico
+- proatividade;
+- Criatividade;
+- Pensamento crítico;
+- liderança;
 
 ***
 
