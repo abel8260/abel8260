@@ -7,7 +7,7 @@
 
 # Motivation quote:
 
-- You are the savior of your timeline. Protect your timeline.   
+- Who say cant be the best? Im beautifull me.   .   
 
 ***
 
