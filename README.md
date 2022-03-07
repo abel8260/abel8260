@@ -7,7 +7,7 @@
 
 # Motivation quote:
 
-- Who say cant be the best? Im beautifull me.   .   
+- take it easy on youserlf.  .   .   
 
 ***
 
