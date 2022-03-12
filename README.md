@@ -8,7 +8,7 @@
 # Motivation quote:
 
 - take it easy on youserlf.
-- thinks godd of your presence;  
+- thinks good of your presence;  
 
 ***
 
