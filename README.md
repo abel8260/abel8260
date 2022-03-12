@@ -1,5 +1,5 @@
 
-# AI-Abel VasconcelosB .
+# Abel VasconcelosB .
 
 ![image](https://github-readme-stats.vercel.app/api?username=abel8260)
 
@@ -7,7 +7,8 @@
 
 # Motivation quote:
 
-- take it easy on youserlf.  .   .   
+- take it easy on youserlf.
+- thinks godd of your presence;  
 
 ***
 
@@ -16,21 +17,10 @@
 ---
 
 - ### Programming: 
+<br/>
+- php e pascal;  
+<br/>
 
- <img src="https://findicons.com/files/icons/1035/human_o2/128/text_x_pascal.png" width="48px" height="48px"/> <img src="https://apexensino.com.br/wp-content/uploads/2017/04/tela-15.png" width="48px" height="48px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Geany_logo.svg/256px-Geany_logo.svg.png" width="48px" height="48px"/> 
-  <img src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/576/bootstrap-256.png" width="48px" height="48px"/>
-![imagem](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-![imagem](https://img.icons8.com/fluency/48/000000/sublime-text.png) <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
-![imagem](https://img.icons8.com/color/48/000000/html-5--v1.png)
-![imagem](https://img.icons8.com/color/48/000000/css3.png)
-![imagem](https://img.icons8.com/color/48/000000/javascript.png)
- ![imagem](https://img.icons8.com/ios-filled/50/000000/github-2.png)
-  <img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="48px" height="48px"/> 
-![imagem](https://img.icons8.com/ios-filled/50/000000/php-server.png)
-![imagem](https://img.icons8.com/color/48/000000/postgreesql.png)
- <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-256.png" width="48px" height="48px"/> 
- <img src="https://img.icons8.com/color/48/000000/markdown.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699749-icon-103-document-file-yml-512.png" width="48px" height="48px"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
- 
 ***
 
 - ### News:
@@ -59,21 +49,6 @@
 
 ***
 
-# Metodos:
-
-- git: <img src="https://img.icons8.com/ios-filled/48/000000/git.png"/>
-- git commit: <img src="https://img.icons8.com/material-outlined/48/000000/commit-git.png"/>
-- git branch:  <img src="https://img.icons8.com/material-outlined/48/000000/code-fork.png"/>
-- git push: <img src="https://img.icons8.com/material-outlined/48/000000/upload--v2.png"/>
-- git pull request: <img src="https://img.icons8.com/material-outlined/48/000000/pull-request.png"/>
-- git compare: <img src="https://img.icons8.com/material-outlined/48/000000/compare-git.png"/>
-- git merge: <img src="https://img.icons8.com/material-outlined/48/000000/merge-git.png"/>
-- confirm merge: <img src="https://img.icons8.com/material-outlined/48/000000/reviewer-female.png"/>
-- CI/CD: <img src="https://img.icons8.com/material-outlined/48/000000/cloud-link.png"/> 
-- github actions: <img src="https://img.icons8.com/material-outlined/48/000000/circled-play.png"/>
-- heroku pipeline: <img src="https://www0.assets.heroku.com/assets/platform/diagram-1468b013f73d655d92a827440969487d64c2e469398cd01783101bf79d18ab8a.png" width="150px" height="50px"/>
-
-
 
 <img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
 
@@ -81,7 +56,7 @@
 ***
 
 
- ## :office: DOC:
+ ## :office: DOC: [12]
  
 ![imagem](https://img.shields.io/badge/doc-eap%20-blue)
 ![imagem](https://img.shields.io/badge/doc-itil%20-blue)
@@ -96,7 +71,6 @@
 ![imagem](https://img.shields.io/badge/doc-scrum%20-blue)
 ![imagem](https://img.shields.io/badge/doc-kambam%20-blue)
 
- 
 
 ---
 
