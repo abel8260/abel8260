@@ -5,13 +5,6 @@
 
 ***
 
-# Motivation quote:
-
-- take it easy on youserlf.
-- thinks good of your own presence;  
-
-***
-
 # Tech:(I use this techs)
 
 ---
