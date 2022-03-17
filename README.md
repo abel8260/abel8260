@@ -24,6 +24,7 @@
   
 - release final: https://www.linkedin.com/in/abelbarbosa23/
 
+- main inventory 2022:  
 
 ***
 
