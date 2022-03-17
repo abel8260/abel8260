@@ -24,7 +24,7 @@
   
 - release final: https://www.linkedin.com/in/abelbarbosa23/
 
-- main inventory 2022:  
+- main inventory 2022: https://github.com/users/abel8260/projects/10
 
 ***
 
