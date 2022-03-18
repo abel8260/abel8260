@@ -54,15 +54,5 @@
 
 ***
 
-
-<img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
-
-
-***
-
-
-
-
-
 # :page_facing_up: Good note:
 - Goals only have value if exists all of it in the documentation.    
