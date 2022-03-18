@@ -21,6 +21,7 @@
 
 - ![Image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
+- ![imagem](https://img.shields.io/badge/doc-ABca%20-blue)
 
 <br/>
 
@@ -60,23 +61,7 @@
 ***
 
 
- ## :office: DOC: [12]
- 
-![imagem](https://img.shields.io/badge/doc-eap%20-blue)
-![imagem](https://img.shields.io/badge/doc-itil%20-blue)
-![imagem](https://img.shields.io/badge/doc-kpi%20-blue)
-![imagem](https://img.shields.io/badge/doc-pdca%20-blue)
-![imagem](https://img.shields.io/badge/doc-pmbok%20-blue)
-![imagem](https://img.shields.io/badge/doc-google%20-orange) 
-![imagem](https://img.shields.io/badge/doc-semrush%20-orange) 
-![imagem](https://img.shields.io/badge/doc-sla%20-orange) 
-![imagem](https://img.shields.io/badge/doc-smart15%20-blue) 
-![imagem](https://img.shields.io/badge/doc-sow%20-blue) 
-![imagem](https://img.shields.io/badge/doc-scrum%20-blue)
-![imagem](https://img.shields.io/badge/doc-kambam%20-blue)
 
-
----
 
 
 # :page_facing_up: Good note:
