@@ -25,7 +25,7 @@
 
 ### Documentation:   
 
-> "dont let your goals slave you" _rick_sanchéz_rick_and_morty;    
+> "dont let your goals slave you" ;    
 
 <br/>
 
