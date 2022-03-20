@@ -63,3 +63,11 @@
 - liderança;
 
 ***
+
+## Qualidade de software:
+
+- estruturado; 
+- easytrack;
+- flowed;   
+
+***
