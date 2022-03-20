@@ -25,9 +25,8 @@
 
 ### Documentation:   
 
-> "dont let your goals slave you" ;    
-
-<br/>
+- photos;
+- read-me;  
 
 ***
 
