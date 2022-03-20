@@ -70,3 +70,8 @@
 - flowed;   
 
 ***
+
+## O.B.S.:
+
+> Dont let your goals slave you;
+
