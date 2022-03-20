@@ -33,9 +33,13 @@
 
 - Sinopses and so on: https://rstsa.wordpress.com/
   
-- release final: https://www.linkedin.com/in/abelbarbosa23/
+- Artigos: https://irespostasweb.wordpress.com/
 
-- main inventory 2022: https://github.com/users/abel8260/projects/10
+***
+
+- ### Invetories:
+
+- Main inventory 2022: https://github.com/users/abel8260/projects/10
 
 ***
 
