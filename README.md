@@ -63,6 +63,3 @@
 - liderança;
 
 ***
-
-# :page_facing_up: Good note:
-- Goals only have value if exists all of it in the documentation.    
