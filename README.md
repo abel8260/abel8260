@@ -19,10 +19,20 @@
 
 ***
 
-- ### Documentation:   
+- ### :office: DOC:   
+ 
+![imagem](https://img.shields.io/badge/doc-eap%20-blue)
+![imagem](https://img.shields.io/badge/doc-itil%20-blue)
+![imagem](https://img.shields.io/badge/doc-kpi%20-blue)
+![imagem](https://img.shields.io/badge/doc-pdca%20-blue)
+![imagem](https://img.shields.io/badge/doc-pmbok%20-blue)
+![imagem](https://img.shields.io/badge/doc-smart15%20-blue) 
+![imagem](https://img.shields.io/badge/teste-sow%20-yellow) 
+![imagem](https://img.shields.io/badge/seo-google%20-orange) 
+![imagem](https://img.shields.io/badge/seo-semrush%20-orange) 
+![imagem](https://img.shields.io/badge/seo-sla%20-orange) 
+![imagem](https://img.shields.io/badge/doc-ABCA%20-purple) 
 
-- photos;
-- read-me;  
 
 ***
 
@@ -30,7 +40,7 @@
 
 - Commits: https://www.patreon.com/rockstudioopen
 
-- Sinopses and so on: https://rstsa.wordpress.com/
+- Announcement: https://rstsa.wordpress.com/
   
 - Artigos: https://irespostasweb.wordpress.com/
 
