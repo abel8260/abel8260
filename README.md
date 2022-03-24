@@ -75,9 +75,4 @@
 - comentarios;
 - modelo-by-out;
 
-***
-
-## O.B.S.:
-
-> Dont let your goals slave you;
 
