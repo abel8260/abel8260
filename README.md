@@ -70,8 +70,10 @@
 ## Qualidade de software:
 
 - estruturado; 
-- easytrack;
-- flowed;   
+- qualidade;
+- orchestral;   
+- comentarios;
+- modelo-by-out;
 
 ***
 
