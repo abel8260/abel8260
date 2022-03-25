@@ -14,7 +14,7 @@
 ![Image](https://img.shields.io/badge/mysql-local-blue)
 ![Image](https://img.shields.io/badge/html-local-green)
 ![Image](https://img.shields.io/badge/php-api-purple)
-![Image](https://img.shields.io/badge/pascal-cli%20-purple)
+![Image](https://img.shields.io/badge/pascal-cli%20-yellow)
 
 ***
 
