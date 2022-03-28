@@ -14,9 +14,6 @@
 ![Image](https://img.shields.io/badge/modelo%20by%20out-cloud-red)
 ![Image](https://img.shields.io/badge/conexao%20var-local-green)
 ![Image](https://img.shields.io/badge/transcript-cloud-purple)
-
-***
-
 ![Image](https://img.shields.io/badge/mysql-local-blue)
 ![Image](https://img.shields.io/badge/html-local-green)
 ![Image](https://img.shields.io/badge/php-api-purple)
