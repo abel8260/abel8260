@@ -26,7 +26,7 @@
 
 ***
 
-- ### :office: DOC:   
+- ###  Documentation:  
  
 ![imagem](https://img.shields.io/badge/doc-eap%20-blue)
 ![imagem](https://img.shields.io/badge/doc-itil%20-blue)
