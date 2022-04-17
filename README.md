@@ -23,25 +23,6 @@
 
 ***
 
-- ###  Documentation:  
- 
-![imagem](https://img.shields.io/badge/doc-eap%20-blue)
-![imagem](https://img.shields.io/badge/doc-itil%20-blue)
-![imagem](https://img.shields.io/badge/doc-kpi%20-blue)
-![imagem](https://img.shields.io/badge/doc-pmbok%20-blue)
-![imagem](https://img.shields.io/badge/doc-smart15%20-blue) 
-![imagem](https://img.shields.io/badge/teste-sow%20-yellow) 
-![imagem](https://img.shields.io/badge/teste-swot%20-yellow)
-![imagem](https://img.shields.io/badge/teste-8%2080%20-yellow) 
-![imagem](https://img.shields.io/badge/seo-google%20-orange) 
-![imagem](https://img.shields.io/badge/seo-semrush%20-orange) 
-![imagem](https://img.shields.io/badge/seo-sla%20-orange) 
-![imagem](https://img.shields.io/badge/pnl-ABCA%20-purple) 
-![imagem](https://img.shields.io/badge/pnl-pdca%20-purple)
-
-
-***
-
 - ### News:
 
 - Commits: https://www.patreon.com/rockstudioopen
