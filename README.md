@@ -81,5 +81,7 @@
 - orchestral;   
 - comentarios;
 - modelo-by-out;
+- strategic;
+- one-by-one;
 
 
