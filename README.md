@@ -60,7 +60,7 @@
 ***
 
 # Nome:  ROCK 
-- Statement: Rock Studios.co    
+- Statement: Rock Open Source    
 
 
 ***
