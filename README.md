@@ -53,16 +53,4 @@
 - Pensamento crítico;
 - liderança;
 
-***
-
-## Qualidade de software:
-
-- estruturado; 
-- qualidade;
-- orchestral;   
-- comentarios;
-- modelo-by-out;
-- strategic;
-- one-by-one;
-
 
