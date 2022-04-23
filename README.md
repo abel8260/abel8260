@@ -69,6 +69,8 @@
 # Nome:  ROCK 
 - Statement: Rock Open Source    
 
+[![Linkedin: Ai-abel](https://img.shields.io/badge/-ai-abel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g-mark)](https://www.linkedin.com/in/abelbarbosa23/)
+[![GitHub abel8260](https://img.shields.io/github/followers/abel8260?label=follow&style=social)](https://github.com/abel8260)
 
 ***
 
