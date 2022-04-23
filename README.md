@@ -4,7 +4,13 @@
 ![image](https://github-readme-stats.vercel.app/api?username=abel8260)
 
 ***
- 
+  
+
+
+# Tech:(I use this techs)
+
+---
+
 - ### Programming: 
 
 
@@ -38,23 +44,7 @@
 ![imagem](https://img.shields.io/badge/pnl-pdca%20-purple)
 
 
-> aguardando automtizaçao;  
-
-
-# Tech:(I use this techs)
-
----
-
-- ### Programming: 
-  
-
-![Image](https://img.shields.io/badge/mysql-local-blue)
-![Image](https://img.shields.io/badge/html-local-green)
-![Image](https://img.shields.io/badge/php-api-purple)
-![Image](https://img.shields.io/badge/pascal-cli-yellow)
-![Image](https://img.shields.io/badge/php-automatizaçao-purple)
-![Image](https://img.shields.io/badge/github-host-black)
-
+> aguardando automtizaçao; 
 
 ***
 
