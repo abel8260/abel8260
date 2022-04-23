@@ -1,7 +1,7 @@
 
 # Abel VasconcelosB;
 
-## Gamefication:(start it!) 
+## NO GAME NO LIFE - BEGIN 
 
 ---
 ---
@@ -44,9 +44,9 @@ https://githule.vercel.app/
 ---
 ---
 
-<b>(end it gamefication buddie).</b> 
+## NO GAME NO LIFE - END. 
 
-# Tech:(I use this techs)
+# PAPO TECH: 
 
 ---
 
