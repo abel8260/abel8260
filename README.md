@@ -15,8 +15,6 @@
 
 ### Github Status
 
----
-
 <p>
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=abel8260&show_icons=true alt=abel8260 />
 </p>
@@ -46,14 +44,14 @@ GitHule 2022-04-22 (abel8260)
 
 https://githule.vercel.app/
 
----
+
 ---
 
 
 
 # HARD SKILLS: 
 
----
+
 
 - ### Programming: 
 
