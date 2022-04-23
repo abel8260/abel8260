@@ -28,7 +28,7 @@
 
 ### contribuing diary:
 
-GitHule 2022-04-22 (abel8260)
+GitHule: 2022-04-22 (abel8260)
 
 🟩⬜🟨🟨🟨🟩🟨
 🟨🟩🟨⬜🟩🟩🟨
@@ -38,7 +38,7 @@ GitHule 2022-04-22 (abel8260)
 🟨⬜⬜⬜🟨🟨🟩
 
 
-https://githule.vercel.app/
+# mensuring:
 
 
 - [![Linkedin abelvb](https://img.shields.io/badge/abelvasconcelosb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelbarbosa23)](https://www.linkedin.com/in/abelbarbosa23/)
