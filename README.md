@@ -1,7 +1,7 @@
 
 #  Abel VasconcelosB;
 
-major meta: 🕹️ contribute;  
+major goal: 🕹️ contribute;  
 
 ---
 
@@ -29,15 +29,17 @@ major meta: 🕹️ contribute;
 ---
 
 ### contribuing diary:
+GitHule 2022-04-23 (abel8260)
 
-GitHule: 2022-04-22 (abel8260)
+🟨🟩⬜🟩🟩
+🟩🟨⬜⬜⬜
+⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜
+⬜⬜🟨⬜⬜
+⬜🟨🟨🟩🟨
 
-🟩⬜🟨🟨🟨🟩🟨
-🟨🟩🟨⬜🟩🟩🟨
-🟩⬜🟩🟩🟩🟨⬜
-⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜
-🟨⬜⬜⬜🟨🟨🟩
+
+https://githule.vercel.app/
 
 
 # mensuring:
