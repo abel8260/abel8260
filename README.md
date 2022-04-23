@@ -1,7 +1,7 @@
 
 # Abel VasconcelosB;
 
-## Gamefication:
+## Gamefication:(start it!) 
 
 ---
 ---
@@ -43,6 +43,8 @@ https://githule.vercel.app/
 
 ---
 ---
+
+<b>(end it gamefication buddie).</b> 
 
 # Tech:(I use this techs)
 
