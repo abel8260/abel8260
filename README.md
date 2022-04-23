@@ -1,23 +1,25 @@
 
-# Abel VasconcelosB;
+>  Abel VasconcelosB;
+> Nome:  ROCK 
+> Statement: Rock Open Source    
 
-## NO GAME NO LIFE - BEGIN 
 
----
 ---
 
 [![Linkedin abelvb](https://img.shields.io/badge/abelvasconcelosb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelbarbosa23)](https://www.linkedin.com/in/abelbarbosa23/)
 [![GitHub abel8260](https://img.shields.io/github/followers/abel8260?label=follow&style=social)](https://github.com/abel8260)
 
-
+---
 
 ### Github Status
+
+---
 
 <p>
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=abel8260&show_icons=true alt=abel8260 />
 </p>
 
-***
+---
 
 ### Coding language Status
 
@@ -26,7 +28,8 @@
 </p>
 
 
-***  
+---
+
 ### contribuing diary:
 
 GitHule 2022-04-22 (abel8260)
@@ -44,9 +47,9 @@ https://githule.vercel.app/
 ---
 ---
 
-## NO GAME NO LIFE - END. 
 
-# PAPO TECH: 
+
+# HARD SKILLS: 
 
 ---
 
@@ -87,6 +90,8 @@ https://githule.vercel.app/
 
 ***
 
+# CODE:
+
 - ### News:
 
 - Commits: https://www.patreon.com/rockstudioopen
@@ -105,11 +110,8 @@ https://githule.vercel.app/
 
 ***
 
-# Nome:  ROCK 
-- Statement: Rock Open Source    
 
 
-***
 
 # SOFT SKILLS:   
 
