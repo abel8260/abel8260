@@ -3,16 +3,9 @@
 
 ---
 
-#### Nome:  ROCK 
+#### Nome: ROCK 
 
-#### Statement: Rock Open Source    
-
-<img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Drockstudioopen%26type%3Dpatrons&style=for-the-badge"/>
-
----
-
-[![Linkedin abelvb](https://img.shields.io/badge/abelvasconcelosb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelbarbosa23)](https://www.linkedin.com/in/abelbarbosa23/)
-[![GitHub abel8260](https://img.shields.io/github/followers/abel8260?label=follow&style=social)](https://github.com/abel8260)
+#### Statement: Rock Studio Open Source    
 
 ---
 
@@ -48,6 +41,9 @@ GitHule 2022-04-22 (abel8260)
 https://githule.vercel.app/
 
 
+[![Linkedin abelvb](https://img.shields.io/badge/abelvasconcelosb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelbarbosa23)](https://www.linkedin.com/in/abelbarbosa23/)
+[![GitHub abel8260](https://img.shields.io/github/followers/abel8260?label=follow&style=social)](https://github.com/abel8260)
+<img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Drockstudioopen%26type%3Dpatrons&style=for-the-badge"/>
 ---
 
 
