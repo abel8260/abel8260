@@ -1,5 +1,8 @@
 
-# Abel VasconcelosB .
+# Abel VasconcelosB;
+
+[![Linkedin abelvb](https://img.shields.io/badge/abelvasconcelosb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelbarbosa23)](https://www.linkedin.com/in/abelbarbosa23/)
+[![GitHub abel8260](https://img.shields.io/github/followers/abel8260?label=follow&style=social)](https://github.com/abel8260)
 
 ### Github Status
 
@@ -81,8 +84,6 @@
 # Nome:  ROCK 
 - Statement: Rock Open Source    
 
-[![Linkedin abelvb](https://img.shields.io/badge/abelvasconcelosb-linkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelbarbosa23)](https://www.linkedin.com/in/abelbarbosa23/)
-[![GitHub abel8260](https://img.shields.io/github/followers/abel8260?label=follow&style=social)](https://github.com/abel8260)
 
 ***
 
