@@ -20,7 +20,19 @@
 
 
 ***  
+### contribuing diary:
 
+GitHule 2022-04-22 (abel8260)
+
+🟩⬜🟨🟨🟨🟩🟨
+🟨🟩🟨⬜🟩🟩🟨
+🟩⬜🟩🟩🟩🟨⬜
+⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜
+🟨⬜⬜⬜🟨🟨🟩
+
+
+https://githule.vercel.app/
 
 # Tech:(I use this techs)
 
