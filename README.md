@@ -1,5 +1,5 @@
 
-#  Abel VasconcelosB;
+#  Name: Abel VasconcelosB;
 
 major goal: 🕹️ contribute;  
 
@@ -11,7 +11,7 @@ major goal: 🕹️ contribute;
 
 ---
 
-### Github Status
+###  collected items: 
 
 <p>
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=abel8260&show_icons=true alt=abel8260 />
@@ -19,7 +19,7 @@ major goal: 🕹️ contribute;
 
 ---
 
-### Coding language Status
+### attributes:
 
 <p>
   <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=abel8260&layout=compact&show_icons=true alt=abel8260/>
@@ -28,7 +28,7 @@ major goal: 🕹️ contribute;
 
 ---
 
-### contribuing diary:
+### book of days:
 GitHule 2022-04-23 (abel8260)
 
 🟨🟩⬜🟩🟩
@@ -42,7 +42,7 @@ GitHule 2022-04-23 (abel8260)
 https://githule.vercel.app/
 
 
-# mensuring:
+# Clan:
 
 
 - [![Linkedin abelvb](https://img.shields.io/badge/abelvasconcelosb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelbarbosa23)](https://www.linkedin.com/in/abelbarbosa23/)
@@ -55,11 +55,11 @@ https://githule.vercel.app/
 
 
 
-# HARD SKILLS: 
+# SKILLS: 
 
 
 
-- ### Programming: 
+### Hard skills  : 
 
 
 ![Image](https://img.shields.io/badge/modelo%20by%20out-cloud-red)
@@ -75,7 +75,7 @@ https://githule.vercel.app/
 
 ***
 
-- ### DOC:
+### DOC.skills:
 
 ![imagem](https://img.shields.io/badge/doc-eap%20-blue)
 ![imagem](https://img.shields.io/badge/doc-itil%20-blue)
@@ -96,6 +96,13 @@ https://githule.vercel.app/
 
 ***
 
+# SOFT SKILLS:   
+
+- proatividade;
+- Criatividade;
+- Pensamento crítico;
+- liderança;
+
 # CODE:
 
 - ### News:
@@ -108,7 +115,7 @@ https://githule.vercel.app/
 
 ***
 
-- ### Invetories:
+- ### Invetory:
 
 - Main inventory 2022: https://github.com/users/abel8260/projects/10
 
@@ -119,11 +126,5 @@ https://githule.vercel.app/
 
 
 
-# SOFT SKILLS:   
-
-- proatividade;
-- Criatividade;
-- Pensamento crítico;
-- liderança;
 
 
