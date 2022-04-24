@@ -24,19 +24,18 @@ major goal: 🕹️ contribute;
 
 ---
 
-### Contribution:
-GitHule 2022-04-23 (abel8260)
 
-🟨🟩⬜🟩🟩
-🟩🟨⬜⬜⬜
+GitHule 2022-04-24 (abel8260)
+
+🟩⬜🟩🟩🟩
+🟨⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜
-⬜⬜🟨⬜⬜
-⬜🟨🟨🟩🟨
+⬜🟨⬜⬜⬜
+🟨🟨🟩🟩🟨
 
 
 https://githule.vercel.app/
-
 
 # Social media :
 
