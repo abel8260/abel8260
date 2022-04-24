@@ -5,9 +5,9 @@ major goal: 🕹️ contribute;
 
 ---
 
-#### Nome: ROCK 
+## Username: rock 
 
-#### Statement: Rock Studio Open Source    
+### Clan : Rock Studios    
 
 ---
 
@@ -42,7 +42,7 @@ GitHule 2022-04-23 (abel8260)
 https://githule.vercel.app/
 
 
-# Clan:
+# Clan status :
 
 
 - [![Linkedin abelvb](https://img.shields.io/badge/abelvasconcelosb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelbarbosa23)](https://www.linkedin.com/in/abelbarbosa23/)
