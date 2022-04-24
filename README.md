@@ -91,12 +91,9 @@ https://githule.vercel.app/
 ![imagem](https://img.shields.io/badge/pnl-ABCA%20-purple) 
 ![imagem](https://img.shields.io/badge/pnl-pdca%20-purple)
 
-
-> aguardando automtizaçao; 
-
 ***
 
-# SOFT SKILLS:   
+### SOFT SKILLS:   
 
 - proatividade;
 - Criatividade;
