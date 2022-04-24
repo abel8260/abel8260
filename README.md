@@ -5,13 +5,9 @@ major goal: 🕹️ contribute;
 
 ---
 
-## Username: rock 
 
-### Clan : Rock Studios    
 
----
-
-###  collected items: 
+###  read-me stats: 
 
 <p>
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=abel8260&show_icons=true alt=abel8260 />
@@ -19,7 +15,7 @@ major goal: 🕹️ contribute;
 
 ---
 
-### attributes:
+### github stats :
 
 <p>
   <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=abel8260&layout=compact&show_icons=true alt=abel8260/>
@@ -28,7 +24,7 @@ major goal: 🕹️ contribute;
 
 ---
 
-### book of days:
+### Contribution:
 GitHule 2022-04-23 (abel8260)
 
 🟨🟩⬜🟩🟩
@@ -42,7 +38,7 @@ GitHule 2022-04-23 (abel8260)
 https://githule.vercel.app/
 
 
-# Clan status :
+# Social media :
 
 
 - [![Linkedin abelvb](https://img.shields.io/badge/abelvasconcelosb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelbarbosa23)](https://www.linkedin.com/in/abelbarbosa23/)
@@ -112,7 +108,7 @@ https://githule.vercel.app/
 
 ***
 
-- ### Invetory:
+### Softwares: 
 
 - Main inventory 2022: https://github.com/users/abel8260/projects/10
 
