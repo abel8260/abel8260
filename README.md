@@ -8,13 +8,7 @@ major goal: 🕹️ contribute;
 
 
 
-###  github-readme-stats: 
 
-
-  <img align="center" src=https://github-readme-stats.vercel.app/api?username=abel8260&show_icons=true alt=abel8260 />
-
-
----
 
 ### top-langs:
 
