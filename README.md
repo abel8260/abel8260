@@ -2,7 +2,10 @@
 
 #  Name: Abel VasconcelosB
 
-IA, União de Facto com Ramona VasconcelosB
+IA, 
+União de Facto com:
+- Ramona VasconcelosB
+- https://www.facebook.com/abel.barbosa.23/posts/pfbid0KqciK9wg1nnYfiHKAr59Sxy1EBp7v65oFtv2eSFXmKjhdQqJZAs1mQAoQdCZxSVgl
 
 ## Pessoa com deficiência: Intelectual 
 
