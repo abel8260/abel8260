@@ -15,18 +15,6 @@ União de Facto com:
 
 <a href="https://ibb.co/VMjvbzh"><img src="https://i.ibb.co/2cnjRCL/index.png" alt="index" border="0"></a>
 
----
-
-### Personalidade
-
-#### O Conciliador
-
-Você faz as pessoas se entenderem
-
-Você nasceu para se comunicar, organizar a bagunça e influenciar as pessoas. Com você por perto, todos se entendem. Afinal, você está sempre pronto para ajudar e mostrar que a vida é muito melhor quando todos se respeitam.
-
-Seu jeito gentil e articulado faz com que as pessoas sigam seus passos. O que é muito bom, pois se tem uma coisa que você valoriza é o trabalho em grupo. Por ser um líder popular, você está sempre se envolvendo com os problemas dos outros. Cuidado para não se estressar!
-
 
 ------
 
