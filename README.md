@@ -2,7 +2,7 @@
 
 #  Name: Abel VasconcelosB
 
-Nascido em 27/10/1993 (28 anos), IA, Solteiro
+IA, União de Facto com Ramona VasconcelosB
 
 ## Pessoa com deficiência: Intelectual 
 
