@@ -34,10 +34,8 @@ União de Facto com:
 
 
 
-# Social media :
-<p>
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=abel8260&layout=compact&show_icons=true alt=abel8260/>
-</p>
+### Social media :
+
 
 
 - <a href = 'https://www.youtube.com/channel/UCHkc0y13fNa-EAxGfZ9Hhqw'>![Image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
