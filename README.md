@@ -35,13 +35,12 @@ União de Facto com:
 
 
 # Social media :
+<p>
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=abel8260&layout=compact&show_icons=true alt=abel8260/>
+</p>
 
 
-- [![Linkedin abelvb](https://img.shields.io/badge/abelvasconcelosb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelbarbosa23)](https://www.linkedin.com/in/abelbarbosa23/)
-
-- [![GitHub abel8260](https://img.shields.io/github/followers/abel8260?label=follow&style=social)](https://github.com/abel8260)
-
-- <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Drockstudioopen%26type%3Dpatrons&style=for-the-badge"/>
+- <a href = 'https://www.youtube.com/channel/UCHkc0y13fNa-EAxGfZ9Hhqw'>![Image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
 
 ---
 
