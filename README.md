@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with open source projects
 - ⚡ Fun fact: i love pets
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e2cea2ced78d29353345ec?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e2cea2ced78d29353345ec?variant=dark&roadmaps=computer-science%2Ccpp)](https://roadmap.sh)
