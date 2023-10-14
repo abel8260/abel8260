@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with open source projects
 - ⚡ Fun fact: i love pets
   
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e2cea2ced78d29353345ec?variant=dark)](https://roadmap.sh)
+
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=abel8260&theme=calm)](https://github.com/abel8260)
