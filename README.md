@@ -1,6 +1,5 @@
 ### Hi there 👋. 
 
-- 🔭 I’m currently working on elearnebol as a teacher
 - 🌱 I’m currently learning c++
 - 👯 I’m looking to collaborate on educational projects
 - ⚡ Fun fact: i love pets
