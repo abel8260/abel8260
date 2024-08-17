@@ -1,3 +1,5 @@
+<meta property="og:image" content="https://i.ibb.co/jR33T0w/abel8260-og-img.png" />
+
 <h1 align="center">Hi there 👋, I'm Abel VB</h1>
 
 <p align="center">
