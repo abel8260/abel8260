@@ -22,9 +22,3 @@
     </a>
 </p>
 
----
-
-### 📫 Let's Connect
-
-Feel free to reach out if you're interested in collaborating or just want to chat! 😊
-
