@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green" alt="vercel app"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abel8260&theme=blue-green" alt="vercel app"/>
 
 ---
 ### 🌱 About Me
