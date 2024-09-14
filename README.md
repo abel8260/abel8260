@@ -9,9 +9,9 @@
 </p>
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=abel8260&theme=blue-green" alt="vercel app"/>
-
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=abel8260&theme=blue-green" alt="vercel app"/>
+</p>
 ---
 ### 🌱 About Me
 
