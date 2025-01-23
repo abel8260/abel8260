@@ -20,7 +20,7 @@
 
 <p align="center">
     <a href="https://roadmap.sh">
-        <img src="https://api.roadmap.sh/v1-badge/tall/64e2cea2ced78d29353345ec?variant=dark" alt="roadmap.sh"/>
+      [![roadmap.sh](https://roadmap.sh/card/tall/64e2cea2ced78d29353345ec?variant=dark)](https://roadmap.sh)  
     </a>
 </p>
 
